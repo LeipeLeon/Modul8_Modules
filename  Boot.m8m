@@ -5,14 +5,111 @@
 	<key>AUTHOR</key>
 	<string>Leon Berenschot</string>
 	<key>CONTROLS</key>
-	<array/>
+	<array>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>BOOT!</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>5.8023322409206665e-316</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>-4.5538542912540668e-172</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>13</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>4.5379339271177852e-307</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.5379338340883331e-307</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>-2.2886567635636446e-169</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>-2.2887726033783601e-169</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>CENTER</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>TEXTCAPTIONW</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>1</integer>
+			<key>WIDTH</key>
+			<real>75</real>
+			<key>X</key>
+			<real>6</real>
+			<key>Y</key>
+			<real>4</real>
+		</dict>
+	</array>
 	<key>DESCRIPTION</key>
 	<string>- set preview to out
 - set testcard in first layer</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<false/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
@@ -66,8 +163,8 @@ if modul8.getValue('info_projectName',-1) == 'untitled project' :
 	<key>VERSION</key>
 	<string>1.0</string>
 	<key>WINDOW_HEIGHT</key>
-	<real>280</real>
+	<real>40</real>
 	<key>WINDOW_WIDTH</key>
-	<real>400</real>
+	<real>86</real>
 </dict>
 </plist>
