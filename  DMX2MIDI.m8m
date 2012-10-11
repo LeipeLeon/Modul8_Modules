@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTHOR</key>
+	<string>Leon Berenschot</string>
+	<key>CONTROLS</key>
+	<array>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>DMX2MIDI</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>15.6171875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.2984037301040006e-193</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>CENTER</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>TEXTCAPTIONW</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>1</integer>
+			<key>WIDTH</key>
+			<real>86.30859375</real>
+			<key>X</key>
+			<real>0.0</real>
+			<key>Y</key>
+			<real>2</real>
+		</dict>
+	</array>
+	<key>DESCRIPTION</key>
+	<string></string>
+	<key>MODULE_AUTOFLUSH</key>
+	<false/>
+	<key>MODULE_CONTROL_ID_COUNTER</key>
+	<integer>1</integer>
+	<key>MODULE_LAYER_CONTEXTUAL</key>
+	<false/>
+	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
+	<true/>
+	<key>MODULE_TITLEBAR_B</key>
+	<real>0.20392157137393951</real>
+	<key>MODULE_TITLEBAR_G</key>
+	<real>0.13333334028720856</real>
+	<key>MODULE_TITLEBAR_R</key>
+	<real>0.08235294371843338</real>
+	<key>PREFERENCES</key>
+	<dict>
+		<key>SCRIPT_STATE</key>
+		<string>PLAYING</string>
+		<key>WINDOW_HIDDEN</key>
+		<false/>
+		<key>WINDOW_MINIMIZED</key>
+		<false/>
+		<key>WINDOW_X</key>
+		<real>0.0</real>
+		<key>WINDOW_Y</key>
+		<real>40</real>
+	</dict>
+	<key>SCRIPT_CLEANUP</key>
+	<string></string>
+	<key>SCRIPT_DESERIALIZE</key>
+	<string></string>
+	<key>SCRIPT_EVENT</key>
+	<string>
+if type == 'DMX':
+	# {'universe': 0, 'channel': value, 'value': integer, 'timestamp': float}
+	# param['universe']: 1
+	# param['channel']:  1-512
+	# param['value']:       0-255 (conversion to 0-1: param['value']/255.0, conversion to 0-127: param['value']/2)
+
+	# Send midi to channel
+	# modul8.sendMidi(deviceID, channel, message, param1, param2)
+	modul8.sendMidi('IAC-besturingsbestand - DMXFromModul8', 14, 'CONTROL_CHANGE', param['channel'], (param['value']/2))
+	if log :
+		 print 'RECEIVE DMX -&gt; CHANNEL:', param['channel'], 'VALUE DMX:',param ['value'], 'VALUE MIDI: ', (param['value']/2)</string>
+	<key>SCRIPT_INIT</key>
+	<string>#
+if modul8.getValue ('direct_version',0) &lt; 2.6 : module.stop() #not working before the v2.6
+#
+
+
+def SendDmx () :
+	
+	pass
+</string>
+	<key>SCRIPT_KEYWORDEVENT</key>
+	<string></string>
+	<key>SCRIPT_MESSAGE</key>
+	<string></string>
+	<key>SCRIPT_PAUSEEVENT</key>
+	<string></string>
+	<key>SCRIPT_PERIODICAL</key>
+	<string></string>
+	<key>SCRIPT_SERIALIZE</key>
+	<string></string>
+	<key>SHORT_DESCRIPTION</key>
+	<string>map DMX channels to MIDI CC</string>
+	<key>VERSION</key>
+	<string>0.1</string>
+	<key>WINDOW_HEIGHT</key>
+	<real>40</real>
+	<key>WINDOW_WIDTH</key>
+	<real>90</real>
+</dict>
+</plist>
