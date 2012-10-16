@@ -158,6 +158,21 @@ if modul8.getValue ('direct_version',0) &lt; 2.6 : module.stop() #not working be
 def SendDmx () :
 	
 	pass
+
+
+#Translate from Modul8 to MIDI values
+#MIDi values are in the range 0-127	 and Modul8 values are in the 0-1 range
+def TranslateFromM8ToMidi(keyword, m8Val):
+	if keyword != None and m8Val != None:
+		#print 'keyword: ', keyword, 'm8val: ', m8Val
+		#Invert the midi value when hiding/displaying a layer so that hidden=button off and visible=button on
+		if keyword == 'ctrl_layer_hidden':
+			m8Val = abs(m8Val - 1)
+		if keyword in SpecialKeywords:
+			midiVal = m8Val / SpecialKeywords[keyword]
+		else:
+			midiVal = m8Val * 127.0
+		return int(midiVal)
 </string>
 	<key>SCRIPT_KEYWORDEVENT</key>
 	<string></string>
