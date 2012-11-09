@@ -137,8 +137,7 @@
 	<key>SCRIPT_DESERIALIZE</key>
 	<string></string>
 	<key>SCRIPT_EVENT</key>
-	<string>
-if type == 'DMX':
+	<string>if type == 'DMX':
 	# {'universe': 0, 'channel': value, 'value': integer, 'timestamp': float}
 	# param['universe']: 1
 	# param['channel']:  1-512
@@ -146,13 +145,17 @@ if type == 'DMX':
 
 	# Send midi to channel
 	# modul8.sendMidi(deviceID, channel, message, param1, param2)
-	modul8.sendMidi('IAC-besturingsbestand - DMXFromModul8', 14, 'CONTROL_CHANGE', param['channel'], (param['value']/2))
+	
+	modul8.sendMidi(midiBus, midiChannel, 'CONTROL_CHANGE', param['channel']-200, (param['value']/2))
 	if log :
-		 print 'RECEIVE DMX -&gt; CHANNEL:', param['channel'], 'VALUE DMX:',param ['value'], 'VALUE MIDI: ', (param['value']/2)</string>
+		 print 'RECEIVE DMX -&gt; CHANNEL:', param['channel']-200, 'VALUE DMX:',param ['value'], 'VALUE MIDI: ', (param['value']/2)</string>
 	<key>SCRIPT_INIT</key>
 	<string>#
 if modul8.getValue ('direct_version',0) &lt; 2.6 : module.stop() #not working before the v2.6
 #
+
+midiChannel = 'IAC - DMX2MIDI'
+midiBus = 14
 
 
 def SendDmx () :
