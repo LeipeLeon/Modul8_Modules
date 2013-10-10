@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string>Leon Berenschot</string>
+	<string></string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
 			<key>AUTOSERIALIZE</key>
 			<integer>0</integer>
 			<key>CAPTION</key>
-			<string>DMX2MIDI</string>
+			<string>Untitled</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
@@ -22,15 +22,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
+			<real>4.1529087650672215e+18</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>0.0</real>
+			<real>4.0616580960548357e+18</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>15.6171875</real>
+			<real>456</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -64,11 +64,11 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>4.2984037301040006e-193</real>
+			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>0.0</real>
 			<key>NAME</key>
-			<string>Untitled</string>
+			<string>listOfMedia</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -80,27 +80,27 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string></string>
+			<string>setMedia</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
 			<true/>
 			<key>TEXT_ALIGNEMENT</key>
-			<string>CENTER</string>
+			<string>LEFT</string>
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
-			<string>TEXTCAPTIONW</string>
+			<string>LISTBOX</string>
 			<key>UI_MAPS</key>
 			<array/>
 			<key>UNIQUE_ID</key>
 			<integer>1</integer>
 			<key>WIDTH</key>
-			<real>86.30859375</real>
+			<real>199</real>
 			<key>X</key>
-			<real>0.0</real>
+			<real>1</real>
 			<key>Y</key>
-			<real>2</real>
+			<real>1</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
@@ -108,13 +108,13 @@
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>1</integer>
+	<integer>3</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<false/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
 	<true/>
 	<key>MODULE_TITLEBAR_B</key>
-	<real>0.20392157137393951</real>
+	<real>0.20392158627510071</real>
 	<key>MODULE_TITLEBAR_G</key>
 	<real>0.13333334028720856</real>
 	<key>MODULE_TITLEBAR_R</key>
@@ -128,72 +128,96 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>0.0</real>
+		<real>436</real>
 		<key>WINDOW_Y</key>
-		<real>171</real>
+		<real>1162</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
 	<key>SCRIPT_DESERIALIZE</key>
 	<string></string>
 	<key>SCRIPT_EVENT</key>
-	<string>if type == 'DMX':
-	# {'universe': 0, 'channel': value, 'value': integer, 'timestamp': float}
-	# param['universe']: 1
-	# param['channel']:  1-512
-	# param['value']:       0-255 (conversion to 0-1: param['value']/255.0, conversion to 0-127: param['value']/2)
-
-	# Send midi to channel
-	# modul8.sendMidi(deviceID, channel, message, param1, param2)
-	
-	modul8.sendMidi(midiBus, midiChannel, 'CONTROL_CHANGE', param['channel']-200, (param['value']/2))
-	if log :
-		 print 'RECEIVE DMX -&gt; CHANNEL:', param['channel']-200, 'VALUE DMX:',param ['value'], 'VALUE MIDI: ', (param['value']/2)</string>
+	<string></string>
 	<key>SCRIPT_INIT</key>
 	<string>#
-if modul8.getValue ('direct_version',0) &lt; 2.6 : module.stop() #not working before the v2.6
+focusLayerPos = modul8.getValue('ctrl_layerStack_focusPosition',0)
+feedbackLock = False
+listOfMedia = []
+
 #
 
-midiChannel = 'IAC - DMX2MIDI'
-midiBus = 14
 
-
-def SendDmx () :
+#Methods
+def updateListOfmedia() :
+	global listOfMedia
 	
-	pass
+	listOfMediaNew = modul8.getValue('info_media_names',0)
+	if listOfMediaNew != listOfMedia :
+		
+		listOfMedia = listOfMediaNew
+		module.setAttribute('listOfMedia','TEXTLIST', listOfMedia)
+					
+def updateSelection():
+	selection = modul8.getValue ('ctrl_layer_media',0)
+	if selection &lt; 127 :
+			
+		module.setValue ('listOfMedia', 0, selection)
+	else :
+		module.setValue ('listOfMedia', 0, 999)
+#
 
-
-#Translate from Modul8 to MIDI values
-#MIDi values are in the range 0-127	 and Modul8 values are in the 0-1 range
-def TranslateFromM8ToMidi(keyword, m8Val):
-	if keyword != None and m8Val != None:
-		#print 'keyword: ', keyword, 'm8val: ', m8Val
-		#Invert the midi value when hiding/displaying a layer so that hidden=button off and visible=button on
-		if keyword == 'ctrl_layer_hidden':
-			m8Val = abs(m8Val - 1)
-		if keyword in SpecialKeywords:
-			midiVal = m8Val / SpecialKeywords[keyword]
-		else:
-			midiVal = m8Val * 127.0
-		return int(midiVal)
+#INIT
+updateListOfmedia()
+updateSelection()
+#
 </string>
 	<key>SCRIPT_KEYWORDEVENT</key>
-	<string></string>
+	<string>if not feedbackLock :
+
+	if keyword == 'direct_media_change' :
+		
+		updateListOfmedia()
+	
+
+	elif keyword == 'ctrl_layerStack_focusPosition' :
+		
+		focusLayerPos = param
+		updateSelection()
+	
+	elif keyword == 'ctrl_layer_media' and layer ==  focusLayerPos :
+		
+		updateSelection()
+		
+		
+		
+		
+		
+		
+		
+		</string>
 	<key>SCRIPT_MESSAGE</key>
-	<string></string>
+	<string>if msg == 'setMedia':
+	feedbackLock = True
+	
+	modul8.setValue('ctrl_layer_media',int(param['selection']),0)
+	
+	feedbackLock = False</string>
 	<key>SCRIPT_PAUSEEVENT</key>
-	<string></string>
+	<string>if  paused == 0 : 
+	updateListOfmedia()
+	focusLayerPos = modul8.getValue('ctrl_layerStack_focusPosition',0)
+	updateSelection()</string>
 	<key>SCRIPT_PERIODICAL</key>
 	<string></string>
 	<key>SCRIPT_SERIALIZE</key>
 	<string></string>
 	<key>SHORT_DESCRIPTION</key>
-	<string>map DMX channels to MIDI CC</string>
+	<string></string>
 	<key>VERSION</key>
-	<string>0.1</string>
+	<string></string>
 	<key>WINDOW_HEIGHT</key>
-	<real>40</real>
+	<real>480</real>
 	<key>WINDOW_WIDTH</key>
-	<real>90</real>
+	<real>200</real>
 </dict>
 </plist>

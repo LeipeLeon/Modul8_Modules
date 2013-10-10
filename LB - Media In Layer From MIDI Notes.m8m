@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTHOR</key>
+	<string>Lance Blisters</string>
+	<key>CONTROLS</key>
+	<array>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>media time position from note velocity</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>8.4879831638610893e-314</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>1.9762625833649862e-323</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>5.2635442471208903e-315</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>8.4879831638610893e-314</real>
+			<key>NAME</key>
+			<string>positionFromVelocity</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>positionFromVelocity</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>CHECKBOX</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>2</integer>
+			<key>WIDTH</key>
+			<real>219</real>
+			<key>X</key>
+			<real>8</real>
+			<key>Y</key>
+			<real>18</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Don't retrigger same clip</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>8.4879831638610893e-314</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>12</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>1.9762625833649862e-323</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>5.2635442471208903e-315</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>8.4879831638610893e-314</real>
+			<key>NAME</key>
+			<string>dontRetriggerSameClip</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>dontRetriggerSameClip</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>CHECKBOX</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>3</integer>
+			<key>WIDTH</key>
+			<real>219</real>
+			<key>X</key>
+			<real>8</real>
+			<key>Y</key>
+			<real>3</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Module Active</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>3.2066445090148729e-304</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>12</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>active</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>active</string>
+			<key>SELECTED</key>
+			<true/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>4</integer>
+			<key>WIDTH</key>
+			<real>88</real>
+			<key>X</key>
+			<real>209</real>
+			<key>Y</key>
+			<real>35</real>
+		</dict>
+	</array>
+	<key>DESCRIPTION</key>
+	<string>MIDI Channel (1-10) determines which layer is targetted.  MIDI Note Idx (0-127) determines which media is loaded into that layer.  The layer becomes active with the Note On event, and inactive with the Note Off event - e.g. the layer is visible while the note is held.  The "active" toggle allows the module to be bypassed - because the "active" state is saved and loaded on a per-project basis, this may be a better option than manually turning the module off and on.  The "media position from note velocity" toggle enables position control; velocity of 1 will play the media from frame 1, etc.  If the media is more than 127 frames, then the velocity values will map to 1/127 of playing time, allowing not-quite-frame-accurate access to the entire run time of the media.  MIDI note events in channels 11-16 are ignored, so you can use those events for other types of control via "Edit MIDI Map".  You might use this module with a MIDI timeline dedicated to video control, or you might use it by assigning clips to each note idx used by an existing MIDI melody/drum pattern.</string>
+	<key>MODULE_AUTOFLUSH</key>
+	<false/>
+	<key>MODULE_CONTROL_ID_COUNTER</key>
+	<integer>4</integer>
+	<key>MODULE_LAYER_CONTEXTUAL</key>
+	<false/>
+	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
+	<true/>
+	<key>MODULE_TITLEBAR_B</key>
+	<real>0.20392157137393951</real>
+	<key>MODULE_TITLEBAR_G</key>
+	<real>0.13333334028720856</real>
+	<key>MODULE_TITLEBAR_R</key>
+	<real>0.08235294371843338</real>
+	<key>PREFERENCES</key>
+	<dict>
+		<key>SCRIPT_STATE</key>
+		<string>STOPPED</string>
+		<key>WINDOW_HIDDEN</key>
+		<true/>
+		<key>WINDOW_MINIMIZED</key>
+		<false/>
+		<key>WINDOW_X</key>
+		<real>1479</real>
+		<key>WINDOW_Y</key>
+		<real>861</real>
+	</dict>
+	<key>SCRIPT_CLEANUP</key>
+	<string></string>
+	<key>SCRIPT_DESERIALIZE</key>
+	<string></string>
+	<key>SCRIPT_EVENT</key>
+	<string>
+
+# Follow MIDI events
+if active and type == 'MIDI':
+	midiChannel = param ['channel']
+	if param['message'] == 'NOTE_ON' or param['message'] == 'NOTE_OFF':
+		midiNoteNumber = int(param ['param1'])
+		midiVelocity = int(param['param2'])
+		
+		# layer from MIDI channel, media from note number
+		mLayer = midiChannel
+		mMedia = midiNoteNumber
+		
+		if debug:
+			print "MediaFromMIDINote: DirectEvent channel/layer=", mLayer, " note/media=", mMedia
+
+		# Handle note on case
+		if param['message'] == 'NOTE_ON' and midiVelocity != 0:
+			
+			# Set media unless dontRetriggerSameClip is set and this media is already in the layer
+			if (not dontRetriggerSameClip) or mMedia != modul8.getValue('ctrl_layer_media', mLayer):
+				modul8.setValue('ctrl_layer_media', mMedia , mLayer)
+			
+			# Optionally set the media position based on the note velocity
+			if positionFromVelocity:
+				lastFrameIdx = modul8.getValue('info_layer_media_nFrames', mLayer) -1
+				mediaFPS = modul8.getValue('info_layer_media_fps', mLayer)
+				if lastFrameIdx &gt;= 0 and mediaFPS &gt; 0:	# Make sure a media is actually loaded
+					secondsPerFrame = 1.0/mediaFPS
+					frame = midiVelocity-1			# -1 because min velocity is 1 but frames idx from 0
+					if lastFrameIdx &gt; 126:			# there is no velocity 0 for Note On -&gt; only 127 frames
+						frame = int(1.0 * (midiVelocity-1) * lastFrameIdx / 127.0)
+						
+					modul8.setValue('direct_layer_movie_timePositionSec', secondsPerFrame*frame, mLayer)
+			#else:
+				# Attempt to avoid flashing when 
+
+			modul8.setValue('ctrl_layer_hidden', False, mLayer)
+			
+		# Handle note off case
+		else:	
+			modul8.setValue('ctrl_layer_hidden', True, mLayer)
+		
+			# Attempt to "clear" the layer in the least kludgy was possible, so that when it is turned back on, it won't flash the old media/frame
+		
+
+
+
+
+# layer alpha from velocity
+# some kind of generic velocity -&gt; alpha/scale/etc mapping? using sniff/macro type facility?  maybe best for a different module
+
+
+# Consider Total Note Control; either a monolithic module or a series of simple modules.
+# Are layers turned on/off with note events?  note id, channel, velocity?
+# Is media set in layer from note events?  note idx, channel, velocity?
+# Is playback position set from note events? note idx, channel, velocity?
+# Are layer params set from note events? note idx, channel, velocity?
+## EG - alpha, scale, position, rotation, RGB, etc
+# Allowing flexible control of the above would work around limits such as Ableton only controlling one MIDI channel per mixer strip
+
+# Consider a MIDI CC -&gt; layer param module; for people who are working with a MIDI timeline, looking up what CC to use to control something is much simpler than creating dynamic bindings all the time.  So create a table:
+# 0 -&gt; ctrl_layer_speed
+# 1 -&gt; ctrl_layer_movie_shuttle_1
+# etc
+				</string>
+	<key>SCRIPT_INIT</key>
+	<string>active = True
+positionFromVelocity = False
+dontRetriggerSameClip = False
+
+debug = False</string>
+	<key>SCRIPT_KEYWORDEVENT</key>
+	<string></string>
+	<key>SCRIPT_MESSAGE</key>
+	<string>#print "MediaFromMIDINote: MessageEvent: msg=", msg, "param=", param
+
+if param['NAME'] == "active":
+	if param['value'] &gt; 0.0:
+		active = True
+	else:
+		active = False
+		
+if param['NAME'] == "positionFromVelocity":
+	if param['value'] &gt; 0.0:
+		positionFromVelocity = True
+	else:
+		positionFromVelocity = False
+		
+if param['NAME'] == "dontRetriggerSameClip":
+	if param['value'] &gt; 0.0:
+		dontRetriggerSameClip = True
+	else:
+		dontRetriggerSameClip = False</string>
+	<key>SCRIPT_PAUSEEVENT</key>
+	<string></string>
+	<key>SCRIPT_PERIODICAL</key>
+	<string></string>
+	<key>SCRIPT_SERIALIZE</key>
+	<string></string>
+	<key>SHORT_DESCRIPTION</key>
+	<string>Direct, intuitive control over media and layers via MIDI notes</string>
+	<key>VERSION</key>
+	<string>0.1</string>
+	<key>WINDOW_HEIGHT</key>
+	<real>72</real>
+	<key>WINDOW_WIDTH</key>
+	<real>300</real>
+</dict>
+</plist>

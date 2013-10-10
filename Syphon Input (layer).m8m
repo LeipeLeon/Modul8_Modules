@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTHOR</key>
+	<string>Boris, GarageCube</string>
+	<key>CONTROLS</key>
+	<array>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>3.8047384532007333e-311</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>4.1399993108210687e-158</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>175</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>TEXT</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>4.1378917923857395e-311</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>1.2756148526651116e-307</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>2.121995791459338e-314</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>4.9406564584124654e-324</real>
+			<key>NAME</key>
+			<string>syphonList</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>SYPHON</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>LISTBOX</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>1</integer>
+			<key>WIDTH</key>
+			<real>366</real>
+			<key>X</key>
+			<real>16</real>
+			<key>Y</key>
+			<real>20</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Syphon servers</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-1.7903688383024142e+249</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>13</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>2.2625630760931584e+188</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>3.1665902941655703e-67</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>TEXTCAPTIONG</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>2</integer>
+			<key>WIDTH</key>
+			<real>249</real>
+			<key>X</key>
+			<real>15</real>
+			<key>Y</key>
+			<real>204</real>
+		</dict>
+	</array>
+	<key>DESCRIPTION</key>
+	<string>Compatible since Modul8 version 2.7  </string>
+	<key>MODULE_AUTOFLUSH</key>
+	<false/>
+	<key>MODULE_CONTROL_ID_COUNTER</key>
+	<integer>2</integer>
+	<key>MODULE_LAYER_CONTEXTUAL</key>
+	<false/>
+	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
+	<true/>
+	<key>MODULE_TITLEBAR_B</key>
+	<real>0.20392157137393951</real>
+	<key>MODULE_TITLEBAR_G</key>
+	<real>0.13333334028720856</real>
+	<key>MODULE_TITLEBAR_R</key>
+	<real>0.08235294371843338</real>
+	<key>PREFERENCES</key>
+	<dict>
+		<key>SCRIPT_STATE</key>
+		<string>STOPPED</string>
+		<key>WINDOW_HIDDEN</key>
+		<true/>
+		<key>WINDOW_MINIMIZED</key>
+		<false/>
+		<key>WINDOW_X</key>
+		<real>21</real>
+		<key>WINDOW_Y</key>
+		<real>109</real>
+	</dict>
+	<key>SCRIPT_CLEANUP</key>
+	<string></string>
+	<key>SCRIPT_DESERIALIZE</key>
+	<string></string>
+	<key>SCRIPT_EVENT</key>
+	<string></string>
+	<key>SCRIPT_INIT</key>
+	<string>#Syphon input module ©Garagecube SA 2012
+
+global serverDict, syphonList
+
+autorizeFeedBack = True
+
+syphonList = []
+serverDict = {}
+polCounter = 0
+
+
+def updateSyphonList () :
+	
+	global syphonList, serverDict
+	
+	if serverDict != modul8.getValue ('info_syphon_input_dict',0) :
+		serverDict = modul8.getValue ('info_syphon_input_dict',0)
+		
+		syphonList = []
+		
+		
+		if serverDict : #problem if no layer activated
+			
+			
+			if not autorizeFeedBack :
+			
+				for appName,names in serverDict.items() :
+					if not appName.startswith ('Modul8') : #Do not add the Modul8 syphon in the list
+						for name in names :
+							listName =  appName +' - ' + name
+							syphonList.append (listName)
+						
+			else :
+				for appName,names in serverDict.items() :
+					for name in names :
+						listName =  appName +' - ' + name
+						syphonList.append (listName)				
+		
+		
+		module.setAttribute('syphonList','TEXTLIST', syphonList)
+		
+def updateSelection () :
+	
+	if modul8.getValue ('ctrl_layer_media',0) == 128 :
+		syphon = modul8.getValue('direct_layer_syphon_input',0)
+		syphonSelect = syphon[0] + ' - ' + syphon[1]
+		module.setValue('syphonList','selection', syphonSelect)
+	else :
+		module.setValue('syphonList','selection', '  ')
+	
+
+
+updateSyphonList()
+updateSelection ()
+
+</string>
+	<key>SCRIPT_KEYWORDEVENT</key>
+	<string>if keyword == 'ctrl_layer_media' :
+	updateSelection ()
+elif keyword == 'ctrl_layerStack_focusPosition' :
+	updateSelection ()
+	</string>
+	<key>SCRIPT_MESSAGE</key>
+	<string>if msg == 'SYPHON' :
+	
+	appAndName = param ['selection']
+	
+	appAndNameList = appAndName.split (' - ')
+	
+	if len (appAndNameList) &gt; 1 :
+		appName = appAndNameList[0]
+		# correct [Bug 520] AirServer Syphon output does not work as Modul8 Syphon input
+		# AirServer is using " - " in the name field
+		name = ' - '.join(appAndNameList[1:])
+	
+		modul8.setValue ('direct_layer_syphon_input',[appName, name],0)
+	
+		#auto syphon select
+		if modul8.getValue ('ctrl_layer_media',0) != 128 :
+			modul8.setValue ('ctrl_layer_media',128,0)
+			modul8.setValue ('ctrl_layer_mediaSet',8,0)</string>
+	<key>SCRIPT_PAUSEEVENT</key>
+	<string></string>
+	<key>SCRIPT_PERIODICAL</key>
+	<string>polCounter += elapsed 
+	
+if polCounter &gt; 1 : #every second
+	
+	polCounter = 0
+	updateSyphonList()
+	updateSelection ()
+		</string>
+	<key>SCRIPT_SERIALIZE</key>
+	<string></string>
+	<key>SHORT_DESCRIPTION</key>
+	<string>Select a Syphon source</string>
+	<key>VERSION</key>
+	<string>1.0</string>
+	<key>WINDOW_HEIGHT</key>
+	<real>250</real>
+	<key>WINDOW_WIDTH</key>
+	<real>400</real>
+</dict>
+</plist>
