@@ -64545,9 +64545,9 @@ V1.5 fix some serializations problems, with files projects and layers duplicatio
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>447</real>
+		<real>600</real>
 		<key>WINDOW_Y</key>
-		<real>1162</real>
+		<real>166</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>

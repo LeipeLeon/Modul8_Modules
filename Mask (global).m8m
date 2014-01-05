@@ -8177,7 +8177,7 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
