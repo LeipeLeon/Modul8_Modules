@@ -8179,13 +8179,13 @@
 		<key>SCRIPT_STATE</key>
 		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>92</real>
+		<real>1408</real>
 		<key>WINDOW_Y</key>
-		<real>32</real>
+		<real>629</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

@@ -6034,9 +6034,9 @@ There are some bugs, none seem to affect stability in anyway but I want to fix -
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>570</real>
+		<real>800</real>
 		<key>WINDOW_Y</key>
-		<real>161</real>
+		<real>151</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

@@ -21638,9 +21638,9 @@ V1.1 Adds support for (FF) IscRGBOffset1</string>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1434</real>
+		<real>800</real>
 		<key>WINDOW_Y</key>
-		<real>733</real>
+		<real>351</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

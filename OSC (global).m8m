@@ -1679,15 +1679,15 @@ v 0.91 -&gt; add bundle support, add multiples values, feed back for multiples v
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1620</real>
+		<real>1520</real>
 		<key>WINDOW_Y</key>
-		<real>528</real>
+		<real>72</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>initSocketListener (0)

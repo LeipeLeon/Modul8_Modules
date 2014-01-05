@@ -898,9 +898,9 @@ V1.1 add the ability to select and copy/past events.</string>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>15</real>
+		<real>-5</real>
 		<key>WINDOW_Y</key>
-		<real>21</real>
+		<real>18</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

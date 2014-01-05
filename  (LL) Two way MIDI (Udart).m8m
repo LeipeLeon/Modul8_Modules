@@ -3722,11 +3722,11 @@
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>574</real>
+		<real>1027</real>
 		<key>WINDOW_Y</key>
-		<real>408</real>
+		<real>649</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>Defaults = {

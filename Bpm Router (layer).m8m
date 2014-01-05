@@ -2728,15 +2728,15 @@ Fix Phase error</string>
 			<string>(g3_INT)0</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>1114</real>
+		<real>570</real>
 		<key>WINDOW_Y</key>
-		<real>406</real>
+		<real>60</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>

@@ -67049,9 +67049,9 @@ V1.5 fix some serializations problems, with files projects and layers duplicatio
 		<key>WINDOW_MINIMIZED</key>
 		<true/>
 		<key>WINDOW_X</key>
-		<real>-1</real>
+		<real>3</real>
 		<key>WINDOW_Y</key>
-		<real>360</real>
+		<real>305</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>modul8.setFilters({}, 0, postFilters)

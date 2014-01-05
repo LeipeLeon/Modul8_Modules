@@ -4864,7 +4864,7 @@ v1.1 Update: (Nov 2011)
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
 		<real>1</real>
 		<key>WINDOW_Y</key>

@@ -5970,9 +5970,9 @@ V 1.1
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>504</real>
+		<real>799</real>
 		<key>WINDOW_Y</key>
-		<real>196</real>
+		<real>279</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

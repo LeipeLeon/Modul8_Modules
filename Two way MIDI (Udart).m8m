@@ -3678,7 +3678,7 @@
 			<key>(g3_ASCII)DefaultMidiMap</key>
 			<array/>
 			<key>(g3_ASCII)MIDIDevice</key>
-			<string>(g3_ASCII)None</string>
+			<string>IAC Driver - WaveClock_BPM</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
 		<string>PLAYING</string>
@@ -3687,9 +3687,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<true/>
 		<key>WINDOW_X</key>
-		<real>976</real>
+		<real>1122</real>
 		<key>WINDOW_Y</key>
-		<real>676</real>
+		<real>653</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>Defaults = {

@@ -2245,15 +2245,15 @@
 			<string>helloa</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>662</real>
+		<real>23</real>
 		<key>WINDOW_Y</key>
-		<real>128</real>
+		<real>91</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
