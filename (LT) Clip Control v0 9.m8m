@@ -6032,11 +6032,11 @@ There are some bugs, none seem to affect stability in anyway but I want to fix -
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<false/>
+		<true/>
 		<key>WINDOW_X</key>
-		<real>800</real>
+		<real>795</real>
 		<key>WINDOW_Y</key>
-		<real>151</real>
+		<real>162</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

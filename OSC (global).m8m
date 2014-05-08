@@ -1685,9 +1685,9 @@ v 0.91 -&gt; add bundle support, add multiples values, feed back for multiples v
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1520</real>
+		<real>1380</real>
 		<key>WINDOW_Y</key>
-		<real>72</real>
+		<real>978</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>initSocketListener (0)

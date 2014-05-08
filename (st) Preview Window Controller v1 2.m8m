@@ -5966,13 +5966,13 @@ V 1.1
 		<key>SCRIPT_STATE</key>
 		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
+		<false/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>799</real>
+		<real>-2</real>
 		<key>WINDOW_Y</key>
-		<real>279</real>
+		<real>335</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

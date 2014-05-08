@@ -2156,9 +2156,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>117</real>
+		<real>1477</real>
 		<key>WINDOW_Y</key>
-		<real>331</real>
+		<real>948</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>module.setDefaults ({'favoritesFontList': favoritesFontList})</string>

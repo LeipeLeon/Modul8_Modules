@@ -22,6 +22,198 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>4.1720134847010224e-309</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.327179740396188e-314</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>66</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>2.1219957904712067e-314</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>1.529738277723701e-308</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>0.0</real>
+			<key>RADIUS_1</key>
+			<real>0.0</real>
+			<key>RADIUS_2</key>
+			<real>0.0</real>
+			<key>RADIUS_3</key>
+			<real>0.0</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>ROUNDBOX4</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>67</integer>
+			<key>WIDTH</key>
+			<real>647</real>
+			<key>X</key>
+			<real>0.0</real>
+			<key>Y</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.1968056263731853e-311</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>8.4879833654398728e-314</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>63</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>134217761.81298828</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>5.8546795155816448e+17</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.2439919406222035e-314</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>1.4987986596763425e+20</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>12.127659797668457</real>
+			<key>RADIUS_1</key>
+			<real>0.0</real>
+			<key>RADIUS_2</key>
+			<real>0.0</real>
+			<key>RADIUS_3</key>
+			<real>0.0</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>ROUNDBOX2</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>161</integer>
+			<key>WIDTH</key>
+			<real>172</real>
+			<key>X</key>
+			<real>4</real>
+			<key>Y</key>
+			<real>2</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
 			<real>6.039359996840935e-155</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
@@ -118,9 +310,9 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
+			<real>3.1026476485186571e-302</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>0.0</real>
+			<real>2.1220596178238616e-314</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
@@ -148,7 +340,7 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
+			<real>nan</real>
 			<key>MAX_FLOAT_VALUE_5</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_0</key>
@@ -164,7 +356,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>0.0</real>
 			<key>NAME</key>
-			<string>timepos</string>
+			<string>UIscrubBar</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -176,7 +368,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>clipPosition</string>
+			<string>scrubBar</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -186,17 +378,17 @@
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
-			<string>HSLIDER</string>
+			<string>DRAWVIEW</string>
 			<key>UI_MAPS</key>
 			<array/>
 			<key>UNIQUE_ID</key>
-			<integer>148</integer>
+			<integer>234</integer>
 			<key>WIDTH</key>
-			<real>462</real>
+			<real>458</real>
 			<key>X</key>
-			<real>182</real>
+			<real>184</real>
 			<key>Y</key>
-			<real>72</real>
+			<real>71</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1942,102 +2134,6 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>4.1720134847010224e-309</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>1.327179740396188e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string></string>
-			<key>HEIGHT</key>
-			<real>66</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>2.1219957904712067e-314</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.529738277723701e-308</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>0.0</real>
-			<key>RADIUS_1</key>
-			<real>0.0</real>
-			<key>RADIUS_2</key>
-			<real>0.0</real>
-			<key>RADIUS_3</key>
-			<real>0.0</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>ROUNDBOX4</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>67</integer>
-			<key>WIDTH</key>
-			<real>647</real>
-			<key>X</key>
-			<real>0.0</real>
-			<key>Y</key>
-			<real>0.0</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
 			<real>100663296</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
 			<real>4.7882734360101848e-314</real>
@@ -2692,7 +2788,7 @@
 			<key>X</key>
 			<real>192</real>
 			<key>Y</key>
-			<real>24</real>
+			<real>26</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2786,9 +2882,9 @@
 			<key>WIDTH</key>
 			<real>19</real>
 			<key>X</key>
-			<real>192</real>
+			<real>191</real>
 			<key>Y</key>
-			<real>10</real>
+			<real>12</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2814,7 +2910,7 @@
 			<key>GROUP</key>
 			<string>autoLp</string>
 			<key>HEIGHT</key>
-			<real>20</real>
+			<real>18</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -2884,7 +2980,7 @@
 			<key>X</key>
 			<real>186</real>
 			<key>Y</key>
-			<real>39</real>
+			<real>41</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -3072,7 +3168,7 @@
 			<key>UNIQUE_ID</key>
 			<integer>54</integer>
 			<key>WIDTH</key>
-			<real>83</real>
+			<real>84</real>
 			<key>X</key>
 			<real>299</real>
 			<key>Y</key>
@@ -4320,7 +4416,7 @@
 			<key>UNIQUE_ID</key>
 			<integer>119</integer>
 			<key>WIDTH</key>
-			<real>101</real>
+			<real>100</real>
 			<key>X</key>
 			<real>1</real>
 			<key>Y</key>
@@ -4446,7 +4542,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>14</real>
+			<real>23</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -4512,11 +4608,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>123</integer>
 			<key>WIDTH</key>
-			<real>60</real>
+			<real>51</real>
 			<key>X</key>
-			<real>114</real>
+			<real>13</real>
 			<key>Y</key>
-			<real>6</real>
+			<real>32</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -5569,7 +5665,7 @@
 			<key>UNIQUE_ID</key>
 			<integer>167</integer>
 			<key>WIDTH</key>
-			<real>170</real>
+			<real>169</real>
 			<key>X</key>
 			<real>6</real>
 			<key>Y</key>
@@ -6721,7 +6817,7 @@
 			<key>UNIQUE_ID</key>
 			<integer>181</integer>
 			<key>WIDTH</key>
-			<real>40</real>
+			<real>34</real>
 			<key>X</key>
 			<real>13</real>
 			<key>Y</key>
@@ -6817,7 +6913,7 @@
 			<key>UNIQUE_ID</key>
 			<integer>182</integer>
 			<key>WIDTH</key>
-			<real>38</real>
+			<real>33</real>
 			<key>X</key>
 			<real>13</real>
 			<key>Y</key>
@@ -7327,7 +7423,7 @@
 			<key>GROUP</key>
 			<string>X2blue</string>
 			<key>HEIGHT</key>
-			<real>16</real>
+			<real>15</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -7397,109 +7493,13 @@
 			<key>X</key>
 			<real>344</real>
 			<key>Y</key>
-			<real>17</real>
+			<real>18</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
 			<integer>0</integer>
 			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>1.1968056263731853e-311</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>8.4879833654398728e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string></string>
-			<key>HEIGHT</key>
-			<real>41</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>134217761.81298828</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>5.8546795155816448e+17</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>4.2439919406222035e-314</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.4987986596763425e+20</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>2.5531914234161377</real>
-			<key>RADIUS_1</key>
-			<real>0.0</real>
-			<key>RADIUS_2</key>
-			<real>19.787233352661133</real>
-			<key>RADIUS_3</key>
-			<real>7.6595745086669922</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>ROUNDBOX2</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>161</integer>
-			<key>WIDTH</key>
-			<real>168</real>
-			<key>X</key>
-			<real>7</real>
-			<key>Y</key>
-			<real>26</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>rotate:</string>
+			<string>rotation:</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
@@ -7587,9 +7587,9 @@
 			<key>WIDTH</key>
 			<real>45</real>
 			<key>X</key>
-			<real>56</real>
+			<real>93</real>
 			<key>Y</key>
-			<real>34</real>
+			<real>56</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -7615,7 +7615,7 @@
 			<key>GROUP</key>
 			<string>tools</string>
 			<key>HEIGHT</key>
-			<real>13</real>
+			<real>12</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -7681,11 +7681,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>135</integer>
 			<key>WIDTH</key>
-			<real>45</real>
+			<real>43</real>
 			<key>X</key>
-			<real>14</real>
+			<real>125</real>
 			<key>Y</key>
-			<real>47</real>
+			<real>5</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -7779,9 +7779,9 @@
 			<key>WIDTH</key>
 			<real>33</real>
 			<key>X</key>
-			<real>73</real>
+			<real>94</real>
 			<key>Y</key>
-			<real>52</real>
+			<real>28</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -7807,7 +7807,7 @@
 			<key>GROUP</key>
 			<string>tools</string>
 			<key>HEIGHT</key>
-			<real>12</real>
+			<real>11</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -7873,11 +7873,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>133</integer>
 			<key>WIDTH</key>
-			<real>25</real>
+			<real>23</real>
 			<key>X</key>
-			<real>98</real>
+			<real>118</real>
 			<key>Y</key>
-			<real>48</real>
+			<real>23</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -7903,7 +7903,7 @@
 			<key>GROUP</key>
 			<string>tools</string>
 			<key>HEIGHT</key>
-			<real>12</real>
+			<real>11</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -7969,11 +7969,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>134</integer>
 			<key>WIDTH</key>
-			<real>25</real>
+			<real>23</real>
 			<key>X</key>
-			<real>128</real>
+			<real>144</real>
 			<key>Y</key>
-			<real>48</real>
+			<real>23</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -8067,9 +8067,9 @@
 			<key>WIDTH</key>
 			<real>32</real>
 			<key>X</key>
-			<real>136</real>
+			<real>135</real>
 			<key>Y</key>
-			<real>31</real>
+			<real>40</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -8163,9 +8163,9 @@
 			<key>WIDTH</key>
 			<real>33</real>
 			<key>X</key>
-			<real>98</real>
+			<real>99</real>
 			<key>Y</key>
-			<real>31</real>
+			<real>40</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -8383,7 +8383,7 @@
 			<key>GROUP</key>
 			<string>/2blue</string>
 			<key>HEIGHT</key>
-			<real>16</real>
+			<real>15</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -8453,7 +8453,7 @@
 			<key>X</key>
 			<real>304</real>
 			<key>Y</key>
-			<real>17</real>
+			<real>18</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -8550,102 +8550,6 @@
 			<real>419</real>
 			<key>Y</key>
 			<real>251</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>wave type</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>1.2988462580358943e-308</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>2.1220087473427689e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>env</string>
-			<key>HEIGHT</key>
-			<real>11</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>nan</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>NAME</key>
-			<string>UIsmoothEnv</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>smoothEnv</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<true/>
-			<key>TYPE</key>
-			<string>CHECKBOX</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>196</integer>
-			<key>WIDTH</key>
-			<real>76</real>
-			<key>X</key>
-			<real>81</real>
-			<key>Y</key>
-			<real>102</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -9219,9 +9123,9 @@
 			<key>WIDTH</key>
 			<real>40</real>
 			<key>X</key>
-			<real>207</real>
+			<real>206</real>
 			<key>Y</key>
-			<real>26</real>
+			<real>28</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -9315,9 +9219,9 @@
 			<key>WIDTH</key>
 			<real>40</real>
 			<key>X</key>
-			<real>206</real>
+			<real>205</real>
 			<key>Y</key>
-			<real>12</real>
+			<real>14</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -9509,7 +9413,7 @@
 			<key>X</key>
 			<real>192</real>
 			<key>Y</key>
-			<real>83</real>
+			<real>84</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -9611,294 +9515,6 @@
 			<key>AUTOSERIALIZE</key>
 			<integer>0</integer>
 			<key>CAPTION</key>
-			<string>Response Frames (no. of frames before media data is gathered and timestretch</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>preferences</string>
-			<key>HEIGHT</key>
-			<real>12</real>
-			<key>HIDDEN</key>
-			<integer>1</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>CAPTIONG</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>191</integer>
-			<key>WIDTH</key>
-			<real>406</real>
-			<key>X</key>
-			<real>221</real>
-			<key>Y</key>
-			<real>140</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>4</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>-5.778222076988015e+268</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>3.4192327639220175e-315</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>preferences</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>1</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>25</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>1.0533773202026561e-96</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>3.0391259347906236e+82</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>9.8205839488890555e-91</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>3.4001130698044022e+184</real>
-			<key>NAME</key>
-			<string>UIresponse</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>response</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>NUMFIELD</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>190</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>200</real>
-			<key>Y</key>
-			<real>134</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>performed.) Values lower than 4 may produce innacurate results.</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>preferences</string>
-			<key>HEIGHT</key>
-			<real>12</real>
-			<key>HIDDEN</key>
-			<integer>1</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>CAPTIONG</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>218</integer>
-			<key>WIDTH</key>
-			<real>406</real>
-			<key>X</key>
-			<real>221</real>
-			<key>Y</key>
-			<real>131</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
 			<string>Untitled</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
@@ -9989,7 +9605,7 @@
 			<key>X</key>
 			<real>200</real>
 			<key>Y</key>
-			<real>107</real>
+			<real>104</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -10081,11 +9697,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>220</integer>
 			<key>WIDTH</key>
-			<real>226</real>
+			<real>177</real>
 			<key>X</key>
 			<real>237</real>
 			<key>Y</key>
-			<real>112</real>
+			<real>109</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -10667,198 +10283,6 @@
 			<key>AUTOSERIALIZE</key>
 			<integer>0</integer>
 			<key>CAPTION</key>
-			<string>Media preload frames before keywords are updated.</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>preferences</string>
-			<key>HEIGHT</key>
-			<real>12</real>
-			<key>HIDDEN</key>
-			<integer>1</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>CAPTIONG</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>227</integer>
-			<key>WIDTH</key>
-			<real>406</real>
-			<key>X</key>
-			<real>221</real>
-			<key>Y</key>
-			<real>165</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>2</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>-5.778222076988015e+268</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>3.4192327639220175e-315</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>preferences</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>1</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>25</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>1.0533773202026561e-96</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>3.0391259347906236e+82</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>9.8205839488890555e-91</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>3.4001130698044022e+184</real>
-			<key>NAME</key>
-			<string>UIpreload</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>preload</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>NUMFIELD</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>228</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>200</real>
-			<key>Y</key>
-			<real>160</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
 			<string>reset to default</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
@@ -11243,102 +10667,6 @@
 			<key>AUTOSERIALIZE</key>
 			<integer>0</integer>
 			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>1.9506969819245095e-23</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>env</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>8.1596415653790799e-21</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>1.4121152434887924e-21</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.4012984643248171e-45</real>
-			<key>NAME</key>
-			<string>showcurve</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>smoothEnv</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>232</integer>
-			<key>WIDTH</key>
-			<real>40</real>
-			<key>X</key>
-			<real>104</real>
-			<key>Y</key>
-			<real>85</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
 			<string>Set Warp Point</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
@@ -11431,24 +10759,984 @@
 			<key>Y</key>
 			<real>12</real>
 		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>bypass auto-loop (useful during a logical render)</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.8356556243206402e+172</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string>preferences</string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>1</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>3.3246215214627113e+101</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>-4.9238052979263947e-237</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>UIlogicalRender</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>logicalRender</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>CHECKBOX</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>235</integer>
+			<key>WIDTH</key>
+			<real>273</real>
+			<key>X</key>
+			<real>200</real>
+			<key>Y</key>
+			<real>133</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string></string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-9.3227391683102556e-207</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>-1.9903829649018855e-206</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>13</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>7.9050503334599447e-323</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>UIkeyText</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>keyText</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>TEXTFIELD</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>236</integer>
+			<key>WIDTH</key>
+			<real>169</real>
+			<key>X</key>
+			<real>6</real>
+			<key>Y</key>
+			<real>161</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>fade clips on triggering</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.8356556243206402e+172</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string>preferences</string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>1</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>3.3246215214627113e+101</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>-4.9238052979263947e-237</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>UItransType</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>transType</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>CHECKBOX</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>237</integer>
+			<key>WIDTH</key>
+			<real>140</real>
+			<key>X</key>
+			<real>200</real>
+			<key>Y</key>
+			<real>160</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>228698453915648</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>51791395714760704</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string>transitionPrefs</string>
+			<key>HEIGHT</key>
+			<real>22</real>
+			<key>HIDDEN</key>
+			<integer>1</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>ROUNDBOX2</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>239</integer>
+			<key>WIDTH</key>
+			<real>218</real>
+			<key>X</key>
+			<real>345</real>
+			<key>Y</key>
+			<real>154</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string>transitionPrefs</string>
+			<key>HEIGHT</key>
+			<real>16</real>
+			<key>HIDDEN</key>
+			<integer>1</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>UItransDuration</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>transDuration</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>HSLIDER</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>238</integer>
+			<key>WIDTH</key>
+			<real>72</real>
+			<key>X</key>
+			<real>481</real>
+			<key>Y</key>
+			<real>157</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>1 sec</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>5.4815670096217702e-307</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>2.1220996326945839e-314</real>
+			<key>EXC_GROUP</key>
+			<string>xfadeRange</string>
+			<key>GROUP</key>
+			<string>transitionPrefs</string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>1</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>nan</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>UIdurationDelta1</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>durationDelta</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>RADIO</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>240</integer>
+			<key>WIDTH</key>
+			<real>47</real>
+			<key>X</key>
+			<real>351</real>
+			<key>Y</key>
+			<real>160</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>10</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>5.4815670096217702e-307</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>2.1220996326945839e-314</real>
+			<key>EXC_GROUP</key>
+			<string>xfadeRange</string>
+			<key>GROUP</key>
+			<string>transitionPrefs</string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>1</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>nan</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>UIdurationDelta10</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>durationDelta</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>RADIO</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>241</integer>
+			<key>WIDTH</key>
+			<real>32</real>
+			<key>X</key>
+			<real>398</real>
+			<key>Y</key>
+			<real>160</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>30</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>2</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>2</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>5.4815670096217702e-307</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>2.1220996326945839e-314</real>
+			<key>EXC_GROUP</key>
+			<string>xfadeRange</string>
+			<key>GROUP</key>
+			<string>transitionPrefs</string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>1</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>nan</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>UIdurationDelta30</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>durationDelta</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>RADIO</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>242</integer>
+			<key>WIDTH</key>
+			<real>32</real>
+			<key>X</key>
+			<real>438</real>
+			<key>Y</key>
+			<real>160</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>228698453915648</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>51791395714760704</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string>env</string>
+			<key>HEIGHT</key>
+			<real>22</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>nan</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>10.212765693664551</real>
+			<key>RADIUS_1</key>
+			<real>0.0</real>
+			<key>RADIUS_2</key>
+			<real>0.0</real>
+			<key>RADIUS_3</key>
+			<real>8.2978725433349609</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>ROUNDBOX5</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>243</integer>
+			<key>WIDTH</key>
+			<real>48</real>
+			<key>X</key>
+			<real>121</real>
+			<key>Y</key>
+			<real>77</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.9506969819245095e-23</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string>env</string>
+			<key>HEIGHT</key>
+			<real>16</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>8.1596415653790799e-21</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>1.4121152434887924e-21</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>1.4012984643248171e-45</real>
+			<key>NAME</key>
+			<string>showcurve</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>smoothEnv</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>DRAWVIEW</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>232</integer>
+			<key>WIDTH</key>
+			<real>40</real>
+			<key>X</key>
+			<real>125</real>
+			<key>Y</key>
+			<real>82</real>
+		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>Gener8 Editor module (beta) - used in conjuction with the Gener8 Launchpad module.
+	<string>Gener8 Editor module - used in conjuction with the Gener8 Launchpad module.
 
 Accurate tool for quickly looping and editing movie clips. Gathers controller info on the fly and updates the Gener8 clips.
 
-Part of a family of Modul8 modules produced under the name Gener8 and written by Andy Teasdale. 2010-2012
+Part of a family of Modul8 modules produced under the name Gener8 and written by Andy Teasdale. 2010-2014
 
 ©© The Gener8 modules are licensed under a Creative Commons 3.0 Attribution - Non commercial - ShareAlike license.
 To view the license follow this link: http://creativecommons.org/licenses/by-nc-sa/3.0/
 If you wish to use the Gener8 modules commercially (ie. for paid public performance, etc.), please contact me to authorise usage.
 
-Comments, suggestions, donations:- andy@blackearhmedia.co.uk
+Comments, suggestions, donations:- gener8@blackearthmedia.co.uk
 Further documentation and help can be found at: http://collectedconsciousness.wordpress.com</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>233</integer>
+	<integer>243</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<true/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
@@ -11465,16 +11753,22 @@ Further documentation and help can be found at: http://collectedconsciousness.wo
 		<dict>
 			<key>(g3_ASCII)autoLoopPref</key>
 			<string>(g3_INT)1</string>
-			<key>(g3_ASCII)infoDelay</key>
-			<string>(g3_FLOAT)3.000000</string>
-			<key>(g3_ASCII)latency</key>
+			<key>(g3_ASCII)durationDelta</key>
 			<string>(g3_FLOAT)0.000000</string>
+			<key>(g3_ASCII)infoDelay</key>
+			<string>(g3_INT)8</string>
+			<key>(g3_ASCII)latency</key>
+			<string>(g3_INT)0</string>
 			<key>(g3_ASCII)preload</key>
-			<string>(g3_FLOAT)2.000000</string>
+			<string>(g3_INT)2</string>
 			<key>(g3_ASCII)screenX</key>
-			<string>(g3_INT)640</string>
+			<string>(g3_FLOAT)640.000000</string>
 			<key>(g3_ASCII)screenY</key>
 			<string>(g3_FLOAT)480.000000</string>
+			<key>(g3_ASCII)transDuration</key>
+			<string>(g3_FLOAT)0.204297</string>
+			<key>(g3_ASCII)transOn</key>
+			<string>(g3_FLOAT)1.000000</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
 		<string>STOPPED</string>
@@ -11483,9 +11777,9 @@ Further documentation and help can be found at: http://collectedconsciousness.wo
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>704</real>
+		<real>1181</real>
 		<key>WINDOW_Y</key>
-		<real>654</real>
+		<real>51</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>#print 'Editor - Finish()'
@@ -11502,7 +11796,8 @@ if truecount &lt; 1:
 	<string>#All serialization is handled by the Launchpad module
 </string>
 	<key>SCRIPT_EVENT</key>
-	<string>#if type == 'KEYDOWN' and param['key'] == 'DELETE':
+	<string>#insert script for toggle states of command keys
+#if type == 'KEYDOWN' and param['key'] == 'DELETE':
 #	deletePoint()
 #
 #if type == 'KEYDOWN' and param['key'] == 'BACKSPACE':
@@ -11519,7 +11814,7 @@ if truecount &lt; 1:
 	<key>SCRIPT_INIT</key>
 	<string># Gener8 Editor module (beta) - used in conjuction with the Gener8 Launchpad module.
 
-# Part of a family of Modul8 modules produced under the name Gener8 and written by Andy Teasdale. 2010-2012
+# Part of a family of Modul8 modules produced under the name Gener8 and written by Andy Teasdale. 2010-2013
 
 # ©© The Gener8 modules are licensed under a Creative Commons 3.0 Attribution - Non commercial - ShareAlike license.
 # To view the license follow this link: http://creativecommons.org/licenses/by-nc-sa/3.0/
@@ -11529,7 +11824,7 @@ if truecount &lt; 1:
 # Further documentation and help can be found at: http://collectedconsciousness.wordpress.com
 
 
-versionNum = 0.52
+versionNum = 0.62
 
 import math, time, copy, webbrowser
 from math import sin, cos, tan, fmod
@@ -11542,9 +11837,6 @@ for key in module.getSharedDictionary():
 
 try: x = sharedKeys.index('BPM')
 except: sharedDict['BPM'] = 120
-
-try: x = sharedKeys.index('BPM_INFO')
-except: sharedDict['BPM_INFO'] = (False,0,4)
 
 try: x = sharedKeys.index('BPM_POSITION')
 except: sharedDict['BPM_POSITION'] = 0.0
@@ -11569,8 +11861,6 @@ except: updateSharedDicts(0)
 try: sharedDict['GENER8_STATUS'][3] == versionNum
 except: updateSharedDicts(1)
 
-sharedDict['GENER8_STATUS'][4] = False
-
 #try: x = sharedKeys.index('GET_CONTROLS')
 #except: sharedDict['GET_CONTROLS'] = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
 #
@@ -11580,8 +11870,7 @@ sharedDict['GENER8_STATUS'][4] = False
 #try: x = sharedKeys.index('EVENTBANK')
 #except: sharedDict['EVENTBANK'] = []
 #
-#try: x = sharedKeys.index('SELECT_CLIPS')
-#except: sharedDict['SELECT_CLIPS'] = [0,0,0,0,0,0,0,0,0,0]
+
 
 try: x = sharedKeys.index('LFO')
 except: sharedDict['LFO'] = [0.0,0.0,0.0]
@@ -11589,8 +11878,8 @@ except: sharedDict['LFO'] = [0.0,0.0,0.0]
 try: x = sharedKeys.index('TIMECODE')
 except: sharedDict['TIMECODE'] = {'BPM':120.0, 'SEC':0, 'BEATS':[1,1,0.00], 'BAR_BEATS':4, 'LOOP_START':1, 'LOOP_LENGTH':1, 'LOOP_ON':0, 'START':0}
 
-#if type(sharedDict['TIMECODE']) != 'dict':
-#	sharedDict['TIMECODE'] = {'BPM':120.0, 'SEC':0, 'BEATS':[1,1,0.00], 'BAR_BEATS':4, 'LOOP_START':1, 'LOOP_LENGTH':1, 'LOOP_ON':0, 'START':0}
+try: x = sharedDict['LINK_MASTER_SPEED']
+except: sharedDict['LINK_MASTER_SPEED'] = 0
 
 lyrIDs = [0,0,0,0,0,0,0,0,0,0]
 
@@ -11600,17 +11889,23 @@ except:
 	for z in range (10):
 		sharedDict['LAYERIDS'][z] = modul8.getValue('ctrl_layer_id',z)
 
-layerID = modul8.getValue('ctrl_layer_id',0)
-focusedLayer = modul8.getValue('ctrl_layerStack_focusPosition',0)
 
-# currently a bug in Modul8 which briefly sets 'ctrl_layerStack_focusPosition' to 2.63 on creation of a new project.
-if focusedLayer != None:
-	#print 'focusedLayer = ' +str(focusedLayer)
-	sharedDict['SELECT_CLIPS'][focusedLayer-1] = layerID
-else:
-	focusedLayer = 1
-	modul8.setValue('ctrl_layerStack_focusPosition',0,1)
-	sharedDict['SELECT_CLIPS'][focusedLayer-1] = layerID
+#focusedLayer = modul8.getValue('ctrl_layerStack_focusPosition',0)
+
+#if focusedLayer != None:
+#	#print 'focusedLayer = ' +str(focusedLayer)
+#	sharedDict['SELECT_CLIPS'][focusedLayer-1] = layerID
+#else:
+#	
+# currently an oddity in Modul8 which briefly sets 'ctrl_layerStack_focusPosition' to 2.63 on creation of a new project!
+
+# Don't Panic! Restart the Editor module to fix error.	(no data wil be lost)
+
+focusedLayer = 1
+modul8.setValue('ctrl_layerStack_focusPosition',0,1)
+layerID = modul8.getValue('ctrl_layer_id',0)
+sharedDict['SELECT_CLIPS'][0] = layerID
+	
 bpm = sharedDict['TIMECODE']['BPM']
 timesig = sharedDict['TIMECODE']['BAR_BEATS']
 le = 0
@@ -11620,8 +11915,6 @@ restretch = 0
 timestretchCount = 0
 speed = 0
 pauseVal = 0
-#pauseOn = False
-# pause will become sharedDict['EVENTBANK'][currentEvent][135] - is already set up in launchpad
 prefVal = False
 currentEvent = 0
 lastClipID = 0
@@ -11632,11 +11925,11 @@ tapIn = False
 clipUpdate = False
 name = 'Empty Clip'
 upEvent = False
-sharedDict['GENER8_STATUS'][4] = False
 upKeys = False
 upKey = False
 infoDelay = 0
 mediaUpdateCount = 1
+envSafe = 1
 keywordName = 'not assigned'
 module.setValue('UIlayer'+str(focusedLayer),0,True)
 #helpVal = False
@@ -11674,6 +11967,13 @@ scrollX = 400
 scrollY = 16
 scrollPoint = 0
 scrollStart = 0
+XoffsetPercent = 0
+percentOfView = 100.0
+colours = {}
+colours['dark'] = [0.2,0.25,0.3]
+colours['mid'] = [0.3,0.3,0.4]
+colours['light'] = [0.8,0.8,0.8]
+colours['select'] = [1,0.5,0]
 zoomFactor = 1
 st  = modul8.getValue('ctrl_layer_movie_positionIn',0)
 en = modul8.getValue('ctrl_layer_movie_positionOut',0)
@@ -11682,6 +11982,9 @@ ioDrag = False
 clipBeats = [0.0]
 beatSnap = 5
 fixBeats = 'none'
+logicRender = False
+masterSpdDivisor = 1
+syphonCurrent = None
 
 #timeMarkers = sharedDict['EVENTBANK'][currentEvent][134] = [[0.0,0.0],[1.0,1.0]]# time bending points. In form [[0.0,0.0],[adjusted position,original position],[1.0,1.0]], as percentages. Start and end point must remain unchanged.
 if timeMarkLength &gt; 2:
@@ -11691,6 +11994,10 @@ else:
 trigTime = 0
 
 version = modul8.getValue('info_version',0)
+if version &gt; 2.5:
+	timeVersion = 'direct_layer_media_timePosition'
+else:
+	timeVersion = 'direct_layer_movie_timePosition'
 
 eventKeywords = ['currentEvent','media','name','movie_positionIn','movie_positionOut','movie_speedFactor','offset','offsetLink','beats','syncbeat','quantVal','autoloop','linkSpd','linkLeng','selectedEvent','movie_loopMode','movie_playDirection','position_x','position_y','rotation_x','rotation_y','rotation_z','scale_x','scale_y','scale_z','scale_factorXYZ','scale_uniform','scale_factorUniform','scale_normalizeOn','color_additiveR','color_additiveG','color_additiveB','color_modulateR','color_modulateG','color_modulateB','soundOutLevel','transition_duration','transition_durationDelta','transition_type','pixelFX_blurLevel','pixelFX_blurOn','pixelFX_blurType','pixelFX_contrastBoost','pixelFX_contrastInverse','pixelFX_contrastLevel','pixelFX_contrastOn','pixelFX_lightnessLevel','pixelFX_lightnessOn','pixelFX_lightnessType','pixelFX_lumaOn','pixelFX_lumaType','pixelFX_noiseAlpha','pixelFX_noiseColored','pixelFX_noiseLevel','pixelFX_noiseOn','pixelFX_noiseRGBOn','pixelFX_saturationBoost','pixelFX_saturationInverse','pixelFX_saturationLevel','pixelFX_saturationOn','auto_colorASpeed','auto_colorAdditiveOn','auto_colorBSpeed','auto_colorCurve','auto_colorGSpeed','auto_colorModulateOn','auto_colorOn','auto_colorRSpeed','auto_moveCurve','auto_moveOn','auto_moveSize','auto_moveSpeed','auto_moveStrob','auto_moveXY','auto_rotateOn','auto_rotateStrob','auto_rotateXDirection','auto_rotateXSpeed','auto_rotateYDirection','auto_rotateYSpeed','auto_rotateZDirection','auto_rotateZSpeed','auto_scaleCurve','auto_scaleOn','auto_scaleSize','auto_scaleSpeed','auto_scaleStrob','transformer_on','transformer_type','transformer_matrix_deepSpace','transformer_matrix_extrusionLevel','transformer_matrix_flipXeYe','transformer_matrix_flipXeYu','transformer_matrix_flipXuYe','transformer_matrix_flipXuYu','transformer_matrix_planarSpace','transformer_matrix_resize','transformer_matrix_xValue','transformer_matrix_yValue','transformer_matrix_zValue','transformer_particle_alphaFadeIn','transformer_particle_alphaFadeOut','transformer_particle_applyLocalAngleOn','transformer_particle_cutOffAngleX','transformer_particle_cutOffAngleY','transformer_particle_gravity','transformer_particle_life','transformer_particle_localScale','transformer_particle_particlesPerSec','transformer_particle_radiusSource','transformer_particle_scaleFadeIn','transformer_particle_scaleFadeOut','transformer_particle_speed','transformer_patch_colorOn','transformer_patch_dmapingAlphaOn','transformer_patch_dmappingLevel','transformer_patch_fillMode','transformer_patch_noiseLevel','transformer_patch_shapeType','transformer_patch_soundInputValue','transformer_patch_soundInputVdelayOn','transformer_patch_subdivX','transformer_patch_subdivY','transformer_patch_thickness','blendMode','fieldOfView','soundOutBalance','soundOutLinkToAlphaAndCrossfader']
 
@@ -11699,8 +12006,8 @@ prefs = module.getDefaults()
 
 def prefDefaultReset ():
 	print 'Editor - prefDefaultReset()'
-	global prefs, response
-	module.setDefaults({'autoLoopPref': 1, 'preload': 2, 'infoDelay': 3, 'latency': 0, 'screenX': 640, 'screenY': 480})
+	global prefs, response, screenMult
+	module.setDefaults({'autoLoopPref': 1, 'preload': 2, 'infoDelay': 8, 'latency': 0, 'screenX': 640, 'screenY': 480, 'transOn': 0, 'durationDelta': 0, 'transDuration': 0})
 	prefs = module.getDefaults()
 	response = prefs['infoDelay'] + prefs['preload']
 	module.setValue('UIautoPref',0,prefs['autoLoopPref'])
@@ -11709,13 +12016,26 @@ def prefDefaultReset ():
 	module.setValue('UIlatency',0,prefs['latency'])
 	module.setValue('UIscreenX',0,prefs['screenX'])
 	module.setValue('UIscreenY',0,prefs['screenY'])
+	module.setValue('UItransType',0,prefs['transOn'])
+	module.setValue('UIdurationDelta',0,prefs['durationDelta'])
+	module.setValue('UItransDuration',0,prefs['transDuration'])
+	screenMult = [2,2]
+	
 
 prefLen = len(prefs)
-if prefLen != 6:
+if prefLen != 9:
 	prefDefaultReset()
 else:
 	response = prefs['infoDelay'] + prefs['preload']
+	screenMult = [2,2]
+	screenMult[0] = (prefs['screenX']/640.0)*2
+	screenMult[1] = (prefs['screenY']/480.0)*2
 	
+
+keywordRange = {'ctrl_layer_mediaSet':8,'ctrl_layer_media':135,'ctrl_layer_auto_colorCurve':9, 'ctrl_layer_auto_moveCurve':9, 'ctrl_layer_auto_moveXY':2, 'ctrl_layer_auto_moveSize_factor':8,'ctrl_layer_auto_scaleCurve':9, 'ctrl_layer_auto_scaleXY_':4,'ctrl_layer_blendMode':5,'ctrl_layer_transformer_type':2, 'ctrl_layer_transformer_patch_thickness':20, 'ctrl_layer_transformer_patch_subdivY':200, 'ctrl_layer_transformer_patch_subdivX':200, 'ctrl_layer_transformer_patch_fillMode':2, 'ctrl_layer_transformer_patch_shapeType':3, 'ctrl_layer_transformer_matrix_flipXuYe':3, 'ctrl_layer_transformer_matrix_flipXeYe':3, 'ctrl_layer_transformer_matrix_flipXuYu':3, 'ctrl_layer_transformer_matrix_flipXeYu':3, 'ctrl_layer_transformer_matrix_zValue':10, 'ctrl_layer_transformer_matrix_yValue':10, 'ctrl_layer_transformer_matrix_xValue':10, 'ctrl_layer_transition_durationDelta':2, 'ctrl_layer_movie_loopMode':2, 'ctrl_layer_scale_factorXYZ':99, 'ctrl_layer_scale_factorUniform':20, 'ctrl_layer_pixelFX_lumaType':4, 'ctrl_layer_record_stopPlayRec':3, 'ctrl_layer_position_y':480, 'ctrl_layer_position_x':640}
+keywordIntegers = ['ctrl_layer_mediaSet','ctrl_layer_media','ctrl_layer_auto_colorCurve','ctrl_layer_auto_colorOn','ctrl_layer_auto_colorAdditiveOn','ctrl_layer_auto_colorModulateOn','ctrl_layer_auto_rotateOn','ctrl_layer_auto_rotateYDirection','ctrl_layer_auto_rotateZDirection','ctrl_layer_auto_rotateXDirection','ctrl_layer_auto_moveCurve','ctrl_layer_auto_moveOn','ctrl_layer_auto_moveXY','ctrl_layer_auto_moveSize_factor','ctrl_layer_auto_scaleCurve','ctrl_layer_auto_scaleOn','ctrl_layer_auto_scaleXY_','ctrl_layer_blendMode','ctrl_layer_transformer_on','ctrl_layer_transformer_type','ctrl_layer_transformer_particle_applyLocalAngleOn','ctrl_layer_transformer_particle_scaleFadeOut','ctrl_layer_transformer_particle_scaleFadeIn','ctrl_layer_transformer_particle_alphaFadeOut','ctrl_layer_transformer_particle_alphaFadeIn','ctrl_layer_transformer_particle_localScale','ctrl_layer_transformer_patch_thickness','ctrl_layer_transformer_patch_subdivY','ctrl_layer_transformer_patch_subdivX','ctrl_layer_transformer_patch_soundInputVdelayOn','ctrl_layer_transformer_patch_dmapingAlphaOn','ctrl_layer_transformer_patch_colorOn','ctrl_layer_transformer_patch_fillMode','ctrl_layer_transformer_patch_shapeType','ctrl_layer_transformer_matrix_flipXuYe','ctrl_layer_transformer_matrix_flipXeYe','ctrl_layer_transformer_matrix_flipXuYu','ctrl_layer_transformer_matrix_flipXeYu','ctrl_layer_transformer_matrix_zValue','ctrl_layer_transformer_matrix_yValue','ctrl_layer_transformer_matrix_xValue','ctrl_layer_transformer_matrix_resize','ctrl_layer_transition_durationDelta','ctrl_layer_transition_type','ctrl_layer_soundOutLinkToAlphaAndCrossfader','ctrl_layer_movie_playDirection','ctrl_layer_movie_loopMode','ctrl_layer_scale_factorXYZ','ctrl_layer_scale_factorUniform','ctrl_layer_scale_normalizeOn','ctrl_layer_pixelFX_noiseOn','ctrl_layer_pixelFX_noiseAlpha','ctrl_layer_pixelFX_noiseRGBOn','ctrl_layer_pixelFX_noiseColored','ctrl_layer_pixelFX_lightnessOn','ctrl_layer_pixelFX_lightnessType','ctrl_layer_pixelFX_blurOn','ctrl_layer_pixelFX_blurType','ctrl_layer_pixelFX_saturationOn','ctrl_layer_pixelFX_saturationInverse','ctrl_layer_pixelFX_saturationBoost','ctrl_layer_pixelFX_contrastOn','ctrl_layer_pixelFX_contrastInverse','ctrl_layer_pixelFX_contrastBoost','ctrl_layer_pixelFX_lumaOn','ctrl_layer_pixelFX_lumaType','ctrl_layer_pixelFX_lumaPreserveAlpha','ctrl_layer_blendMode','ctrl_layer_record_stopPlayRec','ctrl_layer_hidden']
+keyintLen = len(keywordIntegers)
+
 
 module.hideGroup('warning')
 module.showGroup('manual')
@@ -11725,6 +12045,8 @@ module.hideGroup('deletePoint')
 module.hideGroup('env')
 module.hideGroup('lfo')
 module.hideGroup('sliders')
+module.hideGroup('transitionPrefs')
+module.setAttribute('UIkeyText', 'HIDDEN', True)
 
 
 def renderCurve(type):
@@ -11768,32 +12090,50 @@ def renderCurve(type):
 		module.finishDrawings('showcurve')
 
 
+def zeroDivCheck ():
+	global currentEvent
+	zeroDivCheck = 1
+	for n in range( 3,5):
+		if sharedDict['EVENTBANK'][currentEvent][n] == 0:
+			zeroDivCheck = 0
+			break
+	return zeroDivCheck
+	
+
 def clipUpdate ():
 #	print 'Editor - clipUpdate'
-	global trigTime, relLeng, currentPlayTime, syncBeatPercent, prefs
-	relLeng = (sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3])*(le/(sharedDict['EVENTBANK'][currentEvent][5]*4))
-	clipPercent = 1/(sharedDict['EVENTBANK'][currentEvent][5]*4)
-	#print relLeng
-	#print clipPercent
-	if relLeng != 0:
-		currentPlayTime = 1/relLeng*(sharedDict['TIMECODE']['SEC']-trigTime)
-		latencyAdjust = (1/relLeng)*prefs['latency']
-	else:
-		currentPlayTime = 0
-		latencyAdjust = 0
-	#print currentPlayTime
-	if currentPlayTime &gt;= 1:
-		trigTime = sharedDict['TIMECODE']['SEC']
-		currentPlayTime = 0.0
+	global trigTime, relLeng, currentPlayTime, syncBeatPercent, prefs, currentEvent, zeroDivCheck
 	
-	totalOffset = sharedDict['EVENTBANK'][currentEvent][6]+currentPlayTime+latencyAdjust
-#	print 'totalOffset: '+str(totalOffset)
-	if totalOffset &lt; 0:
-		totalOffset= 1+totalOffset
-		#print 'totalOffset: '+str(totalOffset)
-	modul8.setValue('direct_layer_movie_timePosition',totalOffset,0)
-
+	if zeroDivCheck():
+		relLeng = (sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3])*(le/(sharedDict['EVENTBANK'][currentEvent][5]*4))
+		clipPercent = 1/(sharedDict['EVENTBANK'][currentEvent][5]*4)
+		if relLeng != 0:
+			currentPlayTime = 1/relLeng*(sharedDict['TIMECODE']['SEC']-trigTime)
+			latencyAdjust = (1/relLeng)*prefs['latency']
+		else:
+			currentPlayTime = 0
+			latencyAdjust = 0
+		if currentPlayTime &gt;= 1:
+			trigTime = sharedDict['TIMECODE']['SEC']
+			currentPlayTime = 0.0
 		
+		totalOffset = sharedDict['EVENTBANK'][currentEvent][6]+currentPlayTime+latencyAdjust
+		if totalOffset &lt; 0:
+			totalOffset= 1+totalOffset
+		modul8.setValue('direct_layer_movie_timePosition',totalOffset,0)
+
+
+def verifyInfo ():
+#	print 'Editor verifyInfo()'
+	typ = modul8.getValue('info_layer_media_type',0)
+	if sharedDict['EVENTBANK'][currentEvent][14][3] != typ:
+		getInfos()
+	if sharedDict['EVENTBANK'][currentEvent][14][3] == 'null' and sharedDict['EVENTBANK'][currentEvent][14][1] != '':
+		getInfos()
+	if sharedDict['EVENTBANK'][currentEvent][14][3] == 'MEDIA_MOVIE' and sharedDict['EVENTBANK'][currentEvent][14][2] == 0.0:
+		getInfos()
+
+
 
 def getValues ():
 #	print 'Editor - getValues()'
@@ -11804,22 +12144,10 @@ def getValues ():
 		keyName = keywordsList[keywID]
 	else:
 		keyName = 'none'
-	typ = modul8.getValue('info_layer_media_type',0)
-	if typ != 'MEDIA_MOVIE':
-		disableAuto()
-		module.hideGroup('sliders')
-		module.hideGroup('envelopes')
-#		module.hideGroup('tapIn')
-		module.hideGroup('envRecord')
-		if keyName == 'none':
-			module.hideGroup('lfo')
-		else:
-			module.showGroup('lfo')
-		module.hideGroup('autoLp')
-		module.hideGroup('autoLp1')
-#		module.hideGroup('tools')
-		module.showGroup('notime')
-	else:
+	
+	verifyInfo()
+
+	if sharedDict['EVENTBANK'][currentEvent][14][3] == 'MEDIA_MOVIE':
 		module.showGroup('tools')
 		module.hideGroup('notime')
 		module.showGroup('autoLp')
@@ -11842,18 +12170,24 @@ def getValues ():
 		module.showGroup('sliders')
 		module.showGroup('envelopes')
 		module.showGroup('envRecord')
-#		if keyName == 'none':
-#			module.hideGroup('lfo')
-#			drawEnvelope('none')
-#		elif sharedDict['EVENTBANK'][currentEvent][130][keyName][0] == 2:
-#			module.showGroup('lfo')
-#			drawEnvelope('none')
-#		else:
-#			module.hideGroup('lfo')
-#			drawEnvelope(keyName)
 		module.setValue('mLink',0,sharedDict['EVENTBANK'][currentEvent][11])
-#	print 'Media Codec ='+str(codec)
-#	print 'Media Type ='+str(typ)
+
+	else:
+		disableAuto()
+		module.hideGroup('sliders')
+		module.hideGroup('envelopes')
+#		module.hideGroup('tapIn')
+		module.hideGroup('envRecord')
+		if keyName == 'none':
+			module.hideGroup('lfo')
+		else:
+			module.showGroup('lfo')
+		module.hideGroup('autoLp')
+		module.hideGroup('autoLp1')
+#		module.hideGroup('tools')
+		module.showGroup('notime')
+
+
 	le = modul8.getValue('info_layer_media_timeLength',0)
 #	include divisors for ctrl_master_speed
 	secst = le*sharedDict['EVENTBANK'][currentEvent][3]
@@ -11886,18 +12220,36 @@ def getValues ():
 	else:
 		module.hideGroup('preferences')
 
+
+
+def getInfos ():
+#	print 'Editor - getInfos()'
+	global currentEvent
+	sharedDict['EVENTBANK'][currentEvent][14] = [0,0,0,0,0,None]
+	if sharedDict['EVENTBANK'][currentEvent][1] &lt; 128:
+		filePaths = modul8.getValue('info_media_pathsAndNames',0)
+		sharedDict['EVENTBANK'][currentEvent][14][0] = filePaths[sharedDict['EVENTBANK'][currentEvent][1]][0]
+	sharedDict['EVENTBANK'][currentEvent][14][1] = modul8.getValue('info_layer_media_name',0)
+	sharedDict['EVENTBANK'][currentEvent][14][2] = modul8.getValue('info_layer_media_timeLength',0)
+	sharedDict['EVENTBANK'][currentEvent][14][3] = modul8.getValue('info_layer_media_type',0)
+	sharedDict['EVENTBANK'][currentEvent][14][4] = modul8.getValue('info_layer_media_codec',0)
+	print sharedDict['EVENTBANK'][currentEvent][14]
+	
+	
+
 def getControls ():
 #	print 'Editor - getControls()'
-	global currentEvent, focusedLayer, eventKeywords, version, upEvent, storeLength, typ
-#	insert check for unassigened/empty layers
-	sharedDict['EVENTBANK'][currentEvent][1]  = modul8.getValue('ctrl_layer_media',focusedLayer)
+	global currentEvent, focusedLayer, eventKeywords, version, upEvent, storeLength, typ, infoDelay, infoCount
+	sharedDict['EVENTBANK'][currentEvent][1] = modul8.getValue('ctrl_layer_media',focusedLayer)
 	sharedDict['EVENTBANK'][currentEvent][2] = modul8.getValue('info_layer_media_name',focusedLayer)
 	if sharedDict['EVENTBANK'][currentEvent][2] == '':
 		sharedDict['EVENTBANK'][currentEvent][2] = 'Clip-'+str(currentEvent+1)
 	sharedDict['EVENTBANK'][currentEvent][3] = modul8.getValue('ctrl_layer_movie_positionIn',focusedLayer)
 	sharedDict['EVENTBANK'][currentEvent][4] = modul8.getValue('ctrl_layer_movie_positionOut',focusedLayer)
 	sharedDict['EVENTBANK'][currentEvent][5] = modul8.getValue('ctrl_layer_movie_speedFactor',focusedLayer)
-	sharedDict['EVENTBANK'][currentEvent][129] = [] 
+	sharedDict['EVENTBANK'][currentEvent][14] = [0,0,0,'new',0,None]
+	sharedDict['EVENTBANK'][currentEvent][129] = []
+	
 #	sharedDict['EVENTBANK'][currentEvent][6] = module.getValue('offsetTime',focusedLayer)
 	if version &lt; 2.6:
 		z = 124
@@ -11906,14 +12258,51 @@ def getControls ():
 	for x in range (15,z):
 		keyw = 'ctrl_layer_'+str(eventKeywords[x])
 		sharedDict['EVENTBANK'][currentEvent][x] = modul8.getValue(keyw,focusedLayer)
+	
+	infoCount = 0
+	infoDelay = 1
+	
+
+
+
+def pauseClip (val):
+	global pauseVal, upEvent, currentEvent, directTime
+	if val:
+		sharedDict['EVENTBANK'][currentEvent][135] = True
+		pauseVal = sharedDict['EVENTBANK'][currentEvent][5]
+		upEvent = True
+		modul8.setValue('ctrl_layer_movie_speedFactor',0,0)
+		upEvent = False
+		
+	else:
+		sharedDict['EVENTBANK'][currentEvent][135] = False
+		sharedDict['EVENTBANK'][currentEvent][5] = pauseVal
+		upEvent = True
+		if directTime: modul8.setValue('ctrl_layer_movie_speedFactor',0,0)
+		else: modul8.setValue('ctrl_layer_movie_speedFactor',sharedDict['EVENTBANK'][currentEvent][5],0)
+		upEvent = False
+#	clipUpdate()
+
+
+def scrub (val,bool):	
+	if bool:
+		pauseClip(1)
+	else:
+		if not module.getValue('UIpause',0):
+			pauseClip(0)
+	inT = modul8.getValue('ctrl_layer_movie_positionIn', 0)
+	outT = modul8.getValue('ctrl_layer_movie_positionOut', 0)
+	if val &lt; inT: val = inT
+	if val &gt; outT: val = outT
+	modul8.setValue('direct_layer_media_timePosition', val, 0)
+	
+
 
 def updateEvent ():
 #	print 'Editor - updateEvent()'
 #	print currentEvent
-	global upEvent, currentEvent, quantVals, quantList, idealBeat, version, name, infoDelay, le, infoCount, trigTime, directTime, timeMarkLength, scrollPoint, updateScroll, zoomFactor, scrollX, scrollY, scrollStart, timelineX, fixBeats
+	global upEvent, currentEvent, quantVals, quantList, idealBeat, version, name, infoDelay, le, infoCount, trigTime, directTime, timeMarkLength, scrollPoint, updateScroll, zoomFactor, scrollX, scrollY, scrollStart, timelineX, fixBeats, prefs
 	upEvent = True# prevents keywords calling update to shared[EventBank]
-	sharedDict['GENER8_STATUS'][4] = True
-#	modul8.setValue('ctrl_layer_media',sharedDict['EVENTBANK'][currentEvent][1],0)
 	trigTime = sharedDict['TIMECODE']['SEC']
 	modul8.setValue('ctrl_layer_movie_positionIn',sharedDict['EVENTBANK'][currentEvent][3],0)
 	modul8.setValue('ctrl_layer_movie_positionOut',sharedDict['EVENTBANK'][currentEvent][4],0)
@@ -11951,9 +12340,14 @@ def updateEvent ():
 	modul8.setValue('ctrl_layer_color_modulateG', sharedDict['EVENTBANK'][currentEvent][33],0)
 	modul8.setValue('ctrl_layer_color_modulateB', sharedDict['EVENTBANK'][currentEvent][34],0)
 #	modul8.setValue('ctrl_layer_soundOutLevel', sharedDict['EVENTBANK'][currentEvent][35],0)
-	modul8.setValue('ctrl_layer_transition_duration', sharedDict['EVENTBANK'][currentEvent][36],0)
-	modul8.setValue('ctrl_layer_transition_durationDelta', sharedDict['EVENTBANK'][currentEvent][37],0)
-	modul8.setValue('ctrl_layer_transition_type', sharedDict['EVENTBANK'][currentEvent][38],0)
+	if prefs['transOn']:
+		modul8.setValue('ctrl_layer_transition_duration', prefs['transDuration'],0)
+		modul8.setValue('ctrl_layer_transition_durationDelta', prefs['durationDelta'],0)
+		modul8.setValue('ctrl_layer_transition_type', 1.0,0)
+	else:
+		modul8.setValue('ctrl_layer_transition_duration', sharedDict['EVENTBANK'][currentEvent][36],0)
+		modul8.setValue('ctrl_layer_transition_durationDelta', sharedDict['EVENTBANK'][currentEvent][37],0)
+		modul8.setValue('ctrl_layer_transition_type', sharedDict['EVENTBANK'][currentEvent][38],0)
 
 	modul8.setValue('ctrl_layer_pixelFX_blurLevel',sharedDict['EVENTBANK'][currentEvent][39],0)
 	modul8.setValue('ctrl_layer_pixelFX_blurOn',sharedDict['EVENTBANK'][currentEvent][40],0)
@@ -12050,7 +12444,6 @@ def updateEvent ():
 		modul8.setValue('ctrl_layer_soundOutBalance',sharedDict['EVENTBANK'][currentEvent][126],0)
 		modul8.setValue('ctrl_layer_soundOutLinkToAlphaAndCrossfader',sharedDict['EVENTBANK'][currentEvent][127],0)
 	upEvent = False# allows keywords to update shared[EventBank]
-	sharedDict['GENER8_STATUS'][4] = False
 	name = str(sharedDict['EVENTBANK'][currentEvent][2])
 	module.setValue('UIloopName',0,sharedDict['EVENTBANK'][currentEvent][2])
 	module.setValue('offsetTime',0,sharedDict['EVENTBANK'][currentEvent][6])
@@ -12067,19 +12460,26 @@ def updateEvent ():
 	zoomFactor = 1
 	updateScroll = True
 	updateKeywordList()
-	if sharedDict['EVENTBANK'][currentEvent][1] != 999 and sharedDict['EVENTBANK'][currentEvent][1] &lt; 128:
-		le = 0
-		infoCount = 0
-		infoDelay = 1
-	else:
-		getValues()
+	if sharedDict['EVENTBANK'][currentEvent][14][3] != 'null':
+		timestretch()
+		clipUpdate()
+	getValues()
+
+
 
 def timestretch ():
-	#print 'Editor - timestretch()'
-	global currentEvent, upEvent, le, keywordsList, keywID, fixBeats, directTime, directTimepos, playDirection, version, restretch
+	print 'Editor - timestretch()'
+	global currentEvent, upEvent, le, keywordsList, keywID, fixBeats, directTime, directTimepos, playDirection, version, restretch, masterSpdDivisor, logicRender
 #	include divisors for ctrl_master_speed
-	if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0:
+	if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0 and logicRender == False:
 		typ = modul8.getValue('info_layer_media_type',0)
+		if sharedDict['LINK_MASTER_SPEED']:
+			masterSpdDivisor = 1
+		else:	
+			masterSpd = modul8.getValue('ctrl_master_speed',0)
+			masterSpdDivisor = masterSpd*2
+#		to resolve zero division error:
+		if masterSpdDivisor == 0: masterSpdDivisor = 1.0
 		if typ == 'MEDIA_MOVIE':
 			le = modul8.getValue('info_layer_media_timeLength',0)
 			if version &gt; 2.5:
@@ -12088,8 +12488,13 @@ def timestretch ():
 				directTimepos = modul8.getValue('direct_layer_movie_timePosition', 0)
 			secst = le*sharedDict['EVENTBANK'][currentEvent][3]
 			module.setAttribute('UIleng','caption',str(le))
-			bps = float(sharedDict['TIMECODE']['BPM'])/60
-			spb = 1/bps
+			if sharedDict['TIMECODE']['BPM'] == 0:
+				bps = 1.0
+				spb = 1.0
+#				except these values should be infinite...
+			else:
+				bps = float(sharedDict['TIMECODE']['BPM'])/60
+				spb = 1/bps
 #			cutLength = (le*(sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3]))/spdFac
 			if sharedDict['EVENTBANK'][currentEvent][11] == 2:
 #			userBeat mode
@@ -12110,8 +12515,9 @@ def timestretch ():
 							beatsLeft = sharedDict['EVENTBANK'][currentEvent][8]*percOfRel
 	#						sharedDict['EVENTBANK'][currentEvent][5] = 0.25*(le*(sharedDict['EVENTBANK'][currentEvent][4]-directTimepos))/((beatsLeft*sharedDict['EVENTBANK'][currentEvent][10])*(60.0/float(sharedDict['TIMECODE']['BPM'])))
 							sharedDict['EVENTBANK'][currentEvent][5] = 0.25*(le*(sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3]))/(sharedDict['EVENTBANK'][currentEvent][8]*(60.0/float(sharedDict['TIMECODE']['BPM'])))
-						if percOfRel &lt; 1: restretch = 1
-						else: restretch = 0
+#						if percOfRel &lt; 1: restretch = 1
+#						else: restretch = 0
+						sharedDict['EVENTBANK'][currentEvent][5] /= masterSpdDivisor
 					if sharedDict['EVENTBANK'][currentEvent][5] &gt; 1:
 						match = False
 						while (match == False):
@@ -12162,7 +12568,7 @@ def timestretch ():
 				if sharedDict['EVENTBANK'][currentEvent][12]:					sharedDict['EVENTBANK'][currentEvent][5] = 0.25
 	#			else:
 	#				sharedDict['EVENTBANK'][currentEvent][4] = 1
-				spdFac = sharedDict['EVENTBANK'][currentEvent][5]*4
+				spdFac = (sharedDict['EVENTBANK'][currentEvent][5]*4)
 				cutLength = (le*(sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3]))/spdFac
 	#			cutLength == relLeng? used for clipUpdate() and beatWarp
 				module.setAttribute('UIleng','caption',str(le))
@@ -12193,11 +12599,13 @@ def timestretch ():
 				if fitToBeats &lt;= 1:
 					fitToBeats = 1
 				fitToLength = fitToBeats*spb
-				percentOfLength = (1/cutLength)*fitToLength
+#				div by zero error??
+				percentOfLength = (1.0/cutLength)*fitToLength
 	
 #				mode == speed
 				if sharedDict['EVENTBANK'][currentEvent][12]:
 					sharedDict['EVENTBANK'][currentEvent][5] = (0.25/percentOfLength)
+					sharedDict['EVENTBANK'][currentEvent][5] /= masterSpdDivisor
 					if sharedDict['EVENTBANK'][currentEvent][5] &gt; 0.5:
 						module.hideGroup('X2blue')
 						if sharedDict['EVENTBANK'][currentEvent][5] &gt; 1:
@@ -12220,14 +12628,13 @@ def timestretch ():
 						if directTime: modul8.setValue('ctrl_layer_movie_speedFactor',0,0)
 						else: modul8.setValue('ctrl_layer_movie_speedFactor',sharedDict['EVENTBANK'][currentEvent][5],0)
 						upEvent = False
-					#print 'speedFactor: '+str(sharedDict['EVENTBANK'][currentEvent][5])
 					module.setValue('speedTime',0, sharedDict['EVENTBANK'][currentEvent][5])
 					spd = sharedDict['EVENTBANK'][currentEvent][5]*4
 					module.setValue('speedNum',0, spd)
 					
 				else:
 #				mode == length
-					sharedDict['EVENTBANK'][currentEvent][4] = ((1/(le/spdFac))*fitToLength)+sharedDict['EVENTBANK'][currentEvent][3]
+					sharedDict['EVENTBANK'][currentEvent][4] = ((1/(le/(spdFac/masterSpdDivisor)))*fitToLength)+sharedDict['EVENTBANK'][currentEvent][3]
 					if (sharedDict['EVENTBANK'][currentEvent][4]+sharedDict['EVENTBANK'][currentEvent][3]) &gt; 1:
 						sharedDict['EVENTBANK'][currentEvent][4] = ((sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3])/2)+sharedDict['EVENTBANK'][currentEvent][3]
 						fitToBeats /= 2
@@ -12241,7 +12648,6 @@ def timestretch ():
 					upEvent = True
 					modul8.setValue('ctrl_layer_movie_positionOut',sharedDict['EVENTBANK'][currentEvent][4],0)
 					upEvent = False# allows keywords to update shared[EventBank]
-	#				print 'outPoint: '+str(sharedDict['EVENTBANK'][currentEvent][4])
 				sharedDict['EVENTBANK'][currentEvent][8] = fitToBeats
 			module.setValue('UIuserBeats',0,sharedDict['EVENTBANK'][currentEvent][8])
 			secen = le*sharedDict['EVENTBANK'][currentEvent][4]
@@ -12256,6 +12662,8 @@ def timestretch ():
 			else:
 				keyName = 'none'
 			drawEnvelope(keyName)	
+
+
 
 def updateKeywordList( ):
 #	print 'updateKeywordList()'
@@ -12282,9 +12690,9 @@ def updateKeywordList( ):
 	keywordsList.sort()
 	keyListLength = len(keywordsList)
 	module.setAttribute('UIkeywordList','TEXTLIST', keywordsList)
+	module.setValue('UIkeyText',0,'')
 	module.hideGroup('deletePoint')
-#	module.setValue('UIkeywordList',0,keywordsList[keywID])
-#	module.setValue('UIkeywordList',0,None)
+	module.setAttribute('UIkeyText', 'HIDDEN', True)
 	if timeMarkLength &gt; 2:
 		directTime = True
 	else:
@@ -12296,16 +12704,27 @@ def updateKeywordList( ):
 		keywID = -1
 		drawEnvelope('none')
 
+
+
 def clipBeatPos ():
 #	print 'Editor: clipBeatPos( )'
-	global clipBeats, clipBars, currentEvent, le, timelineX, zoomFactor, beatDiv, rel
+	global clipBeats, clipBars, currentEvent, le, timelineX, zoomFactor, beatDiv, rel, masterSpdDivisor
 	typ = modul8.getValue('info_layer_media_type',0)
 	le = modul8.getValue('info_layer_media_timeLength',0)
 	clipBeats = []
 	if typ == 'MEDIA_MOVIE':
 #		bps = (sharedDict['TIMECODE']['BPM']/60)
+
+#	error on pauseClip or zero speed
+
+
 		rel = le/(sharedDict['EVENTBANK'][currentEvent][5]*4)
-		beatsPerClip = rel*(sharedDict['TIMECODE']['BPM']/60)
+		if sharedDict['LINK_MASTER_SPEED']:
+			beatsPerClip = rel*(sharedDict['TIMECODE']['BPM']/60)
+		else:
+			beatsPerClip = rel*(sharedDict['TIMECODE']['BPM']/60)/masterSpdDivisor
+		if sharedDict['TIMECODE']['BPM'] == 0:
+			beatsPerClip = 1.0
 #		Reduce total visible beats markers to speed up drawing
 		beatDiv = 1
 		maxVisible = 64 * zoomFactor
@@ -12321,7 +12740,6 @@ def clipBeatPos ():
 				bt -= 1
 				bt *= timelineX
 				clipBeats.append(bt)
-#				clipBeats.insert(0,bt)
 			else:
 				bt *= timelineX
 				clipBeats.append(bt)
@@ -12329,7 +12747,8 @@ def clipBeatPos ():
 
 def drawEnvelope(keywordName):
 #	print 'Editor: drawEnvelope('+str(keywordName)+')' 
-	global keyEventLength, keypoint, timelineX, timelineY, currentEvent, clipBeats, timeMarkLength, timeWarpPoint, scrollPoint, updateScroll, zoomFactor, barWidth, scrollX, scrollY, scrollStart, beatDiv, keywID
+	global keyEventLength, keypoint, timelineX, timelineY, currentEvent, clipBeats, timeMarkLength, timeWarpPoint, scrollPoint, updateScroll, zoomFactor, barWidth, scrollX, scrollY, scrollStart, beatDiv, keywID, keywordRange, colours, screenMult
+	
 	module.hideGroup('lfo')
 	module.clearDrawings('UItimeline')
 	module.clearDrawings('UIinOut')
@@ -12337,9 +12756,15 @@ def drawEnvelope(keywordName):
 	if updateScroll:
 		module.clearDrawings('UIscrollBar')
 		barWidth = scrollX/zoomFactor
+		if barWidth &lt; 16:
+			barW = 16
+			scrollP = scrollPoint - ((16-barWidth)/2)
+		else:
+			barW = barWidth
+			scrollP = scrollPoint
 		module.paintRect('UIscrollBar',0,0,scrollX,scrollY,0.078,0.11,0.15,1.0)
-		module.paintRect('UIscrollBar',scrollPoint+1,1,(barWidth-2),scrollY-2,0.3,0.4,0.6,1.0)
-		module.paintRect('UIscrollBar',(scrollPoint+3),3,(barWidth-6),10,0.183, 0.293 ,0.437,1.0)
+		module.paintRect('UIscrollBar',scrollP+1,1,(barW-2),scrollY-2,0.3,0.4,0.6,1.0)
+		module.paintRect('UIscrollBar',(scrollP+3),3,(barW-6),10,0.183, 0.293 ,0.437,1.0)
 		updateScroll = False
 		module.finishDrawings('UIscrollBar')
 	inPoint = (sharedDict['EVENTBANK'][currentEvent][3]*timelineX)-scrollStart
@@ -12349,15 +12774,27 @@ def drawEnvelope(keywordName):
 	module.paintRect('UIinOut',inPoint,0,outWidth,12,0.3,0.3,0.4,1.0)
 	module.drawLine('UIinOut',inPoint,0,inPoint,15,2,0.8,0.8,0.8,1.0)
 	module.drawLine('UIinOut',outPoint,0,outPoint,15,2,0.8,0.8,0.8,1.0)
+	
 	btLen = len(clipBeats)
 	for n in range (btLen):
+#		y = n%sharedDict['TIMECODE']['BAR_BEATS']
+#		beatPercent = (1.0/sharedDict['TIMECODE']['BAR_BEATS'])*(4-y)
 		if beatDiv &gt; sharedDict['TIMECODE']['BAR_BEATS']:
+		
+#			module.paintRect('UItimeline',clipBeats[n]-scrollStart,0,clipBeats[1],timelineY,(colours['mid'][0]*(0.5*beatPercent)),(colours['mid'][1]*(beatPercent)),colours['mid'][2],0.9)
+			
 			module.drawLine('UItimeline',clipBeats[n]-scrollStart,0,clipBeats[n]-scrollStart,timelineY,2,0.2,0.4,0.5,1.0)
 		else:
 			if n%(sharedDict['TIMECODE']['BAR_BEATS']/beatDiv) == 0:
+#				module.paintRect('UItimeline',clipBeats[n]-scrollStart,0,clipBeats[1],timelineY,(colours['mid'][0]*(0.5*beatPercent)),(colours['mid'][1]*(beatPercent)),colours['mid'][2],0.9)
 	 			module.drawLine('UItimeline',clipBeats[n]-scrollStart,0,clipBeats[n]-scrollStart,timelineY,2,0.25,0.35,0.45,1.0)
 			else:
+#				module.paintRect('UItimeline',clipBeats[n]-scrollStart,0,clipBeats[1],timelineY,(colours['mid'][0]*(0.5*beatPercent)),(colours['mid'][1]*(beatPercent)),colours['mid'][2],0.9)
 				module.drawLine('UItimeline',clipBeats[n]-scrollStart,0,clipBeats[n]-scrollStart,timelineY,2,0.2,0.3,0.4,1.0)
+	
+	if keywordName.startswith('ctrl_layer_position'):
+		module.drawLine('UItimeline',0,timelineY/2,timelineX,timelineY/2,2,0.2,0.3,0.4,1.0)
+		
 	syncX = sharedDict['EVENTBANK'][currentEvent][6]*timelineX-scrollStart
 	syncR = syncX+7
 	module.drawLine('UIinOut',syncX,0,syncX,23,1,0.8,1.0,0.8,1.0)
@@ -12382,7 +12819,12 @@ def drawEnvelope(keywordName):
 	if keywordName == 'lfo':
 		module.hideGroup('env')
 		module.showGroup('envSwitch')
+		module.setValue('UILFO1',0,sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][2])
+		module.setValue('UILFO2',0,sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][3])
+		module.setValue('UILFO3',0,sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][4])
+		module.setValue('UILFO4',0,sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][5])
 		module.showGroup('lfo')
+		
 	if keywordName != 'none' and keywordName != 'lfo':
 		keywID = keywordsList.index(keywordName)
 		module.setValue('UIkeywordList',0,keywID)
@@ -12394,11 +12836,28 @@ def drawEnvelope(keywordName):
 			currentPoint = [0,0]
 			first = True
 			firstPoint = [0,0]
+			if keywordName in keywordRange:
+				Ydivisor = 1.0/keywordRange[keywordName]
+			else:
+				Ydivisor = 1
+				
 			for k in range (keyEventLength):
 				if keywordName == sharedDict['EVENTBANK'][currentEvent][129][k][1]:
-		#			print 'found at :'+str(k)
 					currentPoint[0] = (sharedDict['EVENTBANK'][currentEvent][129][k][0]*timelineX)-scrollStart
 					currentPoint[1] = sharedDict['EVENTBANK'][currentEvent][129][k][2]*timelineY
+					
+					if keywordName.startswith('ctrl_layer_position'):
+						if keywordName == 'ctrl_layer_position_x':
+							currentPoint[1] /= screenMult[0]
+							currentPoint[1] += 32000
+							
+						if keywordName == 'ctrl_layer_position_y':
+							currentPoint[1] /= screenMult[1]
+							currentPoint[1] += 24000
+							
+							
+					currentPoint[1] *= Ydivisor
+					
 					if first:
 						firstPoint[0] = currentPoint[0]
 						firstPoint[1] = currentPoint[1]
@@ -12406,11 +12865,10 @@ def drawEnvelope(keywordName):
 					else:
 						if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] == 1:
 							module.drawLine('UItimeline',lastPoint[0],lastPoint[1], currentPoint[0], currentPoint[1], 1,0.6,0.6,0.6,1.0)
-	#						is not drawing the last line correctly, needs to draw to 1st Y
 						if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] == 0:
 							module.drawLine('UItimeline',lastPoint[0],lastPoint[1], currentPoint[0], lastPoint[1], 1,0.6,0.6,0.6,1.0)
 							module.drawLine('UItimeline',currentPoint[0],lastPoint[1], currentPoint[0], currentPoint[1], 1,0.6,0.6,0.6,1.0)
-					module.paintRect('UItimeline',(currentPoint[0]-2),(currentPoint[1]-2),5,5,0.8,0.8,0.8,1.0)
+					module.paintRect('UItimeline',(currentPoint[0]-2),(currentPoint[1]-2),5,6,0.8,0.8,0.8,1.0)
 					lastPoint[0] = currentPoint[0]
 					lastPoint[1] = currentPoint[1]		
 			module.drawLine('UItimeline',lastPoint[0],lastPoint[1], timelineX, lastPoint[1], 1,0.6,0.6,0.6,1.0)
@@ -12418,9 +12876,16 @@ def drawEnvelope(keywordName):
 			module.drawLine('UItimeline',firstPoint[0],lastPoint[1], firstPoint[0], firstPoint[1], 1,0.6,0.6,0.6,1.0)
 			if keypoint != -1:
 				selectX = (sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]*timelineX)-4-scrollStart
-				selectY = (sharedDict['EVENTBANK'][currentEvent][129][keypoint][2]*timelineY)-4
+				selectY = ((sharedDict['EVENTBANK'][currentEvent][129][keypoint][2]*timelineY)*Ydivisor-4)
+				if keywordName.startswith('ctrl_layer_position'):
+					if keywordName == 'ctrl_layer_position_x':
+						selectY /= screenMult[0]
+						selectY += (timelineY/2)-2
+					if keywordName == 'ctrl_layer_position_y':
+						selectY /= screenMult[1]
+						selectY += (timelineY/2)-2
 				module.setValue('UIenvPrecise',0,sharedDict['EVENTBANK'][currentEvent][129][keypoint][2])
-				module.frameRect('UItimeline',selectX,selectY,8,8,1,0.5,0,1.0)
+				module.frameRect('UItimeline',selectX,selectY,9,9,1,0.5,0,1.0)
 		elif keyEventLength &gt; 0 and sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] == 2:
 			module.showGroup('lfo')
 			module.showGroup('envSwitch')
@@ -12431,6 +12896,8 @@ def drawEnvelope(keywordName):
 			module.setValue('UILFO4',0,sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][5])
 	module.finishDrawings('UItimeline')
 	module.finishDrawings('UIinOut')
+
+
 
 def disableAuto( ):
 #	print 'Editor: disableAuto()' 
@@ -12446,6 +12913,7 @@ def disableAuto( ):
 	module.hideGroup('/2grey')
 	module.hideGroup('1/1blue')
 	module.setValue('UIuser',0,0)
+
 
 
 def deletePoint ():
@@ -12483,6 +12951,7 @@ def deletePoint ():
 
 #updateKeywordList()
 
+
 sharedDict['GENER8_STATUS'][2] = True
 sharedDict['GENER8_STATUS'][3] = versionNum
 #print 'Gener8 Status = '+str(sharedDict['GENER8_STATUS'])</string>
@@ -12508,11 +12977,15 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 			keyw = keywrd.split('ctrl_layer_')
 			keywordName = keyw[1]
 			if keywordName in eventKeywords:
-#				print 'keyword update'
-#				print keyword
 				keywordNum = eventKeywords.index(keywordName)
-#				print param
 				if keywrd.startswith ('ctrl_layer_media'):
+					if param == 128:
+#					syphon input
+						sharedDict['EVENTBANK'][currentEvent][136] = modul8.getValue('direct_layer_syphon_input',0)
+						syphonCurrent = modul8.getValue('direct_layer_syphon_input',0)
+					else:
+						syphonCurrent = None
+						
 					sharedDict['EVENTBANK'][currentEvent][keywordNum] = param
 					module.setValue('UImediaNum',0,param)
 					sharedDict['EVENTBANK'][currentEvent][11] = 1
@@ -12536,9 +13009,9 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 					modul8.setValue('ctrl_layer_movie_speedFactor',0.25,0)
 					modul8.setValue('ctrl_layer_movie_positionOut',1.0,0)
 					upEvent = False
-#					upKeys = True
+
 					if sharedDict['EVENTBANK'][currentEvent][1] &lt; 128:
-						le = 0
+						sharedDict['EVENTBANK'][currentEvent][14] = ['', '', 0.0, 'new', '']
 						infoCount = 0
 						infoDelay = 1
 						fixBeats = 'none'
@@ -12553,9 +13026,8 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 						upEvent = True
 						modul8.setValue('ctrl_layer_movie_speedFactor',sharedDict['EVENTBANK'][currentEvent][5],0)
 						upEvent = False
-#					upKeys = True
+
 					getValues()
-					#print 'getValues timestretch()'
 					timestretch()
 				else:
 					sharedDict['EVENTBANK'][currentEvent][keywordNum] = param
@@ -12568,9 +13040,9 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 			smoothLength = len(sharedDict['EVENTBANK'][currentEvent][131])
 			if not sharedDict['EVENTBANK'][currentEvent][130].has_key(keyword):
 				sharedDict['EVENTBANK'][currentEvent][130][keyword] = [0,smoothLength,0,0,0,0,0]
-				sharedDict['EVENTBANK'][currentEvent][131].append([timePos,param])
+				sharedDict['EVENTBANK'][currentEvent][131].append([[timePos,param]])
 			else:
-				sharedDict['EVENTBANK'][currentEvent][131][sharedDict['EVENTBANK'][currentEvent][130][keyword][1]].append([timePos,param])
+				sharedDict['EVENTBANK'][currentEvent][131][ sharedDict['EVENTBANK'][currentEvent][130][keyword][1] ].append([timePos,param])
 		
 	if listen and keyword == 'ctrl_ui_focusedControl':
 		if param.startswith ('ctrl_layer') and param not in keywordsList:
@@ -12579,8 +13051,7 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 			smoothLength = len(sharedDict['EVENTBANK'][currentEvent][131])
 			if not sharedDict['EVENTBANK'][currentEvent][130].has_key(param):
 				sharedDict['EVENTBANK'][currentEvent][130][param] = [0,smoothLength,0,0,0,0,0]
-				smdata = [0.0,val]
-				sharedDict['EVENTBANK'][currentEvent][131].append([smdata])
+				sharedDict['EVENTBANK'][currentEvent][131].append([[0.0,val]])
 			listen = False
 			module.setValue('UIkeyPick',0,0)
 			updateKeywordList()
@@ -12612,7 +13083,13 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 			keyName = keywordsList[keywID]
 		else:
 			keyName = 'none'
-		drawEnvelope(keyName)</string>
+		drawEnvelope(keyName)
+	
+	if keyword == 'ctrl_master_speed' :
+		if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0:
+			timestretch()
+		else:
+			clipUpdate()</string>
 	<key>SCRIPT_MESSAGE</key>
 	<string>if msg == 'inOut':
 	if param['ACTION'] == 'MOUSEDOWN' and param['X'] &gt;= 0 and param['X'] &lt;= timelineXactual and param['Y'] &lt; 12:
@@ -12622,15 +13099,25 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 		module.hideGroup('deletePoint')
 		scrollFactor = scrollStart*zoomFactor
 	if param['ACTION'] == 'MOUSEDOWN' or param['ACTION'] == 'MOUSEDRAGGED' and timeWarpPoint == -1:
-		if param['X'] &gt;= 0 and param['X'] &lt;= timelineXactual and ioDrag:
+#		if param['X'] &gt;= 0 and param['X'] &lt;= timelineXactual and ioDrag:
+		
+		if ioDrag:
+			if param['X'] &lt;= 0:
+				xParam = 0
+			elif param['X'] &gt;= timelineXactual:
+				xParam = timelineXactual
+			else:
+				xParam = param['X']
 			le = modul8.getValue('info_layer_media_timeLength',0)
-			xPercent = (param['X']+scrollStart)/timelineX
+			
+			xPercent = (xParam+scrollStart)/timelineX
 			if xPercent &lt; (sharedDict['EVENTBANK'][currentEvent][3]+((sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3])/2)):
 				st = xPercent
 				secst = le*sharedDict['EVENTBANK'][currentEvent][3]
 				secen = le*sharedDict['EVENTBANK'][currentEvent][4]
 				clipBeatPos()
 				upEvent = True
+				
 				if st &lt; sharedDict['EVENTBANK'][currentEvent][4]:
 					modul8.setValue('ctrl_layer_movie_positionIn',st,0)
 					sharedDict['EVENTBANK'][currentEvent][3] = st
@@ -12646,6 +13133,7 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 					module.setValue('startNum',0, secen)
 					module.setValue('offsetTime',0,sharedDict['EVENTBANK'][currentEvent][4])
 					module.getValue('offsetNum',0,secen)
+				scrub(xPercent,1)
 			else:
 				en = xPercent
 				secen = le*en
@@ -12653,7 +13141,7 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 				upEvent = True
 				if en &gt; sharedDict['EVENTBANK'][currentEvent][3]:
 					modul8.setValue('ctrl_layer_movie_positionOut',en,0)
-			#		modul8.setValue('direct_layer_media_timePosition',param['value'],0)
+					scrub(xPercent,1)
 					sharedDict['EVENTBANK'][currentEvent][4] = en
 					module.setValue('endNum',0, secen)
 					if en &lt; sharedDict['EVENTBANK'][currentEvent][6]:
@@ -12662,6 +13150,7 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 				else:
 					sharedDict['EVENTBANK'][currentEvent][4] = float(sharedDict['EVENTBANK'][currentEvent][3])
 					modul8.setValue('ctrl_layer_movie_positionOut',sharedDict['EVENTBANK'][currentEvent][3],0)
+					scrub(xPercent,1)
 					module.setValue('endNum',0, secst)
 					module.setValue('offsetTime',0,sharedDict['EVENTBANK'][currentEvent][3])
 					module.setValue('offsetNum',0,secst)
@@ -12705,10 +13194,17 @@ sharedDict['GENER8_STATUS'][3] = versionNum
 				timeWarpPoint = -1
 			keypoint = -1
 	elif param['ACTION'] == 'MOUSEDRAGGED' and timeWarpPoint != -1 and ioDrag == False:
-		if param['X'] &gt;= 0 and param['X'] &lt;= (timelineX/zoomFactor):
-			sharedDict['EVENTBANK'][currentEvent][134][timeWarpPoint][0] = (param['X']+scrollStart)/timelineX
+		if param['X'] &lt;= 0:
+			xParam = 0
+		elif param['X'] &gt;= (timelineX/zoomFactor):
+			xParam = (timelineX/zoomFactor)
+		else:
+			xParam = param['X']
+#		if param['X'] &gt;= 0 and param['X'] &lt;= (timelineX/zoomFactor):
+		sharedDict['EVENTBANK'][currentEvent][134][timeWarpPoint][0] = (xParam+scrollStart)/timelineX
 	if param['ACTION'] == 'MOUSEUP' and ioDrag:
-		ioDrag = False 
+		ioDrag = False
+		scrub(xPercent,0)
 	drawEnvelope(keyName)
 
 		
@@ -13078,21 +13574,9 @@ if msg == 'sCenter' and param['value'] :
 
 if msg == 'resync': clipUpdate()
 
-if msg == 'pauseClip' and param['value']:
-	sharedDict['EVENTBANK'][currentEvent][135] = True
-	pauseVal = sharedDict['EVENTBANK'][currentEvent][5]
-	upEvent = True
-	modul8.setValue('ctrl_layer_movie_speedFactor',0,0)
-	upEvent = False
-	
-if msg == 'pauseClip' and param['value'] == 0:
-	sharedDict['EVENTBANK'][currentEvent][135] = False
-	sharedDict['EVENTBANK'][currentEvent][5] = pauseVal
-	upEvent = True
-	if directTime: modul8.setValue('ctrl_layer_movie_speedFactor',0,0)
-	else: modul8.setValue('ctrl_layer_movie_speedFactor',sharedDict['EVENTBANK'][currentEvent][5],0)
-	upEvent = False
-#	clipUpdate()
+if msg == 'pauseClip':
+	pauseClip(param['value'])
+
 	
 if msg == 'record':
 	recordVal = param['value']
@@ -13110,6 +13594,32 @@ if msg == 'keyPick':
 		module.setValue('UIkeyPick',0,1)
 	else:
 		module.setValue('UIkeyPick',0,0)
+
+
+if msg == 'keyText':
+	newKey = str(param['text'])
+	if sharedDict['EVENTBANK'][currentEvent][129] != []:
+		keysList = modul8.getValue('info_keywords',0)
+		if newKey in keysList and newKey.startswith('ctrl_layer'):
+			envSafe = 0
+			envProtect = 0
+			oldKey = keywordsList[keywID]
+			if newKey != oldKey:			
+				for nk in range (len(sharedDict['EVENTBANK'][currentEvent][129])):
+					if sharedDict['EVENTBANK'][currentEvent][129][nk][1] == oldKey:
+						sharedDict['EVENTBANK'][currentEvent][129][nk][1] = newKey
+
+				sharedDict['EVENTBANK'][currentEvent][130][newKey] = copy.deepcopy(sharedDict['EVENTBANK'][currentEvent][130][oldKey])
+				keywordsList[keywID] = newKey
+				del sharedDict['EVENTBANK'][currentEvent][130][oldKey]
+				updateKeywordList()
+			envSafe = 1
+		else:
+			newKey = sharedDict['EVENTBANK'][currentEvent][129][keywID][1]
+	else:
+		newKey = ''
+	module.setValue('UIkeyText',0,newKey)	
+		
 		
 if msg == 'keywordList':
 	keywID = int(param['selection'])
@@ -13119,6 +13629,8 @@ if msg == 'keywordList':
 	scrollPoint = 0
 	scrollStart = 0
 	module.hideGroup('deletePoint')
+	module.setValue('UIkeyText',0,sharedDict['EVENTBANK'][currentEvent][129][keywID][1])
+	module.setAttribute('UIkeyText', 'HIDDEN', False)
 	typ = modul8.getValue('info_layer_media_type',0)
 	if typ != 'MEDIA_MOVIE':
 		sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] = 2
@@ -13153,11 +13665,15 @@ if msg == 'keywordList':
 if msg == 'keyDelete' and param['value'] == 0:
 	if keyEventLength &gt; 0:
 		id = sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][1]
-#		print sharedDict['EVENTBANK'][currentEvent][131]
-#		print id
-#		print sharedDict['EVENTBANK'][currentEvent][131][id]
-#		having trouble deleting last item in list when only 1 left
+		envSafe = 0
+		envProtect = 0
 		del sharedDict['EVENTBANK'][currentEvent][131][id]
+
+		for x in sharedDict['EVENTBANK'][currentEvent][130]:
+
+			if sharedDict['EVENTBANK'][currentEvent][130][x][1] &gt; id:
+				sharedDict['EVENTBANK'][currentEvent][130][x][1] -= 1
+				
 		smoothLength = len(sharedDict['EVENTBANK'][currentEvent][131])
 		del sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]]
 		delKeys = []
@@ -13172,6 +13688,13 @@ if msg == 'keyDelete' and param['value'] == 0:
 		keyEventLength = len(sharedDict['EVENTBANK'][currentEvent][129])
 		keywID = -1
 		updateKeywordList()
+		envSafe = 1
+		if keywID != -1 and sharedDict['EVENTBANK'][currentEvent][129] != []:
+			keyName = keywordsList[keywID]
+		else:
+			keyName = 'none'
+		drawEnvelope(keyName)
+		
 
 if msg == 'deletePoint' and param['value'] == 0:
 	deletePoint()
@@ -13179,9 +13702,30 @@ if msg == 'deletePoint' and param['value'] == 0:
 
 if msg == 'timeline':
 	if sharedDict['EVENTBANK'][currentEvent][129] != [] and sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] != 2:
+		intKey = 0
+		for kint in range (keyintLen):
+			if keywordIntegers[kint] == keywordsList[keywID]:
+				intKey = 1
+				break
 		if param['ACTION'] == 'MOUSEDOWN' or param['ACTION'] == 'MOUSEDRAGGED' and keypoint == -1:
 			xpoint = (param['X']+scrollStart)/timelineX
-			keydata = [xpoint, keywordsList[keywID], (param['Y']/timelineY)]
+			ypoint = (param['Y']/timelineY)
+			if keywordsList[keywID] in keywordRange:
+				ypoint *= keywordRange[keywordsList[keywID]]
+			if keywordsList[keywID].startswith('ctrl_layer_position'):
+				if keywordsList[keywID] == 'ctrl_layer_position_x':
+					ypoint -= 320
+					ypoint *= screenMult[0]
+				if keywordsList[keywID] == 'ctrl_layer_position_y':
+					ypoint -= 240
+					ypoint *= screenMult[1]
+				ypoint *= 2
+			if intKey:
+				if (ypoint - int(ypoint)) &gt;= 0.5:
+					ypoint += 1
+				ypoint = int(ypoint)
+
+			keydata = [xpoint, keywordsList[keywID], ypoint]
 			selectKey = False
 			for kd in range (keyEventLength):
 				if sharedDict['EVENTBANK'][currentEvent][129][kd][1] == keywordsList[keywID]:
@@ -13194,72 +13738,105 @@ if msg == 'timeline':
 						break
 			if not selectKey:
 				module.hideGroup('deletePoint')
-				sharedDict['EVENTBANK'][currentEvent][129].append(keydata)
-				sharedDict['EVENTBANK'][currentEvent][129].sort()
-				id = sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][1]
-				sharedDict['EVENTBANK'][currentEvent][131][id].append([keydata[0],keydata[2]])
-				smoothLength = len(sharedDict['EVENTBANK'][currentEvent][131])
-				keyEventLength = len(sharedDict['EVENTBANK'][currentEvent][129])
-				for x in range (smoothLength):
-					sharedDict['EVENTBANK'][currentEvent][131][x].sort()
+				if keypoint == -1:
+					envSafe = 0
+					envProtect = 0
+					sharedDict['EVENTBANK'][currentEvent][129].append(keydata)
+					sharedDict['EVENTBANK'][currentEvent][129].sort()
+					id = sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][1]
+					sharedDict['EVENTBANK'][currentEvent][131][id].append([keydata[0],keydata[2]])
+					smoothLength = len(sharedDict['EVENTBANK'][currentEvent][131])
+					keyEventLength = len(sharedDict['EVENTBANK'][currentEvent][129])
+					for x in range (smoothLength):
+						sharedDict['EVENTBANK'][currentEvent][131][x].sort()
+					envSafe = 1
 				keypoint = -1
+				
 			timeWarpPoint = -1
 		elif param['ACTION'] == 'MOUSEDRAGGED' and keypoint != -1:
-			if param['X'] &gt;= 0 and param['X'] &lt;= (timelineX/zoomFactor) and param['Y'] &gt;= 0 and param['Y'] &lt;= timelineY:
-				Xdata = sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]
-				if sharedDict['EVENTBANK'][currentEvent][11]:
-					for n in range (len(clipBeats)):
-						if (param['X']+scrollStart) &gt; (clipBeats[n]-beatSnap) and (param['X']+scrollStart) &lt; (clipBeats[n]+beatSnap):
-							sharedDict['EVENTBANK'][currentEvent][129][keypoint][0] = clipBeats[n]/timelineX
+			envSafe = 0
+			envProtect = 0
+			Xdata = sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]
+			if param['X'] &lt;= 0:
+				xpoint = 0 + scrollStart
+			elif param['X'] &gt;= (timelineX/zoomFactor):
+				xpoint = (timelineX/zoomFactor)+scrollStart
+			else:
+				xpoint = param['X'] + scrollStart
+			if sharedDict['EVENTBANK'][currentEvent][11]:
+				for n in range (len(clipBeats)):
+					if xpoint &gt; (clipBeats[n]-beatSnap) and xpoint &lt; (clipBeats[n]+beatSnap):
+						sharedDict['EVENTBANK'][currentEvent][129][keypoint][0] = clipBeats[n]/timelineX
+						break
+					else:
+						sharedDict['EVENTBANK'][currentEvent][129][keypoint][0] = xpoint/timelineX
+			else:
+				sharedDict['EVENTBANK'][currentEvent][129][keypoint][0] = xpoint/timelineX
+			if param['Y'] &gt; timelineY:
+				ypoint = 1
+			elif param['Y'] &lt; 0:
+				ypoint = 0
+				if keywordsList[keywID] == 'ctrl_layer_alpha':
+					ypoint = 0.001
+			else:
+				ypoint = param['Y']/timelineY
+			if keywordsList[keywID] in keywordRange:
+				ypoint *= keywordRange[keywordsList[keywID]]
+			if keywordsList[keywID].startswith('ctrl_layer_position'):
+				if keywordsList[keywID] == 'ctrl_layer_position_x':
+					ypoint -= 320
+					ypoint *= screenMult[0]
+				if keywordsList[keywID] == 'ctrl_layer_position_y':
+					ypoint -= 240
+					ypoint *= screenMult[1]
+			if intKey:
+				if (ypoint - int(ypoint)) &gt;= 0.5:
+					ypoint += 1
+				ypoint = int(ypoint)
+			sharedDict['EVENTBANK'][currentEvent][129][keypoint][2] = ypoint
+			id = sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][1]
+			smLen = len(sharedDict['EVENTBANK'][currentEvent][131][id])
+			storeKeyTime = sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]
+			for xD in range (smLen):
+				if sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] == Xdata:
+					break
+			sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] = sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]
+			sharedDict['EVENTBANK'][currentEvent][131][id][xD][1] = sharedDict['EVENTBANK'][currentEvent][129][keypoint][2]
+			if keypoint &lt; keyEventLength-1:
+#				delete following keypoints on drag right
+				for kd in range (keypoint+1, keyEventLength):
+					if sharedDict['EVENTBANK'][currentEvent][129][kd][1] == keywordsList[keywID]:
+						if sharedDict['EVENTBANK'][currentEvent][129][kd][0] &lt;= sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]:
+							Xdata = sharedDict['EVENTBANK'][currentEvent][129][kd][0]
+							del sharedDict['EVENTBANK'][currentEvent][129][kd]
+							keyEventLength = len(sharedDict['EVENTBANK'][currentEvent][129])
+							smLen = len(sharedDict['EVENTBANK'][currentEvent][131][id])
+							for xD in range (smLen):
+								if sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] == Xdata:
+									break
+							del sharedDict['EVENTBANK'][currentEvent][131][id][xD]
 							break
 						else:
-							sharedDict['EVENTBANK'][currentEvent][129][keypoint][0] = (param['X']+scrollStart)/timelineX
-				else:
-					sharedDict['EVENTBANK'][currentEvent][129][keypoint][0] = (param['X']+scrollStart)/timelineX
-				sharedDict['EVENTBANK'][currentEvent][129][keypoint][2] = param['Y']/timelineY
-				id = sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][1]
-				smLen = len(sharedDict['EVENTBANK'][currentEvent][131][id])
-				storeKeyTime = sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]
-				for xD in range (smLen):
-					if sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] == Xdata:
-						break
-				sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] = sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]
-				sharedDict['EVENTBANK'][currentEvent][131][id][xD][1] = sharedDict['EVENTBANK'][currentEvent][129][keypoint][2]
-				if keypoint &lt; keyEventLength-1:
-#					delete following keypoints on drag right
-					for kd in range (keypoint+1, keyEventLength):
-						if sharedDict['EVENTBANK'][currentEvent][129][kd][1] == keywordsList[keywID]:
-							if sharedDict['EVENTBANK'][currentEvent][129][kd][0] &lt;= sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]:
-								Xdata = sharedDict['EVENTBANK'][currentEvent][129][kd][0]
-								del sharedDict['EVENTBANK'][currentEvent][129][kd]
-								keyEventLength = len(sharedDict['EVENTBANK'][currentEvent][129])
-								smLen = len(sharedDict['EVENTBANK'][currentEvent][131][id])
-								for xD in range (smLen):
-									if sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] == Xdata:
-										break
-								del sharedDict['EVENTBANK'][currentEvent][131][id][xD]
-								break
-							else:
-								break
+							break
 
-				if keypoint &gt; 0:
-#					delete previous keypoints on drag left
-					for ky in range(keypoint):
-						kd = keypoint-ky-1
-						if sharedDict['EVENTBANK'][currentEvent][129][kd][1] == keywordsList[keywID]:
-							if sharedDict['EVENTBANK'][currentEvent][129][kd][0] &gt;= sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]:
-								Xdata = sharedDict['EVENTBANK'][currentEvent][129][kd][0]
-								del sharedDict['EVENTBANK'][currentEvent][129][kd]
-								keyEventLength = len(sharedDict['EVENTBANK'][currentEvent][129])
-								smLen = len(sharedDict['EVENTBANK'][currentEvent][131][id])
-								for xD in range (smLen):
-									if sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] == Xdata:
-										break
-								del sharedDict['EVENTBANK'][currentEvent][131][id][xD]
-								break
-							else:
-								break
-			
+			if keypoint &gt; 0:
+#				delete previous keypoints on drag left
+				for ky in range(keypoint):
+					kd = keypoint-ky-1
+					if sharedDict['EVENTBANK'][currentEvent][129][kd][1] == keywordsList[keywID]:
+						if sharedDict['EVENTBANK'][currentEvent][129][kd][0] &gt;= sharedDict['EVENTBANK'][currentEvent][129][keypoint][0]:
+							Xdata = sharedDict['EVENTBANK'][currentEvent][129][kd][0]
+							del sharedDict['EVENTBANK'][currentEvent][129][kd]
+							keyEventLength = len(sharedDict['EVENTBANK'][currentEvent][129])
+							smLen = len(sharedDict['EVENTBANK'][currentEvent][131][id])
+							for xD in range (smLen):
+								if sharedDict['EVENTBANK'][currentEvent][131][id][xD][0] == Xdata:
+									break
+							del sharedDict['EVENTBANK'][currentEvent][131][id][xD]
+							break
+						else:
+							break
+		
 			sharedDict['EVENTBANK'][currentEvent][129].sort()
 			for kd in range (keyEventLength):
 				if sharedDict['EVENTBANK'][currentEvent][129][kd][1] == keywordsList[keywID] and sharedDict['EVENTBANK'][currentEvent][129][kd][0] == storeKeyTime:
@@ -13267,11 +13844,25 @@ if msg == 'timeline':
 					break
 			for x in range (smoothLength):
 				sharedDict['EVENTBANK'][currentEvent][131][x].sort()
+			envSafe = 1
 		drawEnvelope(keywordsList[keywID])
+
 
 if msg == 'envPrecise':
 	if keypoint != -1:
-		sharedDict['EVENTBANK'][currentEvent][129][keypoint][2] = param['value']
+		kval = param['value']
+		if keywordsList[keywID] in keywordRange:
+			if kval &gt;= keywordRange[keywordsList[keywID]]:
+				kval = keywordRange[keywordsList[keywID]]
+		else:
+			if kval &gt; 1: kval = 1
+		if intKey:
+			if (kval - int(kval)) &gt;= 0.5:
+				kval += 1
+			kval = int(kval)
+		if keywordsList[keywID] == 'ctrl_layer_alpha' and kval &lt;= 0:
+			kval = 0.001
+		sharedDict['EVENTBANK'][currentEvent][129][keypoint][2] = kval
 	else:
 		if param['value'] &gt; 1: newTime = 1.0
 		if param['value'] &lt; 0: newTime = 0.0
@@ -13313,6 +13904,7 @@ if msg == 'zoomPlus' and param['value'] :
 			keyName = 'none'
 		drawEnvelope(keyName)
 
+
 if msg == 'zoomMinus' and param['value'] :
 	if zoomFactor &gt; 1:
 		centerOfBar = (barWidth/2)+scrollPoint
@@ -13340,6 +13932,7 @@ if msg == 'zoomMinus' and param['value'] :
 			keyName = 'none'
 		drawEnvelope(keyName)
 
+
 if msg == 'zoomFit' and param['value']:
 	ioPercent = sharedDict['EVENTBANK'][currentEvent][4]-sharedDict['EVENTBANK'][currentEvent][3]
 	barWidth = scrollX*ioPercent
@@ -13356,41 +13949,82 @@ if msg == 'zoomFit' and param['value']:
 		keyName = 'none'
 	drawEnvelope(keyName)
 
-if msg == 'scrollBar' and param['ACTION'] == 'MOUSEDOWN':
-	scrollDrag = True
-	scrollDragOffset = [param['X'],param['Y']]
-	
-if msg == 'scrollBar' and param['ACTION'] == 'MOUSEDRAGGED':
-	zoomFactor += (param['Y']-scrollDragOffset[1])/10
-	if zoomFactor &lt; 1:
-		zoomFactor = 1.0
-	scrollDragOffset[1] = param['Y']
-	barWidth = scrollX/zoomFactor
-	percentOfView = (1.0/scrollX)*barWidth
-	XoffsetPercent = (1.0/scrollX)*(param['X']-(barWidth/2))
-	scrollPoint = scrollX*XoffsetPercent
-	if (scrollPoint + barWidth) &gt; scrollX:
-		scrollPoint = scrollX - barWidth
-	if scrollPoint &lt; 0:
-		scrollPoint = 0
-	if (XoffsetPercent + percentOfView) &gt; 1.0:
-		XoffsetPercent = 1.0 - percentOfView
-	if XoffsetPercent &lt; 0: XoffsetPercent = 0
-	timelineX = timelineXactual * zoomFactor
-	scrollStart = timelineX*XoffsetPercent
-	updateScroll = True
-	if keywID != -1 and sharedDict['EVENTBANK'][currentEvent][129] != []:
-		keyName = keywordsList[keywID]
-	else:
-		keyName = 'none'
-	drawEnvelope(keyName)
+
+if msg == 'scrollBar':
+	if param['ACTION'] == 'MOUSEDOWN':
+		scrollDrag = True
+		scrollDragOffset = [param['X'],param['Y']]
+	if param['ACTION'] == 'MOUSEUP':
+		if param['X'] &gt; (scrollPoint + barWidth):
+			scrollPoint += (barWidth/2)
+			if (scrollPoint + barWidth) &gt; scrollX:
+				scrollPoint = scrollX - barWidth
+			XoffsetPercent += (1.0/scrollX)*(barWidth)
+		if param['X'] &lt; scrollPoint:
+			scrollPoint -= (barWidth/2)
+			if scrollPoint &lt; 0: scrollPoint = 0
+			XoffsetPercent -= (1.0/scrollX)*(barWidth)
+		if (XoffsetPercent + percentOfView) &gt; 1.0:
+			XoffsetPercent = 1.0 - percentOfView
+		if XoffsetPercent &lt; 0: XoffsetPercent = 0
+		scrollStart = timelineX*XoffsetPercent
+		updateScroll = True
+		if keywID != -1 and sharedDict['EVENTBANK'][currentEvent][129] != []:
+			keyName = keywordsList[keywID]
+		else:
+			keyName = 'none'
+		drawEnvelope(keyName)
+		
+	if param['ACTION'] == 'MOUSEDRAGGED':
+		zoomFactor += (param['Y']-scrollDragOffset[1])/10
+		if zoomFactor &lt; 1:
+			zoomFactor = 1.0
+		scrollDragOffset[1] = param['Y']
+		barWidth = scrollX/zoomFactor
+		percentOfView = (1.0/scrollX)*barWidth
+		XoffsetPercent = (1.0/scrollX)*(param['X']-(barWidth/2))
+		scrollPoint = scrollX*XoffsetPercent
+		if (scrollPoint + barWidth) &gt; scrollX:
+			scrollPoint = scrollX - barWidth
+		if scrollPoint &lt; 0:
+			scrollPoint = 0
+		if (XoffsetPercent + percentOfView) &gt; 1.0:
+			XoffsetPercent = 1.0 - percentOfView
+		if XoffsetPercent &lt; 0: XoffsetPercent = 0
+		timelineX = timelineXactual * zoomFactor
+		scrollStart = timelineX*XoffsetPercent
+		updateScroll = True
+		if keywID != -1 and sharedDict['EVENTBANK'][currentEvent][129] != []:
+			keyName = keywordsList[keywID]
+		else:
+			keyName = 'none'
+		drawEnvelope(keyName)
+
+
 
 if msg == 'scrollBar' and param['ACTION'] == 'MOUSEUP':
 	scrollDrag = False
 
+		
+
+if msg == 'scrubBar':
+	scrubX = (param['X'] / timelineX)+scrollStart
+#	limit to zoom range and offset	
+	if param['ACTION'] == 'MOUSEDOWN':
+		scrub(scrubX,1)
+	if param['ACTION'] == 'MOUSEDRAGGED':
+		scrub(scrubX,1)	
+	if param['ACTION'] == 'MOUSEUP':
+		scrub(scrubX,0)
+
+
+
+
 if msg == 'envSwitch':
 #	print param
 	if keyEventLength &gt; 0:
+		envSafe = 0
+		envProtect = 0
 		sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] = param['value']
 		if param['value'] == 0:
 			drawEnvelope(keywordsList[keywID])
@@ -13406,19 +14040,28 @@ if msg == 'envSwitch':
 			module.hideGroup('env')
 			module.hideGroup('deletePoint')
 			module.showGroup('lfo')
+		envSafe = 1
+		
 
-if msg == 'smoothEnv':
+if msg == 'smoothEnv' and param['ACTION'] == 'MOUSEDOWN':
 	if keyEventLength &gt; 0:
-		if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0]:
+		envSafe = 0
+		envProtect = 0
+		if keywordsList[keywID] in keywordIntegers:
 			sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] = 0
-		else:
-			sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] = 1
+		else: 
+			if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0]:
+				sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] = 0
+			else:
+				sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] = 1
 #		sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0] = param['value']
+		envSafe = 1
 		drawEnvelope(keywordsList[keywID])
 		if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[keywID]][0]:
 			renderCurve('triangle')
 		else:
 			renderCurve('cut')
+
 
 if msg == 'LFO1' :
 	if keyEventLength &gt; 0:
@@ -13450,8 +14093,19 @@ if msg == 'prefs':
 		module.setValue('UIlatency',0,prefs['latency'])
 		module.setValue('UIscreenX',0,prefs['screenX'])
 		module.setValue('UIscreenY',0,prefs['screenY'])
+		module.setValue('UItransType',0,prefs['transOn'])
+		if prefs['transOn']:
+			if prefs['durationDelta'] == 0:
+				module.setValue('UIdurationDelta1',0,True)
+			if prefs['durationDelta'] == 1:
+				module.setValue('UIdurationDelta10',0,True)
+			if prefs['durationDelta'] == 2:
+				module.setValue('UIdurationDelta30',0,True)
+			module.setValue('UItransDuration',0,prefs['transDuration'])
+			module.showGroup('transitionPrefs')
 	elif param['value'] == 0:
 		module.hideGroup('preferences')
+		module.hideGroup('transitionPrefs')
 		typ = modul8.getValue('info_layer_media_type',0)
 		if typ != 'MEDIA_MOVIE':
 			module.showGroup('notime')
@@ -13482,121 +14136,174 @@ if msg == 'latency':
 	
 if msg == 'screenX':
 	prefs['screenX'] = param['value']
+	screenMult[0] = (prefs['screenX']/640.0)*2
 	module.setDefaults(prefs)
 	
 if msg == 'screenY':
 	prefs['screenY'] = param['value']
+	screenMult[1] = (prefs['screenY']/480.0)*2
 	module.setDefaults(prefs)
 	
 if msg == 'default' and param['value'] == 0:
-	prefDefaultReset()</string>
+	prefDefaultReset()
+	
+if msg == 'logicalRender':
+	logicRender = param['value']
+	timestretch()
+	
+if msg == 'transType':
+	prefs['transOn'] = param['value']
+	upEvent = True
+	if param['value']:
+		module.showGroup('transitionPrefs')
+		modul8.setValue('ctrl_layer_transition_type', 1.0,0)
+	else:
+		module.hideGroup('transitionPrefs')
+		modul8.setValue('ctrl_layer_transition_type', sharedDict['EVENTBANK'][currentEvent][38],0)
+	upEvent = False
+	module.setDefaults(prefs)
+
+if msg == 'durationDelta':
+	prefs['durationDelta'] = param['value']
+	module.setDefaults(prefs)
+
+if msg == 'transDuration':
+	prefs['transDuration'] = param['value']
+	modul8.setValue('ctrl_layer_transition_duration', prefs['transDuration'],0)
+	module.setDefaults(prefs)
+</string>
 	<key>SCRIPT_PAUSEEVENT</key>
-	<string>if paused:
-	sharedDict['GENER8_STATUS'][2] = False
-else:
-	sharedDict['GENER8_STATUS'][2] = True
+	<string>try:
+	if paused:
+		sharedDict['GENER8_STATUS'][2] = False
+	else:
+		sharedDict['GENER8_STATUS'][2] = True
+	
+	getCCount = 0
 
 
-getCCount = 0</string>
+except:
+	module.setAttribute('alertTitle', 'caption', 'PLEASE RESTART MODULE')
+	alertMsg = 'Press Restart from the Modules menu.'
+	module.setAttribute('alertContent','caption', alertMsg)
+	module.showGroup('Alert')
+	module.stop();
+</string>
 	<key>SCRIPT_PERIODICAL</key>
 	<string>if sharedDict['GENER8_STATUS'][0]:
 	module.hideGroup('Alert')
 	
 	for zE in range(10):
 		if sharedDict['GET_CONTROLS'][zE][0] == layerID and sharedDict['GET_CONTROLS'][zE][1] != sharedDict['GET_CONTROLS'][zE][3]:
-			#print 'Editor periodical Get Controls'
-#			print sharedDict['GET_CONTROLS']
 			focusedLayer = zE+1
 			lastClipID = currentEvent
 			currentEvent = sharedDict['GET_CONTROLS'][zE][2]
-			#print currentEvent
 			getControls()
 			sharedDict['GET_CONTROLS'][zE][3] = sharedDict['GET_CONTROLS'][zE][1]
 			break
+			
 		if sharedDict['EVENT_ID'][zE][0] == layerID and sharedDict['EVENT_ID'][zE][1] != updateCount:# this has bugged out! After stopping launchpad, then restarting, and loading a new clip in from the library
-			#print 'Editor periodical EventID update'
 			focusedLayer = zE+1
-#			perhaps create a currentEvent value for a retrigger command to avoid running updateEvent()?
-#			if sharedDict['EVENT_ID'][z][2] == -1:
-#				clipUpdate()
-#			else:
-#				currentEvent = sharedDict['EVENT_ID'][z][2]
 			lastClipID = currentEvent
 			currentEvent = sharedDict['EVENT_ID'][zE][2]
-			#print currentEvent
 			updateCount = sharedDict['EVENT_ID'][zE][1]
-			#print 'updateCount = '+str(updateCount)
-#			updateEvent()
 			upEvent = True# prevents keywords calling update to shared[EventBank]
-			sharedDict['GENER8_STATUS'][4] = True
 			nowTime = modul8.getValue('direct_layer_media_timePosition',0)
 			modul8.setValue('ctrl_layer_media',sharedDict['EVENTBANK'][currentEvent][1],0)
+			if sharedDict['EVENTBANK'][currentEvent][1] == 128:
+				modul8.setValue ('direct_layer_syphon_input',sharedDict['EVENTBANK'][currentEvent][136],0)
+				syphonCurrent = modul8.getValue('direct_layer_syphon_input',0)
 			modul8.setValue('direct_layer_media_timePosition', nowTime,0)
 			upEvent = False# prevents keywords calling update to shared[EventBank]
-			sharedDict['GENER8_STATUS'][4] = False
-			infoDelay = 2
+			if sharedDict['EVENTBANK'][currentEvent][14][3] == 'new':
+				infoDelay = 1
+			else:
+				infoDelay = 2
 			infoCount = 0
+			break
 
 
 	if infoDelay:
-#		timePosi =  modul8.getValue('direct_layer_media_timePosition',0)
-#		timeSec = modul8.getValue('direct_layer_media_timePositionSec',0)
-#		timeLength = (timeSec/timePosi)/(sharedDict['EVENTBANK'][currentEvent][5]*4)
-##		print 'timePosi: '+str(timePosi)
-##		print 'timeSec: '+str(timeSec)
-#		print 'timeLength: '+str(timeLength)
-		infoCount +=1
-		if infoCount &gt; prefs['preload'] and infoDelay == 2:	
+		if sharedDict['EVENTBANK'][currentEvent][14][3] == 'null' and infoDelay == 2:
+			updateEvent()
 			infoDelay = 0
 			infoCount = 0
-			updateEvent()
-		if infoCount &gt; prefs['infoDelay'] and infoDelay == 1:
-			le = modul8.getValue('info_layer_media_timeLength',0)
-			infoDelay = 0
-			getValues()
-			timestretch()
-			clipUpdate()
+
+		else:
+			infoCount +=1		
+			if infoDelay == 1:
+				if sharedDict['EVENTBANK'][currentEvent][14][3] == 'new' and infoCount &gt; prefs['infoDelay']:
+					getInfos()
+					verifyInfo()
+					infoDelay = 2
+				
+			if infoDelay == 2:
+#				print 'info 2 check'
+				filenam = modul8.getValue('info_layer_media_name',0)
+				fileLngth = modul8.getValue('info_layer_media_timeLength',0)
+				if filenam == sharedDict['EVENTBANK'][currentEvent][14][1] and fileLngth == sharedDict['EVENTBANK'][currentEvent][14][2] or infoCount == 10:
+					if infoCount == 10:
+						getInfos()
+						sharedDict['EVENTBANK'][currentEvent][14][2] = fileLngth
+					infoDelay = 0
+					infoCount = 0
+					updateEvent()
+					
+					
+					
+					
+
+	if syphonCurrent != None:
+		syphoninput = modul8.getValue('direct_layer_syphon_input',0)
 		
+		if syphonCurrent != syphoninput:
+			sharedDict['EVENTBANK'][currentEvent][136] = syphoninput
+			syphonCurrent = syphoninput
+	
+
+	tim = modul8.getValue(timeVersion,0)
+
+#	check direction
+	if storeTime &lt; tim: playDirection = 1
+	else:
+		playDirection = 0
+		module.clearDrawings('UIscrubBar')
+
+
+#	Display clip position on scrubBar
+#	insert media/timeline present check 'if'	
+	xDraw = (timelineX*tim)-scrollStart
+	module.paintRect('UIscrubBar',0,2,xDraw,6, 0.6*tim,0.6,0.8,1.0)
+	module.finishDrawings('UIscrubBar')
+
+
+					
+					
+#	else:
+#		if playDirection:
+#			if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0 and restretch:
+#				if tim &lt; directTimepos:
+#					#print 'periodical direction 1 timestretch()'
+#					timestretchCount += 1
+#					#print timestretchCount
+#					timestretch()
+#		else:
+#			if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0 and restretch: 
+#				if tim &gt; directTimepos:
+#					#print 'periodical direction 0 timestretch()'
+#					timestretchCount += 1
+#					#print timestretchCount
+#					timestretch()
+		
+
 
 	
 	if bpm != sharedDict['TIMECODE']['BPM']:
 		bpm = sharedDict['TIMECODE']['BPM']
 		if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0:
-#			print 'periodical bpm update timestretch()'
 			timestretch()
-#			if sharedDict['EVENTBANK'][currentEvent][12] == True:
-#				if bpm == 0:
-#					sharedDict['EVENTBANK'][currentEvent][5] = 0.0
-#				else:
-#					timestretch()
-#			elif bpm != 0: cutlength()
 		else:
 			clipUpdate()
-
-	if version &gt; 2.5:
-		tim = modul8.getValue('direct_layer_media_timePosition', 0)
-	else:
-		tim = modul8.getValue('direct_layer_movie_timePosition', 0)
-#	print tim
-
-
-#	check direction
-	if storeTime &lt; tim:
-		playDirection = 1
-		if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0 and restretch:
-			if tim &lt; directTimepos:
-				#print 'periodical direction 1 timestretch()'
-				timestretchCount += 1
-				#print timestretchCount
-				timestretch()
-	else:
-		playDirection = 0
-		if sharedDict['EVENTBANK'][currentEvent][11] &gt; 0 and restretch: 
-			if tim &gt; directTimepos:
-				#print 'periodical direction 0 timestretch()'
-				timestretchCount += 1
-				#print timestretchCount
-				timestretch()
 			
 
 
@@ -13605,7 +14312,6 @@ getCCount = 0</string>
 		timesig = sharedDict['TIMECODE']['BAR_BEATS']
 		fixBeats = 'none'
 		if sharedDict['EVENTBANK'][currentEvent][11] == True:
-			#print 'periodical timesig update timestretch()'
 			timestretch()
 		else:
 			if keywID != -1 and sharedDict['EVENTBANK'][currentEvent][129] != []:
@@ -13634,90 +14340,113 @@ getCCount = 0</string>
 				break
 		modul8.setValue('direct_layer_media_timePosition',dShift,0)
 
-	if not recordVal and sharedDict['EVENTBANK'] != []:
-		if sharedDict['EVENTBANK'][currentEvent][129] != [] and infoDelay == 0: 
-#		if sharedDict['EVENTBANK'] != [] and keyEventLength &gt; 0:
-#		is still running when no events are created - could lead to errors.
-			tim = modul8.getValue('direct_layer_media_timePosition',0)
-#			for non movie envelopes we would have to create a time value for the percent of timesig played?
-			for t in range(keyListLength):
-#				check if LFO routing
-				if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][0] == 2:
-#					calculate LFO amount
-					amount = (sharedDict['LFO'][0]*sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][2])+(sharedDict['LFO'][1]*sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][3])+(sharedDict['LFO'][2]*sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][4])
-#					check for invert and apply
-					if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][5] :
-						amount = 1 - amount
-#					check last LFO value, and if different update controller
-					if amount != sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][6] :
-						modul8.setValue(keywordsList[t],amount,0)
-						sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][6] = amount
-			if storeTime &lt; tim:	#	Direction check
-#				Forward play
-				for t in range (keyEventLength):
-					if sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0] == 1:
-						smoothID = sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][1]
-						rangeLength = len(sharedDict['EVENTBANK'][currentEvent][131][smoothID])
-						for ke in range (rangeLength-1):
-							if sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][0] &lt;= tim and sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][0] &gt; tim:
-								lastSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][0]
-								lastSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][1]
-								nextSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][0]
-								nextSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][1]
-								if lastSmoothY &gt; nextSmoothY:
-									startH = lastSmoothY - nextSmoothY
-								else:
-									startH = nextSmoothY - lastSmoothY
-								pointW = nextSmoothX-lastSmoothX
-								pointA = math.atan(startH/pointW)
-								if lastSmoothY &gt; nextSmoothY:
-									nowH = (math.tan(pointA)*(nextSmoothX-tim))+nextSmoothY
-								else:
-									nowH = (math.tan(pointA)*(tim - lastSmoothX))+lastSmoothY
-								modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],nowH,0)
+
+
+
+	if envSafe: envProtect = 1
+	while envProtect:
+		if not recordVal and sharedDict['EVENTBANK'] != []:
+			if sharedDict['EVENTBANK'][currentEvent][129] != [] and infoDelay == 0: 
+	#		if sharedDict['EVENTBANK'] != [] and keyEventLength &gt; 0:
+	#		is still running when no events are created - could lead to errors.
+				tim = modul8.getValue('direct_layer_media_timePosition',0)
+
+				for t in range(keyListLength):
+	#				check if LFO routing
+					if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][0] == 2:
+	#					calculate LFO amount
+						amount = (sharedDict['LFO'][0]*sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][2])+(sharedDict['LFO'][1]*sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][3])+(sharedDict['LFO'][2]*sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][4])
+	#					check for invert and apply
+						if sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][5] :
+							amount = 1 - amount
+	#					check last LFO value, and if different update controller
+						if amount != sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][6] :
+							modul8.setValue(keywordsList[t],amount,0)
+							sharedDict['EVENTBANK'][currentEvent][130][keywordsList[t]][6] = amount
+							
+				if storeTime &lt; tim:	#	Direction check
+	#				Forward play
+					for t in range (keyEventLength):
+						
+#						square wave
+						
+						if tim &gt;= sharedDict['EVENTBANK'][currentEvent][129][t][0] and t == lastID:
+							lastID = t+1
+							if sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0] == 0:
+								modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],sharedDict['EVENTBANK'][currentEvent][129][t][2],0)
+								
 								break
-					
-					if not sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0]:
+
 						if tim &lt; sharedDict['EVENTBANK'][currentEvent][129][t][0] and lastID &gt;= (t + 1):
 							lastID = int(t)
 							if t &gt; 0:
-								modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t-1][1],sharedDict['EVENTBANK'][currentEvent][129][t-1][2],0)
-								break
-						if tim &gt;= sharedDict['EVENTBANK'][currentEvent][129][t][0] and t == lastID:
-							modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],sharedDict['EVENTBANK'][currentEvent][129][t][2],0)
-							lastID = t+1
-							break
-			else:
-#				reverse play
-	#			does not catch the zero keypoint
-				for t in range (keyEventLength):
-					if sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0] == 1:
+								if sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t-1][1]][0] == 0:
+									modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t-1][1],sharedDict['EVENTBANK'][currentEvent][129][t-1][2],0)
+									break
+							
+
+						
+#						triangle wave
+						elif sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0] == 1:
+							smoothID = sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][1]
+							rangeLength = len(sharedDict['EVENTBANK'][currentEvent][131][smoothID])
+	
+							for ke in range (rangeLength-1):
+								if sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][0] &lt;= tim and sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][0] &gt; tim:
+									
+									
+									lastSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][0]
+									lastSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][1]
+									nextSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][0]
+									nextSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][1]
+									if lastSmoothY &gt; nextSmoothY:
+										startH = lastSmoothY - nextSmoothY
+									else:
+										startH = nextSmoothY - lastSmoothY
+									pointW = nextSmoothX-lastSmoothX
+									pointA = math.atan(startH/pointW)
+									if lastSmoothY &gt; nextSmoothY:
+										nowH = (math.tan(pointA)*(nextSmoothX-tim))+nextSmoothY
+									else:
+										nowH = (math.tan(pointA)*(tim - lastSmoothX))+lastSmoothY
+									modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],nowH,0)
+									break
+						
+						
+						
+				else:
+	#				reverse play
+					for t in range (keyEventLength):
 						smoothID = sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][1]
 						rangeLength = len(sharedDict['EVENTBANK'][currentEvent][131][smoothID])
 						for ke in range (rangeLength-1):
 							if sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][0] &lt;= tim and sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][0] &gt; tim:
-								lastSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][0]
-								lastSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][1]
-								nextSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][0]
-								nextSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][1]
-								if lastSmoothY &gt; nextSmoothY:
-									startH = lastSmoothY - nextSmoothY
-								else:
-									startH = nextSmoothY - lastSmoothY
-								pointW = nextSmoothX-lastSmoothX
-								pointA = math.atan(startH/pointW)
-								if lastSmoothY &gt; nextSmoothY:
-									nowH = (math.tan(pointA)*(nextSmoothX-tim))+nextSmoothY
-								else:
-									nowH = (math.tan(pointA)*(tim - lastSmoothX))+lastSmoothY
-								modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],nowH,0)
-								break
-
-					if not sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0]:
-						if tim &gt; sharedDict['EVENTBANK'][currentEvent][129][t][0] and (t+1) &gt;= lastID:
-							if t &lt;= (keyEventLength-1):
-								lastID = int(t)
-								modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],sharedDict['EVENTBANK'][currentEvent][129][t][2],0)
+#								square wave
+								if sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0] == 0:
+									modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][1],0)
+									break
+											
+#								triangle wave
+								elif sharedDict['EVENTBANK'][currentEvent][130][sharedDict['EVENTBANK'][currentEvent][129][t][1]][0] == 1:
+									lastSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][0]
+									lastSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke][1]
+									nextSmoothX = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][0]
+									nextSmoothY = sharedDict['EVENTBANK'][currentEvent][131][smoothID][ke+1][1]
+									if lastSmoothY &gt; nextSmoothY:
+										startH = lastSmoothY - nextSmoothY
+									else:
+										startH = nextSmoothY - lastSmoothY
+									pointW = nextSmoothX-lastSmoothX
+									pointA = math.atan(startH/pointW)
+									if lastSmoothY &gt; nextSmoothY:
+										nowH = (math.tan(pointA)*(nextSmoothX-tim))+nextSmoothY
+									else:
+										nowH = (math.tan(pointA)*(tim - lastSmoothX))+lastSmoothY
+									modul8.setValue(sharedDict['EVENTBANK'][currentEvent][129][t][1],nowH,0)
+									break
+	
+						
+		envProtect = 0
 	
 		
 
@@ -13733,8 +14462,13 @@ getCCount = 0</string>
 #	modul8.setValue('ctrl_layer_movie_speedFactor',0,pauseVal)
 #	upEvent = False
 
+
+
+
+
 	storeTime = float(tim)
-	module.setValue('timepos',0,tim)
+	
+	
 	if sharedDict['EVENTBANK'][currentEvent][2] != name:
 		module.setValue('UIloopName',0,sharedDict['EVENTBANK'][currentEvent][2])
 		name = str(sharedDict['EVENTBANK'][currentEvent][2])
@@ -13750,7 +14484,7 @@ else:
 	<key>SHORT_DESCRIPTION</key>
 	<string>Clip Editor for Gener8</string>
 	<key>VERSION</key>
-	<string>0.52</string>
+	<string>0.62</string>
 	<key>WINDOW_HEIGHT</key>
 	<real>290</real>
 	<key>WINDOW_WIDTH</key>

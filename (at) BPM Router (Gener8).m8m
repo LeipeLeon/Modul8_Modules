@@ -1262,7 +1262,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>2</real>
+			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -1292,7 +1292,7 @@
 			<key>LIVE_MODE</key>
 			<false/>
 			<key>MAX_FLOAT_VALUE_0</key>
-			<real>6</real>
+			<real>1</real>
 			<key>MAX_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_2</key>
@@ -2939,9 +2939,9 @@ Fix Phase error
 		<key>WINDOW_MINIMIZED</key>
 		<true/>
 		<key>WINDOW_X</key>
-		<real>1120</real>
+		<real>0.0</real>
 		<key>WINDOW_Y</key>
-		<real>533</real>
+		<real>642</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>

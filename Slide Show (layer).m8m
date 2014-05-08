@@ -2820,7 +2820,7 @@ v1.0.3 -&gt; fix a problem with the "wait movie" fonctionality</string>
 		<key>WINDOW_X</key>
 		<real>848</real>
 		<key>WINDOW_Y</key>
-		<real>618</real>
+		<real>1138</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

@@ -3211,11 +3211,11 @@ Add 4/1 mode</string>
 				<key>(g3_ASCII)ctrl_master_crossfader_slider</key>
 				<dict>
 					<key>(g3_ASCII)CURVE</key>
-					<string>(g3_ASCII)cut</string>
+					<string>(g3_ASCII)in</string>
 					<key>(g3_ASCII)END</key>
 					<string>(g3_FLOAT)1.000000</string>
 					<key>(g3_ASCII)LAST_VALUE</key>
-					<string>(g3_FLOAT)0.000000</string>
+					<string>(g3_FLOAT)0.554428</string>
 					<key>(g3_ASCII)PHASES</key>
 					<string>(g3_FLOAT)0.000000</string>
 					<key>(g3_ASCII)PLAY</key>
@@ -3270,15 +3270,15 @@ Add 4/1 mode</string>
 			<string>(g3_INT)0</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
+		<false/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>769</real>
+		<real>526</real>
 		<key>WINDOW_Y</key>
-		<real>62</real>
+		<real>179</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>if not useSetup :

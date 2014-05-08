@@ -2604,13 +2604,13 @@ Using Sound Router v1.4, updated to include Gener8 Clip-level compatibilty. 2012
 		<key>SCRIPT_STATE</key>
 		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
-		<key>WINDOW_MINIMIZED</key>
 		<true/>
+		<key>WINDOW_MINIMIZED</key>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>1</real>
+		<real>1355</real>
 		<key>WINDOW_Y</key>
-		<real>475</real>
+		<real>772</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

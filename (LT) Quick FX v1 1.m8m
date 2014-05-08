@@ -21634,13 +21634,13 @@ V1.1 Adds support for (FF) IscRGBOffset1</string>
 		<key>SCRIPT_STATE</key>
 		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
+		<false/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>800</real>
+		<real>-2</real>
 		<key>WINDOW_Y</key>
-		<real>351</real>
+		<real>193</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

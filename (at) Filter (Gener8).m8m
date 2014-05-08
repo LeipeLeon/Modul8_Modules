@@ -67049,9 +67049,9 @@ V1.5 fix some serializations problems, with files projects and layers duplicatio
 		<key>WINDOW_MINIMIZED</key>
 		<true/>
 		<key>WINDOW_X</key>
-		<real>3</real>
+		<real>573</real>
 		<key>WINDOW_Y</key>
-		<real>305</real>
+		<real>108</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>modul8.setFilters({}, 0, postFilters)
@@ -67245,10 +67245,10 @@ try:
 	
 	if versionDict['(at) Filter (Gener8)'] &gt; versionNum:
 		print 'There is a new version available.'
-		capt = 'New version available: v'+str(versionDict['(at) Filter (Gener8)'])
+		capt = 'Filter (Gener8): New version available: v'+str(versionDict['(at) Filter (Gener8)'])
 		module.setAttribute('UIInfoString','caption', capt)
 	else:
-		print 'Current version installed.'
+		print 'Filter (Gener8): Current version installed. Version '+str(versionNum)
 
 except IOError:
 	print 'Cannot access online version information...'

@@ -3159,11 +3159,11 @@
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>1120</real>
+		<real>592</real>
 		<key>WINDOW_Y</key>
-		<real>302</real>
+		<real>186</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

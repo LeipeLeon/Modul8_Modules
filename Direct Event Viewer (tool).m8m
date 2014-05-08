@@ -896,11 +896,11 @@ V1.1 add the ability to select and copy/past events.</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<false/>
+		<true/>
 		<key>WINDOW_X</key>
-		<real>-5</real>
+		<real>576</real>
 		<key>WINDOW_Y</key>
-		<real>18</real>
+		<real>66</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
