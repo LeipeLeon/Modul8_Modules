@@ -3718,15 +3718,15 @@
 			<string>Maschine Controller - MIDI output port 0</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1205</real>
+		<real>1027</real>
 		<key>WINDOW_Y</key>
-		<real>391</real>
+		<real>649</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>Defaults = {

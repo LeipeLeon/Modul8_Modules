@@ -3693,7 +3693,7 @@ Further documentation and help can be found at: http://collectedconsciousness.wo
 		<key>WINDOW_X</key>
 		<real>2</real>
 		<key>WINDOW_Y</key>
-		<real>96</real>
+		<real>416</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

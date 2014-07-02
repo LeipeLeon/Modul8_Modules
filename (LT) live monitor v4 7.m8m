@@ -9858,7 +9858,7 @@ Midi assignable buttons to allow you either switch to OUT, Group Inv or just swi
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>-1</real>
+		<real>0.0</real>
 		<key>WINDOW_Y</key>
 		<real>432</real>
 	</dict>

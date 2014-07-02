@@ -2251,9 +2251,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>324</real>
+		<real>1</real>
 		<key>WINDOW_Y</key>
-		<real>229</real>
+		<real>231</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

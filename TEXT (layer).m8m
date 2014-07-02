@@ -2158,7 +2158,7 @@
 		<key>WINDOW_X</key>
 		<real>1477</real>
 		<key>WINDOW_Y</key>
-		<real>948</real>
+		<real>932</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>module.setDefaults ({'favoritesFontList': favoritesFontList})</string>

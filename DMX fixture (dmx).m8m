@@ -2587,15 +2587,15 @@ v1.2 : Is no longer limited to 256 channels.</string>
 			</dict>
 		</dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<false/>
+		<true/>
 		<key>WINDOW_X</key>
-		<real>826</real>
+		<real>1034</real>
 		<key>WINDOW_Y</key>
-		<real>413</real>
+		<real>427</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>module.setDefaults(fixturesDict)

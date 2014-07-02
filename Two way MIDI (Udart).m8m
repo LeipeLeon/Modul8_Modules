@@ -3687,9 +3687,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<true/>
 		<key>WINDOW_X</key>
-		<real>798</real>
+		<real>1424</real>
 		<key>WINDOW_Y</key>
-		<real>466</real>
+		<real>7</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>Defaults = {

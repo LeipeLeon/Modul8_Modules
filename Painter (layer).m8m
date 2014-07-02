@@ -3779,7 +3779,7 @@ V 1.2 add wacom pressure support.</string>
 		<key>WINDOW_X</key>
 		<real>156</real>
 		<key>WINDOW_Y</key>
-		<real>507</real>
+		<real>1162</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>#print 'FINISH PAINTER'

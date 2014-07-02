@@ -2734,9 +2734,9 @@ Fix Phase error</string>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>730</real>
+		<real>402</real>
 		<key>WINDOW_Y</key>
-		<real>179</real>
+		<real>180</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>

@@ -67051,7 +67051,7 @@ V1.5 fix some serializations problems, with files projects and layers duplicatio
 		<key>WINDOW_X</key>
 		<real>573</real>
 		<key>WINDOW_Y</key>
-		<real>108</real>
+		<real>152</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>modul8.setFilters({}, 0, postFilters)
