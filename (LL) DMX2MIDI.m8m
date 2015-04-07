@@ -10,7 +10,7 @@
 			<key>AUTOSERIALIZE</key>
 			<integer>0</integer>
 			<key>CAPTION</key>
-			<string>BOOT!</string>
+			<string>DMX2MIDI</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
@@ -22,15 +22,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>5.8023322409206665e-316</real>
+			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>-4.5538542912540668e-172</real>
+			<real>0.0</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>13</real>
+			<real>15.6171875</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -52,9 +52,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>4.5379339271177852e-307</real>
+			<real>0.0</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>4.5379338340883331e-307</real>
+			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -64,9 +64,9 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-2.2886567635636446e-169</real>
+			<real>4.2984037301040006e-193</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>-2.2887726033783601e-169</real>
+			<real>0.0</real>
 			<key>NAME</key>
 			<string>Untitled</string>
 			<key>PREVIEW_MEDIA_MODE</key>
@@ -96,16 +96,15 @@
 			<key>UNIQUE_ID</key>
 			<integer>1</integer>
 			<key>WIDTH</key>
-			<real>75</real>
+			<real>86.30859375</real>
 			<key>X</key>
-			<real>6</real>
+			<real>0.0</real>
 			<key>Y</key>
-			<real>4</real>
+			<real>2</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>- set preview to out
-- set testcard in first layer</string>
+	<string></string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
@@ -123,30 +122,60 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>300</real>
+		<real>0.0</real>
 		<key>WINDOW_Y</key>
-		<real>52</real>
+		<real>200</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
 	<key>SCRIPT_DESERIALIZE</key>
 	<string></string>
 	<key>SCRIPT_EVENT</key>
-	<string></string>
-	<key>SCRIPT_INIT</key>
-	<string># set output to the 
-modul8.setValue('ctrl_ui_previewWindowMode', 6, -1)
+	<string>if type == 'DMX':
+	# {'universe': 0, 'channel': value, 'value': integer, 'timestamp': float}
+	# param['universe']: 1
+	# param['channel']:  1-512
+	# param['value']:       0-255 (conversion to 0-1: param['value']/255.0, conversion to 0-127: param['value']/2)
 
-# When it's a new project set the testcard as default image
-if modul8.getValue('info_projectName',-1) == 'untitled project' :
-  print 'new project, set testcard'
-  modul8.setValue('ctrl_layer_media', 129, 0)
+	# Send midi to channel
+	# modul8.sendMidi(deviceID, channel, message, param1, param2)
+	
+	modul8.sendMidi(midiBus, midiChannel, 'CONTROL_CHANGE', param['channel']-200, (param['value']/2))
+	if log :
+		 print 'RECEIVE DMX -&gt; CHANNEL:', param['channel']-200, 'VALUE DMX:',param ['value'], 'VALUE MIDI: ', (param['value']/2)</string>
+	<key>SCRIPT_INIT</key>
+	<string>#
+if modul8.getValue ('direct_version',0) &lt; 2.6 : module.stop() #not working before the v2.6
+#
+
+midiChannel = 'IAC - DMX2MIDI'
+midiBus = 14
+
+
+def SendDmx () :
+	
+	pass
+
+
+#Translate from Modul8 to MIDI values
+#MIDi values are in the range 0-127	 and Modul8 values are in the 0-1 range
+def TranslateFromM8ToMidi(keyword, m8Val):
+	if keyword != None and m8Val != None:
+		#print 'keyword: ', keyword, 'm8val: ', m8Val
+		#Invert the midi value when hiding/displaying a layer so that hidden=button off and visible=button on
+		if keyword == 'ctrl_layer_hidden':
+			m8Val = abs(m8Val - 1)
+		if keyword in SpecialKeywords:
+			midiVal = m8Val / SpecialKeywords[keyword]
+		else:
+			midiVal = m8Val * 127.0
+		return int(midiVal)
 </string>
 	<key>SCRIPT_KEYWORDEVENT</key>
 	<string></string>
@@ -159,12 +188,12 @@ if modul8.getValue('info_projectName',-1) == 'untitled project' :
 	<key>SCRIPT_SERIALIZE</key>
 	<string></string>
 	<key>SHORT_DESCRIPTION</key>
-	<string>Set default values on new project</string>
+	<string>map DMX channels to MIDI CC</string>
 	<key>VERSION</key>
-	<string>1.0</string>
+	<string>0.1</string>
 	<key>WINDOW_HEIGHT</key>
 	<real>40</real>
 	<key>WINDOW_WIDTH</key>
-	<real>86</real>
+	<real>90</real>
 </dict>
 </plist>

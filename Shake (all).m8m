@@ -1554,7 +1554,7 @@
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
 	<false/>
 	<key>MODULE_TITLEBAR_B</key>
-	<real>0.20392158627510071</real>
+	<real>0.20392157137393951</real>
 	<key>MODULE_TITLEBAR_G</key>
 	<real>0.13333334028720856</real>
 	<key>MODULE_TITLEBAR_R</key>
@@ -1562,15 +1562,15 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
+		<false/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>1330</real>
+		<real>1108</real>
 		<key>WINDOW_Y</key>
-		<real>521</real>
+		<real>114</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

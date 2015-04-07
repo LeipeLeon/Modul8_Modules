@@ -9854,13 +9854,13 @@ Midi assignable buttons to allow you either switch to OUT, Group Inv or just swi
 		<key>SCRIPT_STATE</key>
 		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>0.0</real>
+		<real>-1</real>
 		<key>WINDOW_Y</key>
-		<real>432</real>
+		<real>312</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

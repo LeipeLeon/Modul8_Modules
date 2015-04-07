@@ -59389,7 +59389,7 @@ Further documentation and help can be found at: http://collectedconsciousness.wo
 		<key>WINDOW_X</key>
 		<real>1024</real>
 		<key>WINDOW_Y</key>
-		<real>442</real>
+		<real>19</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>sharedDict['GENER8_STATUS'][0] = False

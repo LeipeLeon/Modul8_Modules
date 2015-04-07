@@ -2591,11 +2591,11 @@ v1.2 : Is no longer limited to 256 channels.</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>1034</real>
+		<real>0.0</real>
 		<key>WINDOW_Y</key>
-		<real>427</real>
+		<real>798</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>module.setDefaults(fixturesDict)

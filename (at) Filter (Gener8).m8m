@@ -67047,11 +67047,11 @@ V1.5 fix some serializations problems, with files projects and layers duplicatio
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>573</real>
+		<real>1022</real>
 		<key>WINDOW_Y</key>
-		<real>152</real>
+		<real>405</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>modul8.setFilters({}, 0, postFilters)

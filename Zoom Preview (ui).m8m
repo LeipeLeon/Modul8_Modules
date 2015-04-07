@@ -1101,9 +1101,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>346</real>
+		<real>928</real>
 		<key>WINDOW_Y</key>
-		<real>1162</real>
+		<real>418</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>module.setDefaults (modulePreferences )</string>

@@ -21632,15 +21632,15 @@ V1.1 Adds support for (FF) IscRGBOffset1</string>
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>806</real>
+		<real>1233</real>
 		<key>WINDOW_Y</key>
-		<real>564</real>
+		<real>618</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

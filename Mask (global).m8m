@@ -8177,15 +8177,15 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
+		<false/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1155</real>
+		<real>1420</real>
 		<key>WINDOW_Y</key>
-		<real>317</real>
+		<real>199</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

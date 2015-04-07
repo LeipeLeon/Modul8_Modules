@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string></string>
+	<string>Leon Berenschot (leipeleon@gmail.com)</string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
 			<key>AUTOSERIALIZE</key>
 			<integer>0</integer>
 			<key>CAPTION</key>
-			<string>LayerSelected</string>
+			<string>BOOT!</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
@@ -22,15 +22,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>1.0609978954826362e-313</real>
+			<real>5.8023322409206665e-316</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>-3.2641537168589209e-187</real>
+			<real>-4.5538542912540668e-172</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>13.4921875</real>
+			<real>13</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -52,9 +52,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
+			<real>4.5379339271177852e-307</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>-2.927952530299205e-210</real>
+			<real>4.5379338340883331e-307</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -64,9 +64,9 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-1.963158567670187e-94</real>
+			<real>-2.2886567635636446e-169</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>-2.9295316726294741e-210</real>
+			<real>-2.2887726033783601e-169</real>
 			<key>NAME</key>
 			<string>Untitled</string>
 			<key>PREVIEW_MEDIA_MODE</key>
@@ -86,7 +86,7 @@
 			<key>SHAPE_DOTS</key>
 			<true/>
 			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
+			<string>CENTER</string>
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
@@ -96,19 +96,22 @@
 			<key>UNIQUE_ID</key>
 			<integer>1</integer>
 			<key>WIDTH</key>
-			<real>73.62109375</real>
+			<real>101.2734375</real>
 			<key>X</key>
-			<real>16</real>
+			<real>6</real>
 			<key>Y</key>
-			<real>17</real>
+			<real>4</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string></string>
+	<string>- set preview to out
+- set testcard in first layer
+
+© 2014 Leon Berenschot, Wendbaar.nl</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<false/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
@@ -122,15 +125,15 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>132</real>
+		<real>1</real>
 		<key>WINDOW_Y</key>
-		<real>642</real>
+		<real>162</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -139,28 +142,15 @@
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>for i, item in enumerate(modul8.getMidiDestinationsList()):
-	print i ,': ',item</string>
+	<string># set preview window to out
+modul8.setValue('ctrl_ui_previewWindowMode', 6, -1)
+
+# When it's a new project set the testcard as default image
+if modul8.getValue('info_projectName',-1) == 'untitled project' :
+  modul8.setValue('ctrl_layer_media', 129, 0)
+</string>
 	<key>SCRIPT_KEYWORDEVENT</key>
-	<string>
-#	modul8.sendMidi(deviceID, channel, message, param1, param2)
-# KEYWORD: ctrl_layerStack_focusPosition PARAM: 4 LAYER: 10
-#	modul8.sendMidi(MIDIDevice, int(item['channel']),item['midimsg'], int(item['param']), int(midival))
-#if modul8.getValue('info_projectName',-1) == 'untitled project' :
-
-
-if keyword == 'ctrl_layerStack_focusPosition':
-	MIDIDevice = 'Maschine Controller - MIDI output port 0'
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 112,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 113,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 114,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 115,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 116,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 117,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 118,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', 119,  0)
-	modul8.sendMidi(MIDIDevice, 2, 'CONTROL_CHANGE ', (param+111),  127)
-	print 'MIDI channel:', 111+ param</string>
+	<string></string>
 	<key>SCRIPT_MESSAGE</key>
 	<string></string>
 	<key>SCRIPT_PAUSEEVENT</key>
@@ -170,12 +160,12 @@ if keyword == 'ctrl_layerStack_focusPosition':
 	<key>SCRIPT_SERIALIZE</key>
 	<string></string>
 	<key>SHORT_DESCRIPTION</key>
-	<string></string>
+	<string>Set some default values on (new) untitled project</string>
 	<key>VERSION</key>
-	<string></string>
+	<string>1.0</string>
 	<key>WINDOW_HEIGHT</key>
-	<real>60</real>
+	<real>40</real>
 	<key>WINDOW_WIDTH</key>
-	<real>120</real>
+	<real>110</real>
 </dict>
 </plist>
