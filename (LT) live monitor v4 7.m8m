@@ -9860,7 +9860,7 @@ Midi assignable buttons to allow you either switch to OUT, Group Inv or just swi
 		<key>WINDOW_X</key>
 		<real>-1</real>
 		<key>WINDOW_Y</key>
-		<real>312</real>
+		<real>1058</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

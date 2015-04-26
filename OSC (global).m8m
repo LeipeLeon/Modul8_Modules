@@ -1687,7 +1687,7 @@ v 0.91 -&gt; add bundle support, add multiples values, feed back for multiples v
 		<key>WINDOW_X</key>
 		<real>1380</real>
 		<key>WINDOW_Y</key>
-		<real>978</real>
+		<real>1178</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>initSocketListener (0)

@@ -2937,11 +2937,11 @@ Fix Phase error
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>0.0</real>
+		<real>184</real>
 		<key>WINDOW_Y</key>
-		<real>796</real>
+		<real>829</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>

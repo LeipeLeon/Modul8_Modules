@@ -893,13 +893,13 @@ Each iteration increases the distance from the center of the screen to the cente
 		<key>SCRIPT_STATE</key>
 		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1188</real>
+		<real>334</real>
 		<key>WINDOW_Y</key>
-		<real>984</real>
+		<real>647</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

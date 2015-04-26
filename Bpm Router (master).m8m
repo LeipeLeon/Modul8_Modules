@@ -3219,11 +3219,11 @@ Add 4/1 mode</string>
 					<key>(g3_ASCII)PHASES</key>
 					<string>(g3_FLOAT)0.000000</string>
 					<key>(g3_ASCII)PLAY</key>
-					<string>(g3_FLOAT)0.000000</string>
+					<string>(g3_FLOAT)1.000000</string>
 					<key>(g3_ASCII)QUANT</key>
-					<string>(g3_ASCII)12</string>
+					<string>(g3_ASCII)11</string>
 					<key>(g3_ASCII)QUANT_VAL</key>
-					<string>(g3_FLOAT)0.500000</string>
+					<string>(g3_FLOAT)0.250000</string>
 					<key>(g3_ASCII)START</key>
 					<string>(g3_FLOAT)0.000000</string>
 				</dict>
@@ -3276,9 +3276,9 @@ Add 4/1 mode</string>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>905</real>
+		<real>1</real>
 		<key>WINDOW_Y</key>
-		<real>14</real>
+		<real>180</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>if not useSetup :

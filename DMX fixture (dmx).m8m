@@ -2595,7 +2595,7 @@ v1.2 : Is no longer limited to 256 channels.</string>
 		<key>WINDOW_X</key>
 		<real>0.0</real>
 		<key>WINDOW_Y</key>
-		<real>798</real>
+		<real>1058</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>module.setDefaults(fixturesDict)

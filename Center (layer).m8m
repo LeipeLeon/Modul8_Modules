@@ -369,7 +369,7 @@
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
 		<real>1203</real>
 		<key>WINDOW_Y</key>

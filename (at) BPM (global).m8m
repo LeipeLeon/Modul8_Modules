@@ -2166,9 +2166,9 @@ v3.0 Additional sharedDict libraries for other modules, smaller footprint, doubl
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>904</real>
+		<real>420</real>
 		<key>WINDOW_Y</key>
-		<real>350</real>
+		<real>294</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -2520,8 +2520,8 @@ if speed != 0 :
 
 	beatPosition = sharedDict['BPM_POSITION']
 	beatPosition += elapsed * speed  #speed == beats per second
-	print beatPosition
-	print elapsed
+	#print beatPosition
+	#print elapsed
 	#fix unexpected jumps
 	beatPosition = math.fmod(beatPosition,100)
 	sharedDict['BPM_POSITION'] = beatPosition
