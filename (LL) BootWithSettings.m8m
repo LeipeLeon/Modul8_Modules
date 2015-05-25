@@ -127,7 +127,7 @@ More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
 		<false/>
 		<key>WINDOW_MINIMIZED</key>
@@ -144,7 +144,9 @@ More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>#© 2015 Leon Berenschot (VJ LeipeLeon)
+	<string># © 2015 Leon Berenschot (VJ LeipeLeon)
+# Version 1.0 2015-05-25
+#    initial release
 
 # set preview window to out
 modul8.setValue('ctrl_ui_previewWindowMode', 6, -1)

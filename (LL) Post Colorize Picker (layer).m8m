@@ -3549,11 +3549,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>102</integer>
 			<key>WIDTH</key>
-			<real>183.3359375</real>
+			<real>182.3359375</real>
 			<key>X</key>
 			<real>1</real>
 			<key>Y</key>
-			<real>0.0</real>
+			<real>1</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -3679,7 +3679,7 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>707</real>
+		<real>703</real>
 		<key>WINDOW_Y</key>
 		<real>878</real>
 	</dict>
@@ -3690,8 +3690,8 @@
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>#© 2006, GARAGECUBE 
-#© 2015 Leon Berenschot (VJ LeipeLeon)
+	<string># © 2006, GARAGECUBE 
+# © 2015 Leon Berenschot (VJ LeipeLeon)
 # Version 1.0 2015-05-25
 #    initial release
 
@@ -3722,7 +3722,7 @@ module.paintRect('darkPink',0,0,25,25,.5,0,.5,1);module.finishDrawings('darkPink
 module.paintRect('veryLightBlue',0,0,25,25,.6,1,1,1);module.finishDrawings('veryLightBlue')
 
 def redrawCurrentColor():
-	module.paintRect('flashClr',0,0,183,40, currentColor[0], currentColor[1], currentColor[2],1);
+	module.paintRect('flashClr',0,0,182,40, currentColor[0], currentColor[1], currentColor[2],1);
 	module.finishDrawings('flashClr')
 	modul8.setValue(modeKey+'R', currentColor[0], whichLayer)
 	modul8.setValue(modeKey+'G', currentColor[1], whichLayer)
