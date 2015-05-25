@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string></string>
+	<string>© 2006, GARAGECUBE, 2015 Leon Berenschot (VJ LeipeLeon)</string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
@@ -151,7 +151,7 @@
 			<key>X</key>
 			<real>79</real>
 			<key>Y</key>
-			<real>125</real>
+			<real>165</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -298,7 +298,7 @@
 			<key>X</key>
 			<real>4</real>
 			<key>Y</key>
-			<real>125</real>
+			<real>165</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -362,7 +362,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>0.0</real>
 			<key>NAME</key>
-			<string>modulate</string>
+			<string>modeKey</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -374,7 +374,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>setModulate</string>
+			<string>ctrl_layer_color_modulate</string>
 			<key>SELECTED</key>
 			<true/>
 			<key>SHAPE_DOTS</key>
@@ -445,7 +445,7 @@
 			<key>X</key>
 			<real>7</real>
 			<key>Y</key>
-			<real>220</real>
+			<real>260</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -509,7 +509,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>0.0</real>
 			<key>NAME</key>
-			<string>additive</string>
+			<string>modeKey</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -521,7 +521,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>setAdditive</string>
+			<string>ctrl_layer_color_additive</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -592,7 +592,7 @@
 			<key>X</key>
 			<real>60</real>
 			<key>Y</key>
-			<real>219</real>
+			<real>259</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -739,7 +739,7 @@
 			<key>X</key>
 			<real>122</real>
 			<key>Y</key>
-			<real>220</real>
+			<real>260</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -835,7 +835,7 @@
 			<key>X</key>
 			<real>154</real>
 			<key>Y</key>
-			<real>46</real>
+			<real>86</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -931,7 +931,7 @@
 			<key>X</key>
 			<real>129</real>
 			<key>Y</key>
-			<real>46</real>
+			<real>86</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1027,7 +1027,7 @@
 			<key>X</key>
 			<real>104</real>
 			<key>Y</key>
-			<real>46</real>
+			<real>86</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1123,7 +1123,7 @@
 			<key>X</key>
 			<real>79</real>
 			<key>Y</key>
-			<real>46</real>
+			<real>86</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1219,7 +1219,7 @@
 			<key>X</key>
 			<real>54</real>
 			<key>Y</key>
-			<real>46</real>
+			<real>86</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1315,7 +1315,7 @@
 			<key>X</key>
 			<real>29</real>
 			<key>Y</key>
-			<real>46</real>
+			<real>86</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1411,7 +1411,7 @@
 			<key>X</key>
 			<real>4</real>
 			<key>Y</key>
-			<real>46</real>
+			<real>86</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1507,7 +1507,7 @@
 			<key>X</key>
 			<real>4</real>
 			<key>Y</key>
-			<real>71</real>
+			<real>111</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1603,7 +1603,7 @@
 			<key>X</key>
 			<real>29</real>
 			<key>Y</key>
-			<real>71</real>
+			<real>111</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1699,7 +1699,7 @@
 			<key>X</key>
 			<real>54</real>
 			<key>Y</key>
-			<real>71</real>
+			<real>111</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1795,7 +1795,7 @@
 			<key>X</key>
 			<real>79</real>
 			<key>Y</key>
-			<real>71</real>
+			<real>111</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1891,7 +1891,7 @@
 			<key>X</key>
 			<real>104</real>
 			<key>Y</key>
-			<real>71</real>
+			<real>111</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1987,7 +1987,7 @@
 			<key>X</key>
 			<real>129</real>
 			<key>Y</key>
-			<real>71</real>
+			<real>111</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2083,7 +2083,7 @@
 			<key>X</key>
 			<real>154</real>
 			<key>Y</key>
-			<real>71</real>
+			<real>111</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2230,7 +2230,7 @@
 			<key>X</key>
 			<real>154</real>
 			<key>Y</key>
-			<real>96</real>
+			<real>136</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2377,7 +2377,7 @@
 			<key>X</key>
 			<real>129</real>
 			<key>Y</key>
-			<real>96</real>
+			<real>136</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2524,7 +2524,7 @@
 			<key>X</key>
 			<real>104</real>
 			<key>Y</key>
-			<real>96</real>
+			<real>136</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2671,7 +2671,7 @@
 			<key>X</key>
 			<real>79</real>
 			<key>Y</key>
-			<real>96</real>
+			<real>136</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2818,7 +2818,7 @@
 			<key>X</key>
 			<real>54</real>
 			<key>Y</key>
-			<real>96</real>
+			<real>136</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -2965,7 +2965,7 @@
 			<key>X</key>
 			<real>29</real>
 			<key>Y</key>
-			<real>96</real>
+			<real>136</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -3112,7 +3112,7 @@
 			<key>X</key>
 			<real>4</real>
 			<key>Y</key>
-			<real>96</real>
+			<real>136</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -3122,7 +3122,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
+			<real>-1</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -3188,7 +3188,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>setAllLayers</string>
+			<string>whichLayer</string>
 			<key>SELECTED</key>
 			<true/>
 			<key>SHAPE_DOTS</key>
@@ -3259,7 +3259,7 @@
 			<key>X</key>
 			<real>12</real>
 			<key>Y</key>
-			<real>10</real>
+			<real>50</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -3269,7 +3269,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -3335,7 +3335,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>setCurrentLayer</string>
+			<string>whichLayer</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -3406,15 +3406,258 @@
 			<key>X</key>
 			<real>100</real>
 			<key>Y</key>
-			<real>10</real>
+			<real>50</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>5.4293251682900522e-315</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>2.1735602886857284e-310</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>40.3828125</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>5.6365513197515046e-315</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>2.1735602886857284e-310</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>5.4293251682900522e-315</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>2.1735602886857284e-310</real>
+			<key>NAME</key>
+			<string>flashClr</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>DRAWVIEW</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-1</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string>NONE</string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>102</integer>
+			<key>WIDTH</key>
+			<real>183.3359375</real>
+			<key>X</key>
+			<real>1</real>
+			<key>Y</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Invert Flash</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.8123277499662467e-170</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>8.5788724875797138e-308</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>8.5830150993220472e-308</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>8.576903275485698e-308</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>2.0546404354496704e-170</real>
+			<key>NAME</key>
+			<string>flashBtn</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>flashBtn</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>103</integer>
+			<key>WIDTH</key>
+			<real>97.70703125</real>
+			<key>X</key>
+			<real>48</real>
+			<key>Y</key>
+			<real>16</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string></string>
+	<string>Based on the original Post Colorize Picker  - set color to all layers     instantly set all layers to the same color - Invert flash for the current color     Invert the current color in a flash</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>100</integer>
+	<integer>103</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<false/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
@@ -3434,9 +3677,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>708</real>
+		<real>707</real>
 		<key>WINDOW_Y</key>
-		<real>916</real>
+		<real>878</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -3447,7 +3690,9 @@
 	<key>SCRIPT_INIT</key>
 	<string>#© 2006, GARAGECUBE 
 
-colorType = 0
+whichLayer=-1			# -1: select all layers, 0: Focused layer
+currentColor = [1,1,1]	# initial color is white
+modeKey = 'ctrl_layer_color_modulate'
 
 module.paintRect('white',0,0,25,25,1,1,1,1);module.finishDrawings('white')
 module.paintRect('red_',0,0,25,25,1,0,0,1);module.finishDrawings('red_')
@@ -3471,136 +3716,56 @@ module.paintRect('beige',0,0,25,25,.5,.5,0,1);module.finishDrawings('beige')
 module.paintRect('darkPink',0,0,25,25,.5,0,.5,1);module.finishDrawings('darkPink')
 module.paintRect('veryLightBlue',0,0,25,25,.6,1,1,1);module.finishDrawings('veryLightBlue')
 
+def redrawCurrentColor():
+	module.paintRect('flashClr',0,0,183,40, currentColor[0], currentColor[1], currentColor[2],1);
+	module.finishDrawings('flashClr')
+	modul8.setValue(modeKey+'R', currentColor[0], whichLayer)
+	modul8.setValue(modeKey+'G', currentColor[1], whichLayer)
+	modul8.setValue(modeKey+'B', currentColor[2], whichLayer)
 
-
-hsb = [0,0,0]
-modeKey = 'ctrl_layer_color_modulate'
-quietKeyword = False
-
-def updateUIColors(quietHSB = False):
-	quietKeyword = True
-	r = modul8.getValue(modeKey+'R',0)
-	g= modul8.getValue(modeKey+'G',0)
-	b = modul8.getValue(modeKey+'B',0)
-	module.setValue('red',0,r)	
-	module.setValue('green',0,g)	
-	module.setValue('blue',0,b)
-#	module.setValue('redf',0,int(r*255))	
-#	module.setValue('greenf',0,int(g*255))	
-#	module.setValue('bluef',0,int(b*255))
-	module.setValue('colorfield',0,r)
-	module.setValue('colorfield',1,g)
-	module.setValue('colorfield',2,b)
-	if not quietHSB:
-		hsb[0] = r
-		hsb[1] = g
-		hsb[2] = b
-		modul8.rgbToHsb(hsb)
-	h = hsb[0]
-	s = hsb[1]
-	b = hsb[2]
-	module.setValue('hue',0,h)	
-	module.setValue('saturation',0,s)	
-	module.setValue('brightness',0,b)
-	module.setValue('huef',0,int(h*255))	
-	module.setValue('saturation f',0,int(s*255))	
-	module.setValue('brightnessf',0,int(b*255))
-	quietKeyword = False
-
-updateUIColors()
-
-# layer:
-# -1 --&gt; select all layers
-# 0 --&gt; Focused layer
-# Specific layer --&gt; from  1 to 10
-whichLayer=-1
+redrawCurrentColor()
 </string>
 	<key>SCRIPT_KEYWORDEVENT</key>
 	<string></string>
 	<key>SCRIPT_MESSAGE</key>
-	<string>#print msg
-quietHSB = False
-quietKeyword = True
+	<string>print 'msg: ', msg, ' whichLayer: ', whichLayer, ' param: ', param
 
-hsbUpdated = False
-hsbEntry = 0
-hsbValue = 0
-print 'msg: ', msg, ' whichLayer: ', whichLayer
-
-if msg=='red':
-	modul8.setValue(modeKey+'R',param['value'],whichLayer)
-elif msg=='redf':
-	modul8.setValue(modeKey+'R',param['value']/255,whichLayer)
-elif msg=='green':
-	modul8.setValue(modeKey+'G',param['value'],whichLayer)
-elif msg=='greenf':
-	modul8.setValue(modeKey+'G',param['value']/255,whichLayer)
-elif msg=='blue':
-	modul8.setValue(modeKey+'B',param['value'],whichLayer)
-elif msg=='bluef':
-	modul8.setValue(modeKey+'B',param['value']/255,whichLayer)
-elif msg=='rgb':
-	
-	if 'red' in param:
-		modul8.setValue(modeKey+'R',param['red'],whichLayer)
-	if 'green' in param:
-		modul8.setValue(modeKey+'G',param['green'],whichLayer)
-	if 'blue' in param:
-		modul8.setValue(modeKey+'B',param['blue'],whichLayer)
-
-elif msg=='hue' or msg=='huef':
-	if msg=='hue':
-		hsbValue = param['value']
-	else:
-		hsbValue = param['value']/255
-	hsbUpdated = True
-	hsbEntry = 0
-
-elif msg=='saturation' or msg=='saturationf':
-	if msg=='saturation':
-		hsbValue = param['value']
-	else:
-		hsbValue = param['value']/255
-	hsbUpdated = True
-	hsbEntry = 1
-
-elif msg=='brightness' or msg=='brightnessf':
-	if msg=='brightness':
-		hsbValue = param['value']
-	else:
-		hsbValue = param['value']/255
-	hsbUpdated = True
-	hsbEntry = 2
-
-elif msg=='gray':
-	modul8.setValue(modeKey+'R',param['level'],whichLayer)
-	modul8.setValue(modeKey+'G',param['level'],whichLayer)
-	modul8.setValue(modeKey+'B',param['level'],whichLayer)
-			
-elif msg=='setAllLayers':
-	whichLayer = -1
-elif msg=='setCurrentLayer':
-	whichLayer = 0
-elif msg=='setAdditive':
-	modeKey = 'ctrl_layer_color_additive'
-elif msg=='setModulate':
-	modeKey = 'ctrl_layer_color_modulate'
-elif msg=='colorfield':
-	if 'red' in param:
-		modul8.setValue(modeKey+'R',param['red'],whichLayer)
-	if 'green' in param:
-		modul8.setValue(modeKey+'G',param['green'],whichLayer)
-	if 'blue' in param:
-		modul8.setValue(modeKey+'B',param['blue'],whichLayer)
-
+# Button handling
+if msg=='whichLayer':
+	whichLayer = param['value']
+elif msg=='modeKey':
+	modeKey = param['value']
 elif msg == 'reset' :
-	if param['value']:
+	if param['value']:	# BtnDown
 		modul8.setValue('ctrl_layer_color_modulateR',1, whichLayer)
 		modul8.setValue('ctrl_layer_color_modulateG',1, whichLayer)
 		modul8.setValue('ctrl_layer_color_modulateB',1, whichLayer)
 		modul8.setValue('ctrl_layer_color_additiveR',0, whichLayer)
 		modul8.setValue('ctrl_layer_color_additiveG',0, whichLayer)
 		modul8.setValue('ctrl_layer_color_additiveB',0, whichLayer)
+		currentColor = [1,1,1]
+
+elif msg == 'flashBtn':
+	if param['value']:	# BtnDown
+		modul8.setValue('ctrl_master_invColorR',currentColor[0],0)
+		modul8.setValue('ctrl_master_invColorG',currentColor[1],0)
+		modul8.setValue('ctrl_master_invColorB',currentColor[2],0)
+	else:
+		modul8.setValue('ctrl_master_invColorR',0,0)
+		modul8.setValue('ctrl_master_invColorG',0,0)
+		modul8.setValue('ctrl_master_invColorB',0,0)
+	
+# Color handling
+elif msg=='rgb':
+	if 'red' in param:
+		currentColor[0] = param['red']
+	if 'green' in param:
+		currentColor[1] = param['green']
+	if 'blue' in param:
+		currentColor[2] = param['blue']
+
+elif msg=='gray':
+	currentColor = [param['level'],param['level'],param['level']]
 
 elif param['ACTION'] == 'MOUSEDOWN':
 	
@@ -3608,40 +3773,23 @@ elif param['ACTION'] == 'MOUSEDOWN':
 	green = float(msg.split(',')[1])
 	blue = float(msg.split(',')[2])
 	
-	modul8.setValue(modeKey +'R',red,whichLayer)
-	modul8.setValue(modeKey +'G',green,whichLayer)
-	modul8.setValue(modeKey +'B',blue,whichLayer)
+	currentColor = [red, green, blue]
 
-if hsbUpdated:
-	hsb[hsbEntry] = hsbValue
-	rgb = [0,0,0]
-	rgb[0] = hsb[0]
-	rgb[1] = hsb[1]
-	rgb[2] = hsb[2] 
+redrawCurrentColor()
 
-	modul8.hsbToRgb(rgb)
-	modul8.setValue(modeKey+'R',rgb[0],whichLayer)
-	modul8.setValue(modeKey+'G',rgb[1],whichLayer)
-	modul8.setValue(modeKey+'B',rgb[2],whichLayer)
-	quietHSB = True
-	
-quietKeyword = False
-updateUIColors(quietHSB)
 </string>
 	<key>SCRIPT_PAUSEEVENT</key>
-	<string>
-updateUIColors()
-</string>
+	<string></string>
 	<key>SCRIPT_PERIODICAL</key>
 	<string></string>
 	<key>SCRIPT_SERIALIZE</key>
 	<string></string>
 	<key>SHORT_DESCRIPTION</key>
-	<string></string>
+	<string>Impoved Post Colorize Picker w/ set color to all layers, invert flash</string>
 	<key>VERSION</key>
-	<string></string>
+	<string>1.0</string>
 	<key>WINDOW_HEIGHT</key>
-	<real>260</real>
+	<real>300</real>
 	<key>WINDOW_WIDTH</key>
 	<real>184</real>
 </dict>
