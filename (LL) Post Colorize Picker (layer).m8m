@@ -3559,7 +3559,7 @@
 			<key>AUTOSERIALIZE</key>
 			<integer>1</integer>
 			<key>CAPTION</key>
-			<string>Invert Flash</string>
+			<string>Invert</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
@@ -3579,7 +3579,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>11</real>
+			<real>16.515625</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -3629,7 +3629,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>flashBtn</string>
+			<string>invertBtn</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -3645,21 +3645,117 @@
 			<key>UNIQUE_ID</key>
 			<integer>103</integer>
 			<key>WIDTH</key>
-			<real>97.70703125</real>
+			<real>73.5078125</real>
 			<key>X</key>
-			<real>48</real>
+			<real>12</real>
 			<key>Y</key>
-			<real>16</real>
+			<real>12</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>flash</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-3.3041775330447255e-180</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>-3.304116858521914e-180</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>16.25390625</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>3.9525251667299724e-323</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.854897795111742e-317</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>flashBtn</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>104</integer>
+			<key>WIDTH</key>
+			<real>73.03515625</real>
+			<key>X</key>
+			<real>101</real>
+			<key>Y</key>
+			<real>12</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>- instantly set all layers to the same color - Invert flash for the current color  TODO: - improve additive  More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Based on the original Post Colorize Picker © 2006, GARAGECUBE  Version 1.0, 2015-05-25
+	<string>- instantly set all layers to the same color - Flash/invert for the current color  TODO: - improve additive  More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Based on the original Post Colorize Picker © 2006, GARAGECUBE  Version 1.0, 2015-05-25
 - initial release
 </string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>103</integer>
+	<integer>104</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<false/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
@@ -3684,7 +3780,12 @@
 		<real>878</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
-	<string></string>
+	<string>print 'Finish'
+
+resetColors()
+# cleanup global space
+del sharedDict['currentColor']
+</string>
 	<key>SCRIPT_DESERIALIZE</key>
 	<string></string>
 	<key>SCRIPT_EVENT</key>
@@ -3696,8 +3797,11 @@
 #    initial release
 
 whichLayer=-1			# -1: select all layers, 0: Focused layer
-currentColor = [1,1,1]	# initial color is white
+sharedDict = module.getSharedDictionary()
+sharedDict['currentColor'] = [1,1,1]	# initial color is white
 modeKey = 'ctrl_layer_color_modulate'
+pausedColors = sharedDict['currentColor']
+
 
 module.paintRect('white',0,0,25,25,1,1,1,1);module.finishDrawings('white')
 module.paintRect('red_',0,0,25,25,1,0,0,1);module.finishDrawings('red_')
@@ -3721,40 +3825,56 @@ module.paintRect('beige',0,0,25,25,.5,.5,0,1);module.finishDrawings('beige')
 module.paintRect('darkPink',0,0,25,25,.5,0,.5,1);module.finishDrawings('darkPink')
 module.paintRect('veryLightBlue',0,0,25,25,.6,1,1,1);module.finishDrawings('veryLightBlue')
 
-def redrawCurrentColor():
-	module.paintRect('flashClr',0,0,182,40, currentColor[0], currentColor[1], currentColor[2],1);
+def redrawPreviewColor():
+	module.paintRect('flashClr',0,0,182,40, sharedDict['currentColor'][0], sharedDict['currentColor'][1], sharedDict['currentColor'][2],1);
 	module.finishDrawings('flashClr')
-	modul8.setValue(modeKey+'R', currentColor[0], whichLayer)
-	modul8.setValue(modeKey+'G', currentColor[1], whichLayer)
-	modul8.setValue(modeKey+'B', currentColor[2], whichLayer)
+
+def redrawCurrentColor():
+	print 'currentColor', sharedDict['currentColor']
+	modul8.setValue(modeKey+'R', sharedDict['currentColor'][0], whichLayer)
+	modul8.setValue(modeKey+'G', sharedDict['currentColor'][1], whichLayer)
+	modul8.setValue(modeKey+'B', sharedDict['currentColor'][2], whichLayer)
+	redrawPreviewColor()
+
+def resetColors():
+	modul8.setValue('ctrl_layer_color_modulateR',1, whichLayer)
+	modul8.setValue('ctrl_layer_color_modulateG',1, whichLayer)
+	modul8.setValue('ctrl_layer_color_modulateB',1, whichLayer)
+	modul8.setValue('ctrl_layer_color_additiveR',0, whichLayer)
+	modul8.setValue('ctrl_layer_color_additiveG',0, whichLayer)
+	modul8.setValue('ctrl_layer_color_additiveB',0, whichLayer)
+	sharedDict['currentColor'] = [1,1,1]
+	redrawPreviewColor()
 
 redrawCurrentColor()
 </string>
 	<key>SCRIPT_KEYWORDEVENT</key>
 	<string></string>
 	<key>SCRIPT_MESSAGE</key>
-	<string># print 'msg: ', msg, ' whichLayer: ', whichLayer, ' param: ', param
-
-# Button handling
+	<string># Button handling
 if msg=='whichLayer':
 	whichLayer = param['value']
 elif msg=='modeKey':
 	modeKey = param['value']
-elif msg == 'reset' :
+elif msg == 'reset':
 	if param['value']:	# BtnDown
-		modul8.setValue('ctrl_layer_color_modulateR',1, whichLayer)
-		modul8.setValue('ctrl_layer_color_modulateG',1, whichLayer)
-		modul8.setValue('ctrl_layer_color_modulateB',1, whichLayer)
-		modul8.setValue('ctrl_layer_color_additiveR',0, whichLayer)
-		modul8.setValue('ctrl_layer_color_additiveG',0, whichLayer)
-		modul8.setValue('ctrl_layer_color_additiveB',0, whichLayer)
-		currentColor = [1,1,1]
+		resetColors()
 
 elif msg == 'flashBtn':
 	if param['value']:	# BtnDown
-		modul8.setValue('ctrl_master_invColorR',currentColor[0],0)
-		modul8.setValue('ctrl_master_invColorG',currentColor[1],0)
-		modul8.setValue('ctrl_master_invColorB',currentColor[2],0)
+		modul8.setValue('ctrl_master_addColorR',sharedDict['currentColor'][0],0)
+		modul8.setValue('ctrl_master_addColorG',sharedDict['currentColor'][1],0)
+		modul8.setValue('ctrl_master_addColorB',sharedDict['currentColor'][2],0)
+	else:
+		modul8.setValue('ctrl_master_addColorR',0,0)
+		modul8.setValue('ctrl_master_addColorG',0,0)
+		modul8.setValue('ctrl_master_addColorB',0,0)
+
+elif msg == 'invertBtn':
+	if param['value']:	# BtnDown
+		modul8.setValue('ctrl_master_invColorR',sharedDict['currentColor'][0],0)
+		modul8.setValue('ctrl_master_invColorG',sharedDict['currentColor'][1],0)
+		modul8.setValue('ctrl_master_invColorB',sharedDict['currentColor'][2],0)
 	else:
 		modul8.setValue('ctrl_master_invColorR',0,0)
 		modul8.setValue('ctrl_master_invColorG',0,0)
@@ -3763,34 +3883,46 @@ elif msg == 'flashBtn':
 # Color handling
 elif msg=='rgb':
 	if 'red' in param:
-		currentColor[0] = param['red']
+		sharedDict['currentColor'][0] = param['red']
 	if 'green' in param:
-		currentColor[1] = param['green']
+		sharedDict['currentColor'][1] = param['green']
 	if 'blue' in param:
-		currentColor[2] = param['blue']
+		sharedDict['currentColor'][2] = param['blue']
 
 elif msg=='gray':
-	currentColor = [param['level'],param['level'],param['level']]
+	sharedDict['currentColor'] = [param['level'],param['level'],param['level']]
 
 elif param['ACTION'] == 'MOUSEDOWN':
-	
+	print 'MOUSEDOWN', msg, param
 	red = float(msg.split(',')[0])
 	green = float(msg.split(',')[1])
 	blue = float(msg.split(',')[2])
 	
-	currentColor = [red, green, blue]
+	sharedDict['currentColor'] = [red, green, blue]
+else:
+	print 'Unhandles MessageEvent: msg: ', msg, ' whichLayer: ', whichLayer, ' param: ', param
+
 
 redrawCurrentColor()
 
 </string>
 	<key>SCRIPT_PAUSEEVENT</key>
-	<string></string>
+	<string>print 'paused', paused
+
+if paused:
+	pausedColors = sharedDict['currentColor']
+	resetColors()
+	del sharedDict['currentColor']
+else:
+	sharedDict['currentColor'] = pausedColors
+	redrawCurrentColor()
+	</string>
 	<key>SCRIPT_PERIODICAL</key>
 	<string></string>
 	<key>SCRIPT_SERIALIZE</key>
 	<string></string>
 	<key>SHORT_DESCRIPTION</key>
-	<string>Impoved Post Colorize Picker w/ set color to all layers, invert flash</string>
+	<string>Impoved Post Colorize Picker w/ set color to all layers, flash &amp; invert w/ selected color</string>
 	<key>VERSION</key>
 	<string>1.0</string>
 	<key>WINDOW_HEIGHT</key>
