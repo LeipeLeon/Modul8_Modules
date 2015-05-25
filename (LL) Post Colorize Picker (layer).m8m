@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string>© 2006, GARAGECUBE, 2015 Leon Berenschot (VJ LeipeLeon)</string>
+	<string>© 2015 Leon Berenschot (VJ LeipeLeon)</string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
@@ -3653,7 +3653,9 @@
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>Based on the original Post Colorize Picker  - set color to all layers     instantly set all layers to the same color - Invert flash for the current color     Invert the current color in a flash</string>
+	<string>- instantly set all layers to the same color - Invert flash for the current color  TODO: - improve additive  More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Based on the original Post Colorize Picker © 2006, GARAGECUBE  Version 1.0, 2015-05-25
+- initial release
+</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
@@ -3689,6 +3691,9 @@
 	<string></string>
 	<key>SCRIPT_INIT</key>
 	<string>#© 2006, GARAGECUBE 
+#© 2015 Leon Berenschot (VJ LeipeLeon)
+# Version 1.0 2015-05-25
+#    initial release
 
 whichLayer=-1			# -1: select all layers, 0: Focused layer
 currentColor = [1,1,1]	# initial color is white
@@ -3728,7 +3733,7 @@ redrawCurrentColor()
 	<key>SCRIPT_KEYWORDEVENT</key>
 	<string></string>
 	<key>SCRIPT_MESSAGE</key>
-	<string>print 'msg: ', msg, ' whichLayer: ', whichLayer, ' param: ', param
+	<string># print 'msg: ', msg, ' whichLayer: ', whichLayer, ' param: ', param
 
 # Button handling
 if msg=='whichLayer':
