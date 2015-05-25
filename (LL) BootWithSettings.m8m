@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string>Leon Berenschot (leipeleon@gmail.com)</string>
+	<string>© 2015 Leon Berenschot (VJ LeipeLeon)</string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
@@ -107,7 +107,9 @@
 	<string>- set preview to out
 - set testcard in first layer
 
-© 2014 Leon Berenschot, Wendbaar.nl</string>
+More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Version 1.0, 2015-05-25
+- initial release
+</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
@@ -125,9 +127,9 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
+		<false/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
@@ -142,7 +144,9 @@
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string># set preview window to out
+	<string>#© 2015 Leon Berenschot (VJ LeipeLeon)
+
+# set preview window to out
 modul8.setValue('ctrl_ui_previewWindowMode', 6, -1)
 
 # When it's a new project set the testcard as default image
