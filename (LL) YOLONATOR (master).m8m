@@ -1448,7 +1448,19 @@
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>wait for it..... DROP!!  Inspired by #teamyolo: - Sander &amp; Camiel from the Wonderboys - Dick from the Groovemosterd VJ Team  More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Version 1.0, 2015-05-25
+	<string>Inspired by #teamyolo
+
+Shoutout to Sander, Camiel, Corky, Dick
+
+Used by:
+- WonderBoys VJ Team
+- Groovemosterd DVJ Team
+- You?
+
+More info/bug reports:
+leipeleon@gmail.com, https://www.facebook.com/leipeleon
+
+Version 1.0, 2015-05-25
 - initial release
 </string>
 	<key>MODULE_AUTOFLUSH</key>
@@ -1485,13 +1497,17 @@
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>sharedDict = module.getSharedDictionary()
+	<string># © 2015 Leon Berenschot (VJ LeipeLeon)
+# Version 1.0 2015-05-25
+#    initial release
+
+sharedDict = module.getSharedDictionary()
 
 doFlash = False
 flashType = 1
 
 previousBlinkNumber = -1
-speedDict = {'21':128, '11':64, '12':32, '14':16, '18':8, '116':4, '132':3,'0': 0}
+speedDict = {'21':128, '11':64, '12':32, '14':16, '18':8, '116':4, '132':2,'0': 0}
 speedDictKey = '0'
 currentColor = [1,1,1]
 offset = 0

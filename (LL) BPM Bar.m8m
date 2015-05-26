@@ -680,7 +680,12 @@
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Based on the original Post Colorize Picker © 2006, GARAGECUBE  Version 1.0, 2015-05-25
+	<string>More info/bug reports:
+leipeleon@gmail.com, https://www.facebook.com/leipeleon
+
+Based on the original Post Colorize Picker © 2006, GARAGECUBE
+
+Version 1.0, 2015-05-25
 - initial release
 </string>
 	<key>MODULE_AUTOFLUSH</key>

@@ -107,7 +107,10 @@
 	<string>- set preview to out
 - set testcard in first layer
 
-More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Version 1.0, 2015-05-25
+More info/bug reports:
+leipeleon@gmail.com, https://www.facebook.com/leipeleon
+
+Version 1.0, 2015-05-25
 - initial release
 </string>
 	<key>MODULE_AUTOFLUSH</key>
@@ -133,9 +136,9 @@ More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1</real>
+		<real>203</real>
 		<key>WINDOW_Y</key>
-		<real>162</real>
+		<real>139</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
