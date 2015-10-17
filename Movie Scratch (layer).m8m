@@ -5240,9 +5240,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>128</real>
+		<real>1022</real>
 		<key>WINDOW_Y</key>
-		<real>1162</real>
+		<real>602</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

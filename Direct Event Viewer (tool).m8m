@@ -900,7 +900,7 @@ V1.1 add the ability to select and copy/past events.</string>
 		<key>WINDOW_X</key>
 		<real>624</real>
 		<key>WINDOW_Y</key>
-		<real>831</real>
+		<real>862</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

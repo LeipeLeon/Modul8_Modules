@@ -206,7 +206,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>125</real>
+			<real>50</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -370,7 +370,7 @@
 			<key>SCRIPT_MESSAGE</key>
 			<string>vX</string>
 			<key>SELECTED</key>
-			<false/>
+			<true/>
 			<key>SHAPE_DOTS</key>
 			<true/>
 			<key>TEXT_ALIGNEMENT</key>
@@ -1070,7 +1070,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.25</real>
+			<real>0.40000000596046448</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -1568,9 +1568,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>783</real>
+		<real>1004</real>
 		<key>WINDOW_Y</key>
-		<real>203</real>
+		<real>50</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -1583,12 +1583,12 @@
 
 import random
 
-level = 125
-speed = 0.25
+level = 50
+speed = 0.4
 count = 0
 vibrator = False
 
-vX = False
+vX = True
 vY = True
 vZ = False
 Ag = True

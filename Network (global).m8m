@@ -1860,7 +1860,7 @@ Update (1.1) Added : filter focus layer, rescan network button, save settings in
 		<key>WINDOW_X</key>
 		<real>471</real>
 		<key>WINDOW_Y</key>
-		<real>1162</real>
+		<real>862</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>try :

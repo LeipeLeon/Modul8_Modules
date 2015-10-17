@@ -6028,15 +6028,15 @@ There are some bugs, none seem to affect stability in anyway but I want to fix -
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
+		<false/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>0.0</real>
+		<real>1002</real>
 		<key>WINDOW_Y</key>
-		<real>301</real>
+		<real>354</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

@@ -725,9 +725,9 @@ The same nomeclature will be used to send an OSC message to the target when the 
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>61</real>
+		<real>1087</real>
 		<key>WINDOW_Y</key>
-		<real>678</real>
+		<real>451</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

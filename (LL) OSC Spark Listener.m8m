@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string>GarageCube</string>
+	<string>© 2015 Leon Berenschot (VJ LeipeLeon)</string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
@@ -776,27 +776,8 @@
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>With this module Modul8 can receive and send OSC messages.
-OSC message can control all the elements of the the main interface.
-This module uses the internal keyword process included in the modules system. In this way you can also control some functionalities that are not included in the main interface of Modul8.
-All Modul8 keywords can be found the "Keyword browser" in the Module menu.
-
-For modul8 to receive an OSC message the "keyword listener" in the Module needs to be active.
-
-The address in the OSC message must be:
-/md8key/[modul8 keword]/[layer Position]
-
-The layer Position is a value from 1 to 10 or a special value, the special values are:
-0 = selected layer
--1 = all layers
-
-Example:
-An OSC message that changes the alpha channel to 0.5 of the selected layer:
-address:'md8key/ctrl_layer_alpha/0'
-args:[0.5]
-
-The same nomeclature will be used to send an OSC message to the target when the "feedback sender" is active on the Module.
-
+	<string>More info/bug reports: leipeleon@gmail.com, https://www.facebook.com/leipeleon  Based on the original "OSC native (global)" © 2006, GARAGECUBE  Version 1.0, 2015-05-25
+- initial release
 </string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
@@ -823,7 +804,7 @@ The same nomeclature will be used to send an OSC message to the target when the 
 		<key>WINDOW_X</key>
 		<real>985</real>
 		<key>WINDOW_Y</key>
-		<real>239</real>
+		<real>662</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -843,7 +824,11 @@ The same nomeclature will be used to send an OSC message to the target when the 
 		pass
 </string>
 	<key>SCRIPT_INIT</key>
-	<string>import socket
+	<string># © 2015 Leon Berenschot (VJ LeipeLeon)
+# Version 1.0 2015-05-25
+#    initial release
+
+import socket
 
 log = False #Debug
 oscReceive = True

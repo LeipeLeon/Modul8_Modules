@@ -3689,7 +3689,7 @@
 		<key>WINDOW_X</key>
 		<real>0.0</real>
 		<key>WINDOW_Y</key>
-		<real>930</real>
+		<real>862</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>Defaults = {

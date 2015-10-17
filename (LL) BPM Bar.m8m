@@ -711,9 +711,9 @@ Version 1.0, 2015-05-25
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>406</real>
+		<real>401</real>
 		<key>WINDOW_Y</key>
-		<real>218</real>
+		<real>89</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

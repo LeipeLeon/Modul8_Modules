@@ -2818,7 +2818,7 @@
 		<key>WINDOW_X</key>
 		<real>1366</real>
 		<key>WINDOW_Y</key>
-		<real>1162</real>
+		<real>862</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>viewAll()</string>

@@ -1,3 +1,5 @@
+https://github.com/LeipeLeon/Modul8_Modules
+
 Modul8 modules
 ==============
 
@@ -5,12 +7,6 @@ Boot
 ----
 
 Sets the testscreen as first media when Modul8 is opened without an project.
-
-DMX2MIDI
---------
-
-Resend DMX messages as MIDI messages.  
-Current only DMX channels 0-127 are supported, these are send out to channel 14
 
 
 Links

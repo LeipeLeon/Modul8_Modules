@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string>Zoophar.com</string>
+	<string>Gael Abegg Gauthey , GarageCube</string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
@@ -22,15 +22,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56565698923</real>
+			<real>52776566892544</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
+			<real>2.0000004967441782</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>15</real>
+			<real>136.4765625</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -52,9 +52,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>-2.2219537992415084e-146</real>
+			<real>668503208984576</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.249527426168274e-303</real>
+			<real>512.00012493133545</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -64,17 +64,17 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>2.4682245729324386e-313</real>
+			<real>633318834962432</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
+			<real>0.0078125019208528101</real>
 			<key>NAME</key>
 			<string>Untitled</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
-			<real>4</real>
+			<real>12.888131141662598</real>
 			<key>RADIUS_1</key>
-			<real>4</real>
+			<real>15.403923034667969</real>
 			<key>RADIUS_2</key>
 			<real>4</real>
 			<key>RADIUS_3</key>
@@ -90,17 +90,17 @@
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
-			<string>ROUNDBOX2</string>
+			<string>ROUNDBOX4</string>
 			<key>UI_MAPS</key>
 			<array/>
 			<key>UNIQUE_ID</key>
-			<integer>99</integer>
+			<integer>70</integer>
 			<key>WIDTH</key>
-			<real>61</real>
+			<real>193.09765625</real>
 			<key>X</key>
-			<real>49</real>
+			<real>4</real>
 			<key>Y</key>
-			<real>8</real>
+			<real>138</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -118,15 +118,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56565698923</real>
+			<real>52776566892544</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
+			<real>2.0000004967441782</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>43</real>
+			<real>84.4296875</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -148,9 +148,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>-2.2219537992415084e-146</real>
+			<real>668503208984576</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.249527426168274e-303</real>
+			<real>512.00012493133545</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -160,9 +160,9 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>2.4682245729324386e-313</real>
+			<real>633318834962432</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
+			<real>0.0078125019208528101</real>
 			<key>NAME</key>
 			<string>Untitled</string>
 			<key>PREVIEW_MEDIA_MODE</key>
@@ -186,17 +186,17 @@
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
-			<string>ROUNDBOX2</string>
+			<string>ROUNDBOX4</string>
 			<key>UI_MAPS</key>
 			<array/>
 			<key>UNIQUE_ID</key>
-			<integer>94</integer>
+			<integer>69</integer>
 			<key>WIDTH</key>
-			<real>100</real>
+			<real>191.359375</real>
 			<key>X</key>
-			<real>10</real>
+			<real>4</real>
 			<key>Y</key>
-			<real>26</real>
+			<real>52</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -214,15 +214,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56565698923</real>
+			<real>52776566892544</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
+			<real>2.0000004967441782</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>29</real>
+			<real>44.6171875</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -244,9 +244,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>-2.2219537992415084e-146</real>
+			<real>668503208984576</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.249527426168274e-303</real>
+			<real>512.00012493133545</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -256,9 +256,9 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>2.4682245729324386e-313</real>
+			<real>633318834962432</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
+			<real>0.0078125019208528101</real>
 			<key>NAME</key>
 			<string>Untitled</string>
 			<key>PREVIEW_MEDIA_MODE</key>
@@ -268,9 +268,9 @@
 			<key>RADIUS_1</key>
 			<real>4</real>
 			<key>RADIUS_2</key>
-			<real>4</real>
+			<real>19.749834060668945</real>
 			<key>RADIUS_3</key>
-			<real>4</real>
+			<real>20.881814956665039</real>
 			<key>SCRIPT_MESSAGE</key>
 			<string></string>
 			<key>SELECTED</key>
@@ -282,125 +282,29 @@
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
-			<string>ROUNDBOX2</string>
+			<string>ROUNDBOX4</string>
 			<key>UI_MAPS</key>
 			<array/>
 			<key>UNIQUE_ID</key>
-			<integer>82</integer>
+			<integer>68</integer>
 			<key>WIDTH</key>
-			<real>44</real>
+			<real>191.359375</real>
 			<key>X</key>
-			<real>116</real>
+			<real>4</real>
 			<key>Y</key>
-			<real>8</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56565698923</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string></string>
-			<key>HEIGHT</key>
-			<real>28</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>-2.2219537992415084e-146</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.249527426168274e-303</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>2.4682245729324386e-313</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
 			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>ROUNDBOX2</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>81</integer>
-			<key>WIDTH</key>
-			<real>56</real>
-			<key>X</key>
-			<real>105</real>
-			<key>Y</key>
-			<real>41</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
 			<integer>1</integer>
 			<key>CAPTION</key>
-			<string>Untitled</string>
+			<string>ON</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
+			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_3</key>
@@ -408,205 +312,13 @@
 			<key>DEFAULT_FLOAT_VALUE_4</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730611e-299</real>
+			<real>0.0</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
-			<string>play</string>
+			<string></string>
 			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-4.2611670217307922e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.3221085354538588e-322</real>
-			<key>NAME</key>
-			<string>time_show</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>time_show</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>NUMFIELD</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>38</integer>
-			<key>WIDTH</key>
-			<real>20</real>
-			<key>X</key>
-			<real>69</real>
-			<key>Y</key>
-			<real>9</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>8589930496</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7913547411330733e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>67108880.51953125</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>5.4345058220765885e-315</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>17179873409</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>4.7915866871674325e-314</real>
-			<key>NAME</key>
-			<string>time</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>time</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>KNOB</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>39</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>50</real>
-			<key>Y</key>
-			<real>8</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
+			<real>20.421875</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -640,11 +352,11 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
+			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
+			<real>0.0</real>
 			<key>NAME</key>
-			<string>c1</string>
+			<string>waveX</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -656,7 +368,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>c1</string>
+			<string>waveX</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -664,793 +376,176 @@
 			<key>TEXT_ALIGNEMENT</key>
 			<string>LEFT</string>
 			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>44</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>13</real>
-			<key>Y</key>
-			<real>51</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
-			<key>NAME</key>
-			<string>c2</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>c2</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
 			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>47</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>13</real>
-			<key>Y</key>
-			<real>29</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
-			<key>NAME</key>
-			<string>c3</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>c3</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>48</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>38</real>
-			<key>Y</key>
-			<real>51</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
-			<key>NAME</key>
-			<string>c4</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>c4</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>49</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>38</real>
-			<key>Y</key>
-			<real>29</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
-			<key>NAME</key>
-			<string>c5</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>c5</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>52</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>63</real>
-			<key>Y</key>
-			<real>51</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
-			<key>NAME</key>
-			<string>c6</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>c6</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>53</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>63</real>
-			<key>Y</key>
-			<real>29</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
-			<key>NAME</key>
-			<string>c7</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>c7</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>54</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>88</real>
-			<key>Y</key>
-			<real>51</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730271e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>10</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1558218606306752e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>1.5316035021078643e-322</real>
-			<key>NAME</key>
-			<string>c8</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>c8</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>DRAWVIEW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>55</integer>
-			<key>WIDTH</key>
-			<real>19</real>
-			<key>X</key>
-			<real>88</real>
-			<key>Y</key>
-			<real>29</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>prefs</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>33554432</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7874963379422043e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>11</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>524288.1279296875</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>5.3982412455708344e-315</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>134217760.625</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>4.7879602295168571e-314</real>
-			<key>NAME</key>
-			<string>setup</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>setup</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
 			<key>TYPE</key>
 			<string>BUTTON</string>
 			<key>UI_MAPS</key>
-			<array/>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string></string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<false/>
+					<key>FEEDBACK_1</key>
+					<false/>
+					<key>FEEDBACK_2</key>
+					<false/>
+					<key>FEEDBACK_3</key>
+					<false/>
+					<key>FEEDBACK_4</key>
+					<false/>
+					<key>FEEDBACK_5</key>
+					<false/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string></string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<false/>
+					<key>FEEDBACK_1</key>
+					<false/>
+					<key>FEEDBACK_2</key>
+					<false/>
+					<key>FEEDBACK_3</key>
+					<false/>
+					<key>FEEDBACK_4</key>
+					<false/>
+					<key>FEEDBACK_5</key>
+					<false/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string></string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
 			<key>UNIQUE_ID</key>
-			<integer>61</integer>
+			<integer>9</integer>
 			<key>WIDTH</key>
-			<real>37</real>
+			<real>49.70703125</real>
 			<key>X</key>
-			<real>10</real>
+			<real>16</real>
 			<key>Y</key>
-			<real>10</real>
+			<real>13</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
 			<integer>1</integer>
 			<key>CAPTION</key>
-			<string>c1</string>
+			<string>on</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
@@ -1464,13 +559,13 @@
 			<key>DEFAULT_FLOAT_VALUE_4</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
+			<real>0.0</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
-			<string>set</string>
+			<string></string>
 			<key>HEIGHT</key>
-			<real>13</real>
+			<real>19.8125</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -1504,11 +599,11 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
+			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
+			<real>0.0</real>
 			<key>NAME</key>
-			<string>colorc1</string>
+			<string>waveY</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -1520,7 +615,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>colorc1</string>
+			<string>waveY</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -1528,777 +623,9 @@
 			<key>TEXT_ALIGNEMENT</key>
 			<string>LEFT</string>
 			<key>TOGGLE_MODE</key>
-			<false/>
+			<true/>
 			<key>TYPE</key>
 			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>45</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>7</real>
-			<key>Y</key>
-			<real>59</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>c2</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
-			<key>NAME</key>
-			<string>colorc2</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>colorc2</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>46</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>7</real>
-			<key>Y</key>
-			<real>36</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>c3</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
-			<key>NAME</key>
-			<string>colorc3</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>colorc3</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>50</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>32</real>
-			<key>Y</key>
-			<real>59</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>c4</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
-			<key>NAME</key>
-			<string>colorc4</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>colorc4</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>51</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>32</real>
-			<key>Y</key>
-			<real>36</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>c7</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
-			<key>NAME</key>
-			<string>colorc7</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>colorc7</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>56</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>82</real>
-			<key>Y</key>
-			<real>59</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>c5</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
-			<key>NAME</key>
-			<string>colorc5</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>colorc5</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>57</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>57</real>
-			<key>Y</key>
-			<real>59</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>c6</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
-			<key>NAME</key>
-			<string>colorc6</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>colorc6</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>58</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>57</real>
-			<key>Y</key>
-			<real>36</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>c8</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>9.5566194534730802e-299</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-7.1852092194012324e-37</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7667676167109806e-322</real>
-			<key>NAME</key>
-			<string>colorc8</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>colorc8</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>59</integer>
-			<key>WIDTH</key>
-			<real>16</real>
-			<key>X</key>
-			<real>82</real>
-			<key>Y</key>
-			<real>36</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>luma</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>1.1449005170556133e+243</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>1.4348611312408987e+161</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>play</string>
-			<key>HEIGHT</key>
-			<real>13</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>9.4393694584695001e+218</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>5.8123572963409692e+180</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>2.3974097265977814e-277</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.3681538386842192e-277</real>
-			<key>NAME</key>
-			<string>luma</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>lumaOn</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<true/>
-			<key>TYPE</key>
-			<string>CHECKBOX</string>
 			<key>UI_MAPS</key>
 			<array>
 				<dict>
@@ -2353,496 +680,16 @@
 				</dict>
 			</array>
 			<key>UNIQUE_ID</key>
-			<integer>80</integer>
+			<integer>12</integer>
 			<key>WIDTH</key>
-			<real>45</real>
+			<real>50.09375</real>
 			<key>X</key>
-			<real>117</real>
-			<key>Y</key>
-			<real>25</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>+</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56512135151</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
-			<key>EXC_GROUP</key>
-			<string>group 1</string>
-			<key>GROUP</key>
-			<string></string>
-			<key>HEIGHT</key>
-			<real>11</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>9.4569883068800834e-308</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.781342339000001e-309</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>9.4569883068800834e-308</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.781342339000001e-309</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>add</string>
-			<key>SELECTED</key>
-			<true/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>RADIO</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>92</integer>
-			<key>WIDTH</key>
-			<real>30</real>
-			<key>X</key>
-			<real>117</real>
-			<key>Y</key>
-			<real>43</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>-</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56512135151</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
-			<key>EXC_GROUP</key>
-			<string>group 1</string>
-			<key>GROUP</key>
-			<string></string>
-			<key>HEIGHT</key>
-			<real>11</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>9.4569883068800834e-308</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.781342339000001e-309</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>9.4569883068800834e-308</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.781342339000001e-309</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>mod</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>RADIO</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>93</integer>
-			<key>WIDTH</key>
-			<real>28</real>
-			<key>X</key>
-			<real>118</real>
-			<key>Y</key>
-			<real>58</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>time</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>0.0</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string></string>
-			<key>HEIGHT</key>
-			<real>10</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>2.1219957904712067e-314</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.1219957904712067e-314</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.1219957904712067e-314</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>CAPTIONW</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>98</integer>
-			<key>WIDTH</key>
-			<real>24</real>
-			<key>X</key>
-			<real>89</real>
+			<real>128</real>
 			<key>Y</key>
 			<real>13</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>Untitled</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56504505756</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>16</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>1697.6662638090122</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>4.7777286635823824e-314</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>4997.0166117662802</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>4.7811124786773661e-314</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>ROUNDBOX3</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>64</integer>
-			<key>WIDTH</key>
-			<real>100</real>
-			<key>X</key>
-			<real>8</real>
-			<key>Y</key>
-			<real>8</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>1</integer>
-			<key>CAPTION</key>
-			<string>ok</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>33554432</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7874963379422043e-314</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string>set</string>
-			<key>HEIGHT</key>
-			<real>12</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>524288.1279296875</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>5.3982412455708344e-315</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>134217760.625</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>4.7879602295168571e-314</real>
-			<key>NAME</key>
-			<string>play</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string>play</string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>BUTTON</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>63</integer>
-			<key>WIDTH</key>
-			<real>42</real>
-			<key>X</key>
-			<real>9</real>
-			<key>Y</key>
-			<real>10</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
 			<integer>1</integer>
 			<key>CAPTION</key>
 			<string>Untitled</string>
@@ -2851,21 +698,21 @@
 			<key>DEFAULT_FLOAT_VALUE_0</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>797797129822.53271</real>
+			<real>1.7909805616130655e+250</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>797797129817.46729</real>
+			<real>3.4192327639220175e-315</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
-			<string>set</string>
+			<string></string>
 			<key>HEIGHT</key>
-			<real>16</real>
+			<real>45</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -2879,7 +726,7 @@
 			<key>LIVE_MODE</key>
 			<false/>
 			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
+			<real>4</real>
 			<key>MAX_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_2</key>
@@ -2887,9 +734,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>2.3082524130261605e-259</real>
+			<real>-8.2734790562797006e+217</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>3.5254983041475935e-264</real>
+			<real>3.0310240615860743e-175</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -2899,11 +746,11 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>8.7361616475712437e+97</real>
+			<real>9.8205839488890555e-91</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>4.7862006054695901e+180</real>
+			<real>3.4001130698044022e+184</real>
 			<key>NAME</key>
-			<string>color_1</string>
+			<string>speedX</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -2915,7 +762,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>color_1</string>
+			<string>speedX</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -2925,7 +772,7 @@
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
-			<string>SYSCOLORPICKER</string>
+			<string>KNOB</string>
 			<key>UI_MAPS</key>
 			<array>
 				<dict>
@@ -2954,7 +801,7 @@
 					<key>FEEDBACK_5</key>
 					<true/>
 					<key>LAYER_0</key>
-					<integer>0</integer>
+					<integer>-2</integer>
 					<key>LAYER_1</key>
 					<integer>0</integer>
 					<key>LAYER_2</key>
@@ -2966,11 +813,11 @@
 					<key>LAYER_5</key>
 					<integer>0</integer>
 					<key>TARGET_0</key>
-					<string></string>
+					<string>NONE</string>
 					<key>TARGET_1</key>
-					<string></string>
+					<string>NONE</string>
 					<key>TARGET_2</key>
-					<string></string>
+					<string>NONE</string>
 					<key>TARGET_3</key>
 					<string>NONE</string>
 					<key>TARGET_4</key>
@@ -2980,19 +827,19 @@
 				</dict>
 			</array>
 			<key>UNIQUE_ID</key>
-			<integer>36</integer>
+			<integer>15</integer>
 			<key>WIDTH</key>
-			<real>54</real>
+			<real>45</real>
 			<key>X</key>
-			<real>54</real>
+			<real>16</real>
 			<key>Y</key>
-			<real>8</real>
+			<real>85</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>CAPTION</key>
-			<string>type</string>
+			<string>anim X</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
@@ -3004,15 +851,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>415704.56565698923</real>
+			<real>370.90989031176719</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.7840057508145635e-314</real>
+			<real>2.4133782948323214e+66</real>
 			<key>EXC_GROUP</key>
-			<string>luma</string>
+			<string></string>
 			<key>GROUP</key>
-			<string>luma</string>
+			<string></string>
 			<key>HEIGHT</key>
-			<real>12</real>
+			<real>20.25</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -3034,9 +881,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>9.4569883068800834e-308</real>
+			<real>5.3442794747825567e-315</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.781342339000001e-309</real>
+			<real>2.6564085607468877e-314</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -3046,11 +893,11 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>9.4569883068800834e-308</real>
+			<real>1.4240394560579809e-198</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.781342339000001e-309</real>
+			<real>-2.5621446256330899e+241</real>
 			<key>NAME</key>
-			<string>lumatype</string>
+			<string>animX</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -3062,7 +909,397 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>lumaType</string>
+			<string>animX</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string>NONE</string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>16</integer>
+			<key>WIDTH</key>
+			<real>50.48828125</real>
+			<key>X</key>
+			<real>16</real>
+			<key>Y</key>
+			<real>61</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>anim Y</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>370.90989031176719</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>2.4133782948323214e+66</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>20.20703125</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>5.3442794747825567e-315</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>2.6564085607468877e-314</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>1.4240394560579809e-198</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>-2.5621446256330899e+241</real>
+			<key>NAME</key>
+			<string>animY</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>animY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string>NONE</string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>17</integer>
+			<key>WIDTH</key>
+			<real>51.1328125</real>
+			<key>X</key>
+			<real>128</real>
+			<key>Y</key>
+			<real>61</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.7909805616130655e+250</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>45</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>4</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>-8.2734790562797006e+217</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>3.0310240615860743e-175</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>speedY</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>speedY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>KNOB</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>18</integer>
+			<key>WIDTH</key>
+			<real>45</real>
+			<key>X</key>
+			<real>128</real>
+			<key>Y</key>
+			<real>85</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>link</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>4.0315156616654419e+251</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.3371499001175397e-152</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>2.9706139309034529e+228</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.0315156616654419e+251</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>6.60308283718739e+246</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>4.3568715550249698e-114</real>
+			<key>NAME</key>
+			<string>linkNumber</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>linkNumber</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -3076,21 +1313,2786 @@
 			<key>UI_MAPS</key>
 			<array/>
 			<key>UNIQUE_ID</key>
-			<integer>103</integer>
+			<integer>19</integer>
 			<key>WIDTH</key>
-			<real>40</real>
+			<real>27.7734375</real>
 			<key>X</key>
-			<real>117</real>
+			<real>81</real>
 			<key>Y</key>
+			<real>248</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>100</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.7909805616130655e+250</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>45</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>360</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>-8.2734790562797006e+217</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>3.0310240615860743e-175</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>amountY</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>amountY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>KNOB</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string></string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>23</integer>
+			<key>WIDTH</key>
+			<real>45</real>
+			<key>X</key>
+			<real>128</real>
+			<key>Y</key>
+			<real>185</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>100</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.7909805616130655e+250</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>45</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>360</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>-8.2734790562797006e+217</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>3.0310240615860743e-175</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>amountX</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>amountX</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>KNOB</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string></string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>24</integer>
+			<key>WIDTH</key>
+			<real>45</real>
+			<key>X</key>
+			<real>16</real>
+			<key>Y</key>
+			<real>184</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>16.81640625</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
 			<real>10</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>3161096474498.2935</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>2097152.5163574219</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.2852150854582055e+194</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.9525251667299724e-323</real>
+			<key>NAME</key>
+			<string>mulY</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>mulY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>NUMFIELD</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string>direct_layer_transformer_patch_sinusY_mul</string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>26</integer>
+			<key>WIDTH</key>
+			<real>20.16796875</real>
+			<key>X</key>
+			<real>145</real>
+			<key>Y</key>
+			<real>246</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>link</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>4.0315156616654419e+251</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.3371499001175397e-152</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.30859375</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>2.9706139309034529e+228</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.0315156616654419e+251</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>6.60308283718739e+246</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>4.3568715550249698e-114</real>
+			<key>NAME</key>
+			<string>linkSpeed</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>linkSpeed</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>27</integer>
+			<key>WIDTH</key>
+			<real>28.1171875</real>
+			<key>X</key>
+			<real>80</real>
+			<key>Y</key>
+			<real>110</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.7909805616130655e+250</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>35.91796875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>-8.2734790562797006e+217</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>3.0310240615860743e-175</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>phaseY</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>phaseY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>KNOB</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string></string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>30</integer>
+			<key>WIDTH</key>
+			<real>35.91796875</real>
+			<key>X</key>
+			<real>132</real>
+			<key>Y</key>
+			<real>138</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.7909805616130655e+250</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>3.4192327639220175e-315</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>35.91796875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>-8.2734790562797006e+217</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>3.0310240615860743e-175</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.8205839488890555e-91</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.4001130698044022e+184</real>
+			<key>NAME</key>
+			<string>phaseX</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>phaseY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>KNOB</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string></string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>31</integer>
+			<key>WIDTH</key>
+			<real>35.91796875</real>
+			<key>X</key>
+			<real>19</real>
+			<key>Y</key>
+			<real>139</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>link</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>4.0315156616654419e+251</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.3371499001175397e-152</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.30859375</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>2.9706139309034529e+228</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.0315156616654419e+251</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>6.60308283718739e+246</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>4.3568715550249698e-114</real>
+			<key>NAME</key>
+			<string>linkAnimation</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>linkAnimation</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>32</integer>
+			<key>WIDTH</key>
+			<real>28.1171875</real>
+			<key>X</key>
+			<real>80</real>
+			<key>Y</key>
+			<real>68</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>link</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>4.0315156616654419e+251</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.3371499001175397e-152</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.30859375</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>2.9706139309034529e+228</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.0315156616654419e+251</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>6.60308283718739e+246</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>4.3568715550249698e-114</real>
+			<key>NAME</key>
+			<string>linkPhase</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>linkPhase</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>33</integer>
+			<key>WIDTH</key>
+			<real>28.1171875</real>
+			<key>X</key>
+			<real>80</real>
+			<key>Y</key>
+			<real>155</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>link</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>4.0315156616654419e+251</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.3371499001175397e-152</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.30859375</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>2.9706139309034529e+228</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.0315156616654419e+251</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>6.60308283718739e+246</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>4.3568715550249698e-114</real>
+			<key>NAME</key>
+			<string>linkAmount</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>linkAmount</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>34</integer>
+			<key>WIDTH</key>
+			<real>28.1171875</real>
+			<key>X</key>
+			<real>80</real>
+			<key>Y</key>
+			<real>208</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>+</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>17.26171875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>4.03254662180852e+175</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.4787766759239304e-310</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.2055108116123483e-286</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>addMY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>35</integer>
+			<key>WIDTH</key>
+			<real>16</real>
+			<key>X</key>
+			<real>168</real>
+			<key>Y</key>
+			<real>246</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>-</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>17.26171875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>4.03254662180852e+175</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.4787766759239304e-310</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.2055108116123483e-286</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>remMY</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>36</integer>
+			<key>WIDTH</key>
+			<real>16</real>
+			<key>X</key>
+			<real>126</real>
+			<key>Y</key>
+			<real>246</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>16.81640625</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>10</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>3161096474498.2935</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>2097152.5163574219</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>9.2852150854582055e+194</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>3.9525251667299724e-323</real>
+			<key>NAME</key>
+			<string>mulX</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>mulX</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>NUMFIELD</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string>direct_layer_transformer_patch_sinusY_mul</string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>37</integer>
+			<key>WIDTH</key>
+			<real>20.16796875</real>
+			<key>X</key>
+			<real>29</real>
+			<key>Y</key>
+			<real>246</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>+</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>17.26171875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>4.03254662180852e+175</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.4787766759239304e-310</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.2055108116123483e-286</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>addMX</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>38</integer>
+			<key>WIDTH</key>
+			<real>16</real>
+			<key>X</key>
+			<real>52</real>
+			<key>Y</key>
+			<real>246</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>-</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>17.26171875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>4.03254662180852e+175</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.4787766759239304e-310</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.2055108116123483e-286</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>remMX</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>39</integer>
+			<key>WIDTH</key>
+			<real>16</real>
+			<key>X</key>
+			<real>10</real>
+			<key>Y</key>
+			<real>246</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>wave number</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-9.5759489733521553e-309</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>6.7019034546866917e-05</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>12.4296875</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>524288</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>-3.8361807551736966e+154</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>8.3440269694031267e-309</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>CENTER</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONG</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>40</integer>
+			<key>WIDTH</key>
+			<real>105.71484375</real>
+			<key>X</key>
+			<real>46</real>
+			<key>Y</key>
+			<real>234</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>amplitude</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-9.5759489733521553e-309</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>6.7019034546866917e-05</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.69140625</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>524288</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>-3.8361807551736966e+154</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>8.3440269694031267e-309</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>CENTER</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONG</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>41</integer>
+			<key>WIDTH</key>
+			<real>60.98828125</real>
+			<key>X</key>
+			<real>64</real>
+			<key>Y</key>
+			<real>196</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>phase</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-9.5759489733521553e-309</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>6.7019034546866917e-05</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.69140625</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>524288</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>-3.8361807551736966e+154</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>8.3440269694031267e-309</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>CENTER</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONG</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>42</integer>
+			<key>WIDTH</key>
+			<real>60.98828125</real>
+			<key>X</key>
+			<real>64</real>
+			<key>Y</key>
+			<real>143</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>speed</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-9.5759489733521553e-309</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>6.7019034546866917e-05</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.69140625</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>524288</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>-3.8361807551736966e+154</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>8.3440269694031267e-309</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>CENTER</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONG</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>43</integer>
+			<key>WIDTH</key>
+			<real>60.98828125</real>
+			<key>X</key>
+			<real>64</real>
+			<key>Y</key>
+			<real>98</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>animation</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>-9.5759489733521553e-309</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>6.7019034546866917e-05</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.69140625</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>524288</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>-3.8361807551736966e+154</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>8.3440269694031267e-309</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>CENTER</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONG</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>44</integer>
+			<key>WIDTH</key>
+			<real>60.98828125</real>
+			<key>X</key>
+			<real>66</real>
+			<key>Y</key>
+			<real>57</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>WAVE</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1029662338.9608717</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.250888932828747e-308</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>16.734375</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>3699327499.4529629</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>3699327498.8197975</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>1489206531.8409901</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>74696784.240061879</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>TEXTCAPTIONW</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>48</integer>
+			<key>WIDTH</key>
+			<real>36.35546875</real>
+			<key>X</key>
+			<real>79</real>
+			<key>Y</key>
+			<real>5</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>link</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>4.0315156616654419e+251</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.3371499001175397e-152</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>11.30859375</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>2.9706139309034529e+228</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>4.0315156616654419e+251</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>6.60308283718739e+246</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>4.3568715550249698e-114</real>
+			<key>NAME</key>
+			<string>linkWave</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>linkWave</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<true/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>49</integer>
+			<key>WIDTH</key>
+			<real>28.1171875</real>
+			<key>X</key>
+			<real>80</real>
+			<key>Y</key>
+			<real>23</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>Untitled</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>402.31640625</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>4.9406564584124654e-324</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>16</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>5.3319855405039598e-315</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>2.6563842764322634e-314</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.9406564584124654e-324</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>5.3319855405039598e-315</real>
+			<key>NAME</key>
+			<string>fov</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>KNOB</string>
+			<key>UI_MAPS</key>
+			<array>
+				<dict>
+					<key>EXPRESSION_0</key>
+					<string>value=value</string>
+					<key>EXPRESSION_1</key>
+					<string>value=value</string>
+					<key>EXPRESSION_2</key>
+					<string>value=value</string>
+					<key>EXPRESSION_3</key>
+					<string>value=value</string>
+					<key>EXPRESSION_4</key>
+					<string>value=value</string>
+					<key>EXPRESSION_5</key>
+					<string>value=value</string>
+					<key>FEEDBACK_0</key>
+					<true/>
+					<key>FEEDBACK_1</key>
+					<true/>
+					<key>FEEDBACK_2</key>
+					<true/>
+					<key>FEEDBACK_3</key>
+					<true/>
+					<key>FEEDBACK_4</key>
+					<true/>
+					<key>FEEDBACK_5</key>
+					<true/>
+					<key>LAYER_0</key>
+					<integer>-2</integer>
+					<key>LAYER_1</key>
+					<integer>0</integer>
+					<key>LAYER_2</key>
+					<integer>0</integer>
+					<key>LAYER_3</key>
+					<integer>0</integer>
+					<key>LAYER_4</key>
+					<integer>0</integer>
+					<key>LAYER_5</key>
+					<integer>0</integer>
+					<key>TARGET_0</key>
+					<string>ctrl_layer_fieldOfView</string>
+					<key>TARGET_1</key>
+					<string>NONE</string>
+					<key>TARGET_2</key>
+					<string>NONE</string>
+					<key>TARGET_3</key>
+					<string>NONE</string>
+					<key>TARGET_4</key>
+					<string>NONE</string>
+					<key>TARGET_5</key>
+					<string>NONE</string>
+				</dict>
+			</array>
+			<key>UNIQUE_ID</key>
+			<integer>51</integer>
+			<key>WIDTH</key>
+			<real>16</real>
+			<key>X</key>
+			<real>87</real>
+			<key>Y</key>
+			<real>174</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>fov</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>1.2306679256576476e-306</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>0.0</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>10.77734375</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>-5.0987753074333221e-149</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>-5.3348616312689976e-149</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>8.0056375631032796e-220</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>7.9289899424119819e-227</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONB</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>54</integer>
+			<key>WIDTH</key>
+			<real>26.66015625</real>
+			<key>X</key>
+			<real>64</real>
+			<key>Y</key>
+			<real>179</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>horizontal</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>861192622449440</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>37598143709184</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>10</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>5.3392101241047156e-315</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>2.6564490346045951e-314</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.9406564584124654e-324</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>5.3392101241047156e-315</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONB</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>72</integer>
+			<key>WIDTH</key>
+			<real>60</real>
+			<key>X</key>
+			<real>17</real>
+			<key>Y</key>
+			<real>39</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>0</integer>
+			<key>CAPTION</key>
+			<string>vertical</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>861192622449440</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>37598143709184</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>10</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>5.3392101241047156e-315</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>2.6564490346045951e-314</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>4.9406564584124654e-324</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>5.3392101241047156e-315</real>
+			<key>NAME</key>
+			<string>Untitled</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string></string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>CAPTIONB</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>73</integer>
+			<key>WIDTH</key>
+			<real>60</real>
+			<key>X</key>
+			<real>132</real>
+			<key>Y</key>
+			<real>39</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>1) choose prefs to define colors                                               2) choose color apple color picker                                           3) assign color with c(number) button                                     4) redo step 2&amp;3 for each color                                               5) return in play mode with the ok button                                6) colors are saved via moduleDict[] (thx Vision sonore)                                        7) you can speed up or slow down the transition via the knob or text field                                                                 FEEDBACK IS WELCOME ;-) modul8@zoophar.com                       </string>
+	<string>This Module will trigger the Tranformer Patch.
+it enables advanced Wave Transformation  in Horizontal and/or Vertical
+- Add 0 to 10 horizontal waves
+- Add 0 to 10 vertival waves 
+- change the Phase of your wave
+- Animate Waves
+You can link horizontal and vertical Values for each parameter  or use separate values  for horizontal and vertical Values.
+
+Be creative and tweak Shape/ fill mode / thicknesss and Patch Division from the Main interface to get stunning results. </string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>104</integer>
+	<integer>73</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<true/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
@@ -3103,639 +4105,363 @@
 	<real>0.08235294371843338</real>
 	<key>PREFERENCES</key>
 	<dict>
-		<key>SCRIPT_DEFAULTS</key>
-		<dict>
-			<key>(g3_ASCII)colorB1</key>
-			<string>(g3_FLOAT)0.207843</string>
-			<key>(g3_ASCII)colorB2</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorB3</key>
-			<string>(g3_FLOAT)0.211765</string>
-			<key>(g3_ASCII)colorB4</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorB5</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorB6</key>
-			<string>(g3_FLOAT)0.000000</string>
-			<key>(g3_ASCII)colorB7</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorB8</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorG1</key>
-			<string>(g3_FLOAT)0.850980</string>
-			<key>(g3_ASCII)colorG2</key>
-			<string>(g3_FLOAT)0.000000</string>
-			<key>(g3_ASCII)colorG3</key>
-			<string>(g3_FLOAT)0.850980</string>
-			<key>(g3_ASCII)colorG4</key>
-			<string>(g3_FLOAT)0.000000</string>
-			<key>(g3_ASCII)colorG5</key>
-			<string>(g3_FLOAT)0.000000</string>
-			<key>(g3_ASCII)colorG6</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorG7</key>
-			<string>(g3_FLOAT)0.000000</string>
-			<key>(g3_ASCII)colorG8</key>
-			<string>(g3_FLOAT)0.000000</string>
-			<key>(g3_ASCII)colorR1</key>
-			<string>(g3_FLOAT)0.768627</string>
-			<key>(g3_ASCII)colorR2</key>
-			<string>(g3_FLOAT)0.257465</string>
-			<key>(g3_ASCII)colorR3</key>
-			<string>(g3_FLOAT)0.768628</string>
-			<key>(g3_ASCII)colorR4</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorR5</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorR6</key>
-			<string>(g3_FLOAT)0.652384</string>
-			<key>(g3_ASCII)colorR7</key>
-			<string>(g3_FLOAT)1.000000</string>
-			<key>(g3_ASCII)colorR8</key>
-			<string>(g3_FLOAT)1.000000</string>
-		</dict>
 		<key>SCRIPT_STATE</key>
 		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<true/>
-		<key>WINDOW_MINIMIZED</key>
 		<false/>
+		<key>WINDOW_MINIMIZED</key>
+		<true/>
 		<key>WINDOW_X</key>
-		<real>592</real>
+		<real>1130</real>
 		<key>WINDOW_Y</key>
-		<real>862</real>
+		<real>394</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
 	<key>SCRIPT_DESERIALIZE</key>
-	<string></string>
+	<string>if 'linkNumber' in inDict:
+	linkNumber = inDict['linkNumber']
+	module.setValue('linkNumber',0, linkNumber)
+if 'linkAmount' in inDict:
+	linkAmount = inDict['linkAmount']
+	module.setValue('linkAmount',0, linkAmount)
+if 'linkPhase' in inDict:
+	linkPhase = inDict['linkPhase']
+	module.setValue('linkPhase',0, linkPhase)
+if 'linkSpeed' in inDict:
+	linkSpeed = inDict['linkSpeed']
+	module.setValue('linkSpeed',0, linkSpeed)
+if 'linkAnimation' in inDict:
+	linkAnimation = inDict['linkAnimation']
+	module.setValue('linkAnimation',0, linkAnimation)
+if 'linkWave' in inDict:
+	linkWave = inDict['linkWave']
+	module.setValue('linkWave',0, linkWave)
+if 'patchOn' in inDict:
+	patchOn = inDict['patchOn']
+
+if 'mulX' in inDict:
+	mulX = inDict['mulX']
+	module.setValue('mulX',0, mulX)
+if 'mulY' in inDict:
+	mulY = inDict['mulY']
+	module.setValue('mulY',0, mulY)
+if 'amountX' in inDict:
+	amountX = inDict['amountX']
+	module.setValue('amountX',0, amountX)
+if 'amountY' in inDict:
+	amountY = inDict['amountY']
+	module.setValue('amountY',0, amountY)
+if 'phaseX' in inDict:
+	phaseX = inDict['phaseX']
+	module.setValue('phaseX',0, phaseX)
+if 'phaseY' in inDict:
+	phaseY = inDict['phaseY']
+	module.setValue('phaseY',0, phaseY)
+if 'speedX' in inDict:
+	speedX = inDict['speedX']
+	module.setValue('speedX',0, speedX)
+if 'speedY' in inDict:
+	speedY = inDict['speedY']
+	module.setValue('speedY',0, speedY)
+if 'animX' in inDict:
+	animX = inDict['animX']
+	module.setValue('animX',0, animX)
+if 'animY' in inDict:
+	animY = inDict['animY']
+	module.setValue('animY',0, animY)
+if 'waveX' in inDict:
+	waveX = inDict['waveX']
+	module.setValue('waveX',0, waveX)
+if 'waveY' in inDict:
+	waveY = inDict['waveY']
+	module.setValue('waveY',0, waveY)
+</string>
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>add=1
-				
-lumatype  = 0
-luma = modul8.getValue('ctrl_layer_pixelFX_lumaOn',0) 
+	<string>#©Gael Abegg Gauthey - GarageCUBE  2014
+
+speed = modul8.getValue('ctrl_master_speed',0)
+
+tx=0
+ty=0
+
+linkNumber = 0
+linkAmount = 0
+linkPhase = 0
+linkSpeed =0
+linkAnimation = 0
+linkWave = 0
+patchOn = 0
 
 
-run1 = 0
-run2 = 0
-run3 = 0
+mulX = 1
+mulY =1
+amountX = 100
+amountY = 100
+phaseX = 0
+phaseY = 0
+speedX =1
+speedY =1
+animX=0
+animY=0
+waveX=0
+waveY=0
 
 
-#module.ShowGroup('play')
-module.hideGroup('set')
-module.hideGroup('ask')
-module.hideGroup('luma')	
-
-time = 1
-inc = 0.0
-
-newR = 0
-newG = 0
-newB = 0
-
-oldR = 0
-oldG = 0
-oldB = 0
-
-def color1():			
-	newR = module.getValue('color_1',0)
-	newG = module.getValue('color_1',1)
-	newB = module.getValue('color_1',2)
-	newA = module.getValue('color_1',3)
-	
-
-def runner():
-	run1=1
-	run2=1
-	run3=1
-	
-
-master=0
-
-		
-#© 2007 VisionSonore - Visual playgound ®
-#VS training serie
-#lecture du dictionnaire du module en cours
-moduledict = module.getDefaults()
-
-#print moduledict  # affiche la structure et le contenu des elements sauvegardés dans le dictionnaire du module
-#print moduledict['colorR1'] 
-#affiche la référence 'color' enregistré dans le dictionnaire du module
+module.setValue('speedY',0,-4)
+def updateUI():
+	module.setValue('mulX',0, mulX)
+	module.setValue('mulY',0, mulY)
+	module.setValue('amountX',0, amountX)
+	module.setValue('amountY',0, amountY)
+	module.setValue('phaseX',0, phaseX)
+	module.setValue('phaseY',0, phaseY)
+	module.setValue('speedX',0, speedX)
+	module.setValue('speedY',0, speedY)
+	module.setValue('animX',0, animX)
+	module.setValue('animY',0, animY)
+	module.setValue('linkNumber',0, linkNumber)
+	module.setValue('linkAmount',0, linkAmount)
+	module.setValue('linkSpeed',0, linkSpeed)
+	module.setValue('linkAnimation',0, linkAnimation)
+	module.setValue('linkWave',0, linkWave)
+	module.setValue('waveX', 0, waveX)
+	module.setValue('waveY', 0, waveY)
 
 
-newR1=moduledict['colorR1']
-newG1=moduledict['colorG1']
-newB1 = moduledict['colorB1']
+def triggerWave():
+	patchOn = waveX or waveY
+	if patchOn:
+		modul8.setValue('ctrl_layer_transformer_on', 1,0)
+		modul8.setValue('ctrl_layer_transformer_type', 1,0)
+	else:
+		modul8.setValue('ctrl_layer_transformer_on', 0,0)
 
-module.paintRect('c1',0,0,25,25,newR1,newG1,newB1,1);module.finishDrawings('c1')
+	modul8.setValue('direct_layer_transformer_patch_sinusX_on', waveX,0)
+	modul8.setValue('direct_layer_transformer_patch_sinusY_on', waveY,0)
 
-newR2=moduledict['colorR2']
-newG2=moduledict['colorG2']
-newB2 = moduledict['colorB2']
+fov = modul8.getValue('ctrl_layer_fieldOfView',0)
+module.setValue('fov',0,fov)
+updateUI()
 
-module.paintRect('c2',0,0,25,25,newR2,newG2,newB2,1);module.finishDrawings('c2')
-
-newR3=moduledict['colorR3']
-newG3=moduledict['colorG3']
-newB3 = moduledict['colorB3']
-
-module.paintRect('c3',0,0,25,25,newR3,newG3,newB3,1);module.finishDrawings('c3')
-
-newR4=moduledict['colorR4']
-newG4=moduledict['colorG4']
-newB4 = moduledict['colorB4']
-
-module.paintRect('c4',0,0,25,25,newR4,newG4,newB4,1);module.finishDrawings('c4')
-
-newR5=moduledict['colorR5']
-newG5=moduledict['colorG5']
-newB5 = moduledict['colorB5']
-
-module.paintRect('c5',0,0,25,25,newR5,newG5,newB5,1);module.finishDrawings('c5')
-
-newR6=moduledict['colorR6']
-newG6=moduledict['colorG6']
-newB6 = moduledict['colorB6']
-
-module.paintRect('c6',0,0,25,25,newR6,newG6,newB6,1);module.finishDrawings('c6')
-
-newR7=moduledict['colorR7']
-newG7=moduledict['colorG7']
-newB7 = moduledict['colorB7']
-
-module.paintRect('c7',0,0,25,25,newR7,newG7,newB7,1);module.finishDrawings('c7')
-
-newR8=moduledict['colorR8']
-newG8=moduledict['colorG8']
-newB8 = moduledict['colorB8']
-
-module.paintRect('c8',0,0,25,25,newR8,newG8,newB8,1);module.finishDrawings('c8')
 
 </string>
 	<key>SCRIPT_KEYWORDEVENT</key>
-	<string></string>
+	<string>if keyword == 'ctrl_master_speed':
+	speed = param</string>
 	<key>SCRIPT_MESSAGE</key>
-	<string>#thx to Vision sonore pour le moduledict tuto
-# more tuto on http://modul8.vionsonore.net
+	<string>if msg == 'mulX':
+	mulX = param['value']
+	modul8.setValue('direct_layer_transformer_patch_sinusX_mul', param['value'],0)
 
-if msg == 'masterc':
-	master =1
+	if linkNumber:
+		mulY = param['value']
+		modul8.setValue('direct_layer_transformer_patch_sinusY_mul', param['value'],0)
+		updateUI()
 	
-elif msg== 'layerc':
-	master=0
-	
-	
 
-if msg =='add':
-	add =1
-if msg =='mod':
-	add=0
+elif msg == 'mulY':
+	mulY = param['value']
+	modul8.setValue('direct_layer_transformer_patch_sinusY_mul', param['value'],0)
+	if linkNumber:
+		mulX = param['value']
+		modul8.setValue('direct_layer_transformer_patch_sinusX_mul', param['value'],0)
+		updateUI()
 
-if msg =='setup':
-	module.showGroup('set') 
-
-if msg == 'play':
-	module.hideGroup('set')
-	module.showGroup('play')
-
-if msg == 'lumaOn':
-	luma = modul8.getValue('ctrl_layer_pixelFX_lumaOn',0) 
-	print luma  
-	
-	if luma ==True :
-		print 'to off'
+elif msg == 'addMX' and param['value']:
+	if mulX &lt;10:
+		mulX = mulX+1
+		modul8.setValue('direct_layer_transformer_patch_sinusX_mul', mulX,0)
+	if linkNumber:
+		mulY = mulX
+		modul8.setValue('direct_layer_transformer_patch_sinusX_mul', mulX,0)
+	updateUI()
 		
-		module.setValue('luma',0)
-		modul8.setValue('ctrl_layer_pixelFX_lumaOn',False,0)
-		module.setAttribute ('luma','CAPTION','OFF')
-		module.setValue('luma',0,0)
-		module.hideGroup('luma')		
-				
-	if luma== False:
-		print 'to on'
+elif msg == 'remMX' and param['value']:
+	if mulX &gt;0:
+		mulX = mulX-1
+		modul8.setValue('direct_layer_transformer_patch_sinusX_mul', mulX,0)
+	if linkNumber:
+		mulY = mulX
+		modul8.setValue('direct_layer_transformer_patch_sinusX_mul', mulX,0)
+	updateUI()
 		
-		module.setValue('luma',1)
-		modul8.setValue('ctrl_layer_pixelFX_lumaOn',True,0)
-		module.setAttribute ('luma','CAPTION','ON')		
-		module.setValue('luma',0,1)
-		lumatype  = modul8.getValue('ctrl_layer_pixelFX_lumaType',0)
-		print lumatype
-		module.showGroup('luma')
-	
-
-if msg =='lumaType':
-	if param['value']:
-		lumatype = modul8.getValue('ctrl_layer_pixelFX_lumaType',0)
 		
-		lumatype+=1
-		if lumatype ==5:
-			lumatype=0
+elif msg == 'addMY' and param['value']:
+	if mulY &lt;10:
+		mulY = mulY+1
+		modul8.setValue('direct_layer_transformer_patch_sinusY_mul', mulY,0)
+	if linkNumber:
+		mulX= mulY
+		modul8.setValue('direct_layer_transformer_patch_sinusX_mul', mulY,0)
+	updateUI()
 		
-		print lumatype		
-		modul8.setValue('ctrl_layer_pixelFX_lumaType',lumatype,0)
-		
-		if lumatype==0:
-			module.setAttribute ('lumatype','CAPTION','nomal')
-		if lumatype==1:
-			module.setAttribute ('lumatype','CAPTION','inv')
-		if lumatype==2:
-			module.setAttribute ('lumatype','CAPTION','red')
-		if lumatype==3:
-			module.setAttribute ('lumatype','CAPTION','green')
-		if lumatype==4:
-			module.setAttribute ('lumatype','CAPTION','blue')
-
-if msg == 'time_show':
-	time= module.getValue('time_show',0)
-	module.setValue('time','value',time)
-
-if msg== 'time':
-	time= module.getValue('time',0)
-	module.setValue('time_show',0,time)
-
-
-if msg == 'color_1':
-	color1()				
-				
-if   msg== 'colorc1':
-	#colorpicker
-	newR1 = module.getValue('color_1',0)
-	newG1 = module.getValue('color_1',1)
-	newB1 = module.getValue('color_1',2)
-	module.paintRect('c1',0,0,25,25,newR1,newG1,newB1,1);module.finishDrawings('c1')
-	
-			#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR1'] = newR1 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG1'] = newG1
-	moduledict['colorB1'] = newB1
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
-
-
-if   msg== 'colorc2':
-	#colorpicker
-	newR2 = module.getValue('color_1',0)
-	newG2 = module.getValue('color_1',1)
-	newB2 = module.getValue('color_1',2)
-	module.paintRect('c2',0,0,25,25,newR2,newG2,newB2,1);module.finishDrawings('c2')
-
-		#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR2'] = newR2 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG2'] = newG2
-	moduledict['colorB2'] = newB2
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
-
-
-if   msg== 'colorc3':
-	#colorpicker
-	newR3 = module.getValue('color_1',0)
-	newG3 = module.getValue('color_1',1)
-	newB3 = module.getValue('color_1',2)
-	module.paintRect('c3',0,0,25,25,newR3,newG3,newB3,1);module.finishDrawings('c3')
-	
-		#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR3'] = newR3 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG3'] = newG3
-	moduledict['colorB3'] = newB3
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
-
-if   msg== 'colorc4':
-	#colorpicker
-	newR4 = module.getValue('color_1',0)
-	newG4 = module.getValue('color_1',1)
-	newB4 = module.getValue('color_1',2)
-	module.paintRect('c4',0,0,25,25,newR4,newG4,newB4,1);module.finishDrawings('c4')
-
-
-		#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR4'] = newR4 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG4'] = newG4
-	moduledict['colorB4'] = newB4
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
+elif msg == 'remMY' and param['value']:
+	if mulY &gt;0:
+		mulY = mulY-1
+		modul8.setValue('direct_layer_transformer_patch_sinusY_mul', mulY,0)
+	if linkNumber:
+		mulX= mulY
+		modul8.setValue('direct_layer_transformer_patch_sinusX_mul', mulY,0)
+	updateUI()
 	
 	
-if   msg== 'colorc5':
-	#colorpicker
-	newR5 = module.getValue('color_1',0)
-	newG5 = module.getValue('color_1',1)
-	newB5 = module.getValue('color_1',2)
-	module.paintRect('c5',0,0,25,25,newR5,newG5,newB5,1);module.finishDrawings('c5')
-
-
-	#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR5'] = newR5 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG5'] = newG5
-	moduledict['colorB5'] = newB5
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
 	
+elif msg == 'amountX':
+	
+	amountX = param['value']
+	modul8.setValue('direct_layer_transformer_patch_sinusX_amount',  param['value'],0)
 
-if   msg== 'colorc6':
-	#colorpicker
-	newR6 = module.getValue('color_1',0)
-	newG6 = module.getValue('color_1',1)
-	newB6 = module.getValue('color_1',2)
-	module.paintRect('c6',0,0,25,25,newR6,newG6,newB6,1);module.finishDrawings('c6')
+	if linkAmount:
+		amountY = param['value']
+		modul8.setValue('direct_layer_transformer_patch_sinusY_amount',  param['value'],0)
+		updateUI()
 
+elif msg == 'amountY':
+	amountY = param['value']
+	modul8.setValue('direct_layer_transformer_patch_sinusY_amount',  param['value'],0)
+	if linkAmount:
+		amountX = param['value']
+		modul8.setValue('direct_layer_transformer_patch_sinusX_amount',  param['value'],0)
+		updateUI()
 
-			#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR6'] = newR6 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG6'] = newG6
-	moduledict['colorB6'] = newB6
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
+elif msg == 'phaseX':
+	phaseX = param['value']
+	modul8.setValue('direct_layer_transformer_patch_sinusX_offset', param['value'],0)
+
+	if linkPhase:
+		phaseY = param['value']
+		modul8.setValue('direct_layer_transformer_patch_sinusY_offset', param['value'],0)
+		updateUI()
+
+elif msg == 'phaseY':
+	phaseY = param['value']
+	modul8.setValue('direct_layer_transformer_patch_sinusY_offset', param['value'],0)
+	if linkPhase:
+		phaseX = param['value']
+		modul8.setValue('direct_layer_transformer_patch_sinusX_offset', param['value'],0)
+		updateUI()
+
+elif msg == 'speedX':
+	speedX = param['value']
+	if linkSpeed:
+		speedY = param['value']
+		updateUI()
+	
+elif msg == 'speedY':
+	speedY = param['value']
+	if linkSpeed:
+		speedX = param['value']
+		updateUI()
+
+elif msg == 'waveX':
+	waveX = param['value']
+	if linkWave:
+		waveY = param['value']
+		updateUI()
+	triggerWave()
+
+elif msg == 'waveY':
+	waveY = param['value']
+	if linkWave:
+		waveX = param['value']
+		updateUI()
+	triggerWave()
 	
 	
-if   msg== 'colorc7':
-	#colorpicker
-	newR7 = module.getValue('color_1',0)
-	newG7 = module.getValue('color_1',1)
-	newB7 = module.getValue('color_1',2)
-	module.paintRect('c7',0,0,25,25,newR7,newG7,newB7,1);module.finishDrawings('c7')
+elif msg =='animX':
+	animX = param['value']
+	if linkAnimation:
+		animY = param['value']
+		updateUI()
+	
+elif msg =='animY':
+	animY = param['value']
+	if linkAnimation:
+		animX = param['value']
+		updateUI()
+	
+	
+elif msg =='linkNumber':
+	linkNumber = param['value']
 
-	#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR7'] = newR7 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG7'] = newG7
-	moduledict['colorB7'] = newB7
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
+elif msg =='linkAmount':
+	linkAmount = param['value']
 
-if   msg== 'colorc8':
-	#colorpicker
-	newR8 = module.getValue('color_1',0)
-	newG8 = module.getValue('color_1',1)
-	newB8 = module.getValue('color_1',2)
-	module.paintRect('c8',0,0,25,25,newR8,newG8,newB8,1);module.finishDrawings('c8')
-	
-		#print param['value'] # affiche le contenu texte du champ texte
-	moduledict['colorR8'] = newR8 # stocke la valeur du nouveau preset à enregistrer
-	moduledict['colorG8'] = newG8
-	moduledict['colorB8'] = newB8
-	module.setDefaults(moduledict) # enregistrement du nouveau preset
-	
-if msg == 'c1':
-	
-	newR = newR1
-	newG = newG1
-	newB = newB1
-	
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)	
-	run1=1
-	run2=1
-	run3=1
+elif msg =='linkPhase':
+	linkPhase = param['value']
 
-
-
-
-if msg == 'c2':
-	
-	newR = newR2
-	newG = newG2
-	newB = newB2
-	
-
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)
-	run1=1
-	run2=1
-	run3=1
-
-
-if msg == 'c3':
-	
-	newR = newR3
-	newG = newG3
-	newB = newB3
-	
-
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)
-		
-	run1=1
-	run2=1
-	run3=1
-	
-
+elif msg =='linkSpeed':
+	linkSpeed = param['value']
 
 	
-if msg == 'c4':
+elif msg =='linkAnimation':
+	linkAnimation = param['value']
+	if animX:
+		animY=animX
+	elif animY:
+		animX=animY
+	updateUI()
 	
-	newR = newR4
-	newG = newG4
-	newB = newB4
-	
-
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)	
-	run1=1
-	run2=1
-	run3=1
-	
-
-	
-if msg == 'c5':
-	
-	newR = newR5
-	newG = newG5
-	newB = newB5
-	
-
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)	
-	run1=1
-	run2=1
-	run3=1
-	
-
-	
-if msg == 'c6':
-	
-	newR = newR6
-	newG = newG6
-	newB = newB6
-	
-
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)	
-	run1=1
-	run2=1
-	run3=1
-	
-
-
-if msg == 'c7':
-	
-	newR = newR7
-	newG = newG7
-	newB = newB7
-	
-
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)	
-	run1=1
-	run2=1
-	run3=1
-	
-
-	
-if msg == 'c8':
-	
-	newR = newR8
-	newG = newG8
-	newB = newB8
-	
-
-	if  add== 1:
-		oldR = modul8.getValue('ctrl_layer_color_additiveR',0)
-		oldG = modul8.getValue('ctrl_layer_color_additiveG',0)
-		oldB = modul8.getValue('ctrl_layer_color_additiveB',0)
-	
-	elif add==0:
-		oldR = modul8.getValue('ctrl_layer_color_modulateR',0)
-		oldG = modul8.getValue('ctrl_layer_color_modulateG',0)
-		oldB = modul8.getValue('ctrl_layer_color_modulateB',0)	
-	run1=1
-	run2=1
-	run3=1
+elif msg =='linkWave':
+	linkWave = param['value']
+	if waveX:
+		waveY = waveX
+	elif waveY:
+		waveX = waveY
+	modul8.setValue('direct_layer_transformer_patch_sinusX_on', waveX,0)
+	modul8.setValue('direct_layer_transformer_patch_sinusY_on', waveY,0)
+	updateUI()
 	
 </string>
 	<key>SCRIPT_PAUSEEVENT</key>
 	<string></string>
 	<key>SCRIPT_PERIODICAL</key>
-	<string>if run1 :
-	if time &gt; 0:
-		inc = (elapsed / time)*1
-		# RRRRRRRRRRRRR		
-		#print oldR
-		if oldR &gt; newR :
-			oldR -=inc
-							 
-			if add ==1:
-				modul8.setValue('ctrl_layer_color_additiveR',oldR,0)
-			elif add ==0:
-				modul8.setValue('ctrl_layer_color_modulateR',oldR,0)
+	<string>if animX and waveX:
+	tx = tx+elapsed*speedX*speed
+	modul8.setValue('direct_layer_transformer_patch_sinusX_offset',tx,0)
 
-				
-			if oldR &lt;= newR:
-				run1=0	
-				
-		elif oldR &lt; newR :
-			oldR +=inc
-			if add ==1:
-				modul8.setValue('ctrl_layer_color_additiveR',oldR,0)
-			elif add ==0:
-				modul8.setValue('ctrl_layer_color_modulateR',oldR,0)
-		
-			if oldR &gt;= newR:
-				run1=0
+if animY and waveY:
+	ty = ty+elapsed*speedY*speed
 
-
-if run2 :
-	if time &gt; 0:
-		inc = (elapsed / time)*1
-		# RRRRRRRRRRRRR		
-		#print oldG
-		if oldG &gt; newG :
-			oldG -=inc
-			if add==1:
-				modul8.setValue('ctrl_layer_color_additiveG',oldG,0)
-			elif add ==0:
-				modul8.setValue('ctrl_layer_color_modulateG',oldG,0)
-			if oldG &lt;= newG:
-				run2=0	
-					
-		elif oldG &lt; newG :
-			oldG +=inc
-			if add==1:
-				modul8.setValue('ctrl_layer_color_additiveG',oldG,0)
-			elif add==0:
-				modul8.setValue('ctrl_layer_color_modulateG',oldG,0)
-			if oldG &gt;= newG:
-				run2=0
-			
-if run3 :
-	if time &gt; 0:
-		# BBBBBBBBBBBBBBB		
-		#print oldB
-		inc = (elapsed / time)*1
-		if oldB &gt; newB :
-			oldB -=inc
-			if add==1:
-				modul8.setValue('ctrl_layer_color_additiveB',oldB,0)
-			elif add==0:
-				modul8.setValue('ctrl_layer_color_modulateB',oldB,0)
-			if oldB &lt;= newB:
-				run3 =0
-
-		
-		elif oldR &lt; newB :
-			oldB +=inc
-			if add==1:
-				modul8.setValue('ctrl_layer_color_additiveB',oldB,0)
-			elif add==0:
-				modul8.setValue('ctrl_layer_color_modulateB',oldB,0)
-			if oldB &gt;= newB:
-				run3=0
-	
-	
-</string>
+	modul8.setValue('direct_layer_transformer_patch_sinusY_offset',ty,0)</string>
 	<key>SCRIPT_SERIALIZE</key>
-	<string></string>
+	<string>try:
+	outDict['linkNumber'] = linkNumber
+	outDict['linkAmount'] = linkAmount
+	outDict['linkPhase'] = linkPhase
+	outDict['linkSpeed'] = linkSpeed
+	outDict['linkAnimation'] = linkAnimation
+	outDict['linkWave'] = linkWave
+	outDict['patchOn'] = patchOn
+	outDict['mulX'] = mulX
+	outDict['mulY'] = mulY
+	outDict['amountX'] = amountX
+	outDict['amountY'] = amountY
+	outDict['phaseX'] = phaseX
+	outDict['phaseY'] = phaseY
+	outDict['speedX'] = speedX
+	outDict['speedY'] = speedY
+	outDict['animX'] = animX
+	outDict['animY'] = animY
+	outDict['waveX'] = waveX
+	outDict['waveY'] = waveY
+
+except Exception,detail:
+	print detail
+
+
+
+</string>
 	<key>SHORT_DESCRIPTION</key>
-	<string>slow custom (additive) color picker (layer)</string>
+	<string>Add and Animate wave effect  for the Transformer Patch</string>
 	<key>VERSION</key>
-	<string>beta 0.4</string>
+	<string>1.0</string>
 	<key>WINDOW_HEIGHT</key>
-	<real>100</real>
+	<real>300</real>
 	<key>WINDOW_WIDTH</key>
-	<real>170</real>
+	<real>200</real>
 </dict>
 </plist>

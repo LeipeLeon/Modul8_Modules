@@ -128,7 +128,7 @@
 			<key>HEIGHT</key>
 			<real>480</real>
 			<key>HIDDEN</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
 			<false/>
 			<key>LISTBOX_INIT_MODE</key>
@@ -224,7 +224,7 @@
 			<key>HEIGHT</key>
 			<real>480</real>
 			<key>HIDDEN</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
 			<false/>
 			<key>LISTBOX_INIT_MODE</key>
@@ -897,9 +897,9 @@ Each iteration increases the distance from the center of the screen to the cente
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>334</real>
+		<real>853</real>
 		<key>WINDOW_Y</key>
-		<real>647</real>
+		<real>702</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

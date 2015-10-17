@@ -3788,7 +3788,7 @@ Version 1.0, 2015-05-25
 		<key>WINDOW_X</key>
 		<real>703</real>
 		<key>WINDOW_Y</key>
-		<real>878</real>
+		<real>728</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>print 'Finish'

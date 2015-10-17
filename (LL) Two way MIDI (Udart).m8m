@@ -3739,18 +3739,18 @@
 				</dict>
 			</array>
 			<key>(g3_ASCII)MIDIDevice</key>
-			<string>Maschine Controller - MIDI output port 0</string>
+			<string>Maschine Controller Virtual Output - Maschine Controller Virtual Output</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
 		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<true/>
 		<key>WINDOW_X</key>
-		<real>412</real>
+		<real>1213</real>
 		<key>WINDOW_Y</key>
-		<real>198</real>
+		<real>404</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>Defaults = {

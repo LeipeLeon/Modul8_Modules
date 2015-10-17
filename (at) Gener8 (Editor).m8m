@@ -11779,7 +11779,7 @@ Further documentation and help can be found at: http://collectedconsciousness.wo
 		<key>WINDOW_X</key>
 		<real>1181</real>
 		<key>WINDOW_Y</key>
-		<real>921</real>
+		<real>862</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>#print 'Editor - Finish()'

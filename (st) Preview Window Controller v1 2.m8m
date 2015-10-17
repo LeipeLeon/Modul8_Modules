@@ -5968,11 +5968,11 @@ V 1.1
 		<key>WINDOW_HIDDEN</key>
 		<false/>
 		<key>WINDOW_MINIMIZED</key>
-		<true/>
+		<false/>
 		<key>WINDOW_X</key>
-		<real>416</real>
+		<real>1069</real>
 		<key>WINDOW_Y</key>
-		<real>383</real>
+		<real>252</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

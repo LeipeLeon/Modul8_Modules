@@ -14,7 +14,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>21</real>
+			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -68,7 +68,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop1</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -110,7 +110,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>11</real>
+			<real>2</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -164,7 +164,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop2</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -206,7 +206,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>12</real>
+			<real>3</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -260,7 +260,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop3</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -302,7 +302,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>14</real>
+			<real>4</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -356,7 +356,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop4</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -398,7 +398,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>18</real>
+			<real>5</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -452,7 +452,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop5</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -510,7 +510,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>96.0546875</real>
+			<real>80.453125</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -548,7 +548,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop0</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -580,7 +580,7 @@
 			<key>X</key>
 			<real>296</real>
 			<key>Y</key>
-			<real>6</real>
+			<real>22</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -590,7 +590,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>116</real>
+			<real>6</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -644,7 +644,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop6</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -1152,7 +1152,7 @@
 			<key>UNIQUE_ID</key>
 			<integer>36</integer>
 			<key>WIDTH</key>
-			<real>281.4609375</real>
+			<real>119.47265625</real>
 			<key>X</key>
 			<real>9</real>
 			<key>Y</key>
@@ -1248,11 +1248,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>37</integer>
 			<key>WIDTH</key>
-			<real>152.04296875</real>
+			<real>119.67578125</real>
 			<key>X</key>
-			<real>80</real>
+			<real>8</real>
 			<key>Y</key>
-			<real>7</real>
+			<real>8</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1346,9 +1346,9 @@
 			<key>WIDTH</key>
 			<real>60</real>
 			<key>X</key>
-			<real>230</real>
+			<real>273</real>
 			<key>Y</key>
-			<real>7</real>
+			<real>9</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1358,7 +1358,7 @@
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>132</real>
+			<real>7</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -1412,7 +1412,7 @@
 			<key>MIN_FLOAT_VALUE_5</key>
 			<real>5.2635442471208903e-315</real>
 			<key>NAME</key>
-			<string>drop</string>
+			<string>drop7</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -1446,6 +1446,198 @@
 			<key>Y</key>
 			<real>66</real>
 		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>-</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>-1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>3.9845257152482021e-225</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.1125370580932098e-308</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>28.55078125</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>1.3957556864303751e-315</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>19100.886656268965</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>106.77445959480065</real>
+			<key>NAME</key>
+			<string>stepper</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>decrease</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>40</integer>
+			<key>WIDTH</key>
+			<real>36.796875</real>
+			<key>X</key>
+			<real>213</real>
+			<key>Y</key>
+			<real>9</real>
+		</dict>
+		<dict>
+			<key>AUTOSERIALIZE</key>
+			<integer>1</integer>
+			<key>CAPTION</key>
+			<string>+</string>
+			<key>CONTINOUS_MODE</key>
+			<false/>
+			<key>DEFAULT_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>DEFAULT_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>DEFAULT_FLOAT_VALUE_4</key>
+			<real>3.9845257152482021e-225</real>
+			<key>DEFAULT_FLOAT_VALUE_5</key>
+			<real>1.1125370580932098e-308</real>
+			<key>EXC_GROUP</key>
+			<string></string>
+			<key>GROUP</key>
+			<string></string>
+			<key>HEIGHT</key>
+			<real>28.55078125</real>
+			<key>HIDDEN</key>
+			<integer>0</integer>
+			<key>LINEFEED_MODE</key>
+			<false/>
+			<key>LISTBOX_INIT_MODE</key>
+			<string>INIT_WITH_STRING_LIST</string>
+			<key>LISTBOX_STRING_LIST</key>
+			<string></string>
+			<key>LISTBOX_VALUE_MODE</key>
+			<string>ABS_POSITION</string>
+			<key>LIVE_MODE</key>
+			<false/>
+			<key>MAX_FLOAT_VALUE_0</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_1</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_2</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_3</key>
+			<real>1</real>
+			<key>MAX_FLOAT_VALUE_4</key>
+			<real>0.0</real>
+			<key>MAX_FLOAT_VALUE_5</key>
+			<real>1.3957556864303751e-315</real>
+			<key>MIN_FLOAT_VALUE_0</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_1</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_2</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_3</key>
+			<real>0.0</real>
+			<key>MIN_FLOAT_VALUE_4</key>
+			<real>19100.886656268965</real>
+			<key>MIN_FLOAT_VALUE_5</key>
+			<real>106.77445959480065</real>
+			<key>NAME</key>
+			<string>stepper</string>
+			<key>PREVIEW_MEDIA_MODE</key>
+			<integer>0</integer>
+			<key>RADIUS_0</key>
+			<real>4</real>
+			<key>RADIUS_1</key>
+			<real>4</real>
+			<key>RADIUS_2</key>
+			<real>4</real>
+			<key>RADIUS_3</key>
+			<real>4</real>
+			<key>SCRIPT_MESSAGE</key>
+			<string>increase</string>
+			<key>SELECTED</key>
+			<false/>
+			<key>SHAPE_DOTS</key>
+			<true/>
+			<key>TEXT_ALIGNEMENT</key>
+			<string>LEFT</string>
+			<key>TOGGLE_MODE</key>
+			<false/>
+			<key>TYPE</key>
+			<string>BUTTON</string>
+			<key>UI_MAPS</key>
+			<array/>
+			<key>UNIQUE_ID</key>
+			<integer>41</integer>
+			<key>WIDTH</key>
+			<real>36.796875</real>
+			<key>X</key>
+			<real>254</real>
+			<key>Y</key>
+			<real>9</real>
+		</dict>
 	</array>
 	<key>DESCRIPTION</key>
 	<string>Inspired by #teamyolo
@@ -1460,13 +1652,15 @@ Used by:
 More info/bug reports:
 leipeleon@gmail.com, https://www.facebook.com/leipeleon
 
+Version 1.1, 2015-05-30
+- increase/decrease buttons
 Version 1.0, 2015-05-25
 - initial release
 </string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>39</integer>
+	<integer>41</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
 	<false/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
@@ -1486,9 +1680,9 @@ Version 1.0, 2015-05-25
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>406</real>
+		<real>400</real>
 		<key>WINDOW_Y</key>
-		<real>87</real>
+		<real>150</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -1503,12 +1697,13 @@ Version 1.0, 2015-05-25
 
 sharedDict = module.getSharedDictionary()
 
-doFlash = False
+isFlashing = False
 flashType = 1
 
 previousBlinkNumber = -1
-speedDict = {'21':128, '11':64, '12':32, '14':16, '18':8, '116':4, '132':2,'0': 0}
-speedDictKey = '0'
+#speedDict = {'1':128, '11':64, '12':32, '14':16, '18':8, '116':4, '132':2,'0': 0}
+speedDict = [0,128, 64, 32, 16, 8, 4, 2]
+speedDictKey = 0
 currentColor = [1,1,1]
 offset = 0
 inFlash = 0
@@ -1568,7 +1763,22 @@ def invert(state):
 			modul8.setValue('ctrl_master_invColorB',1,0)
 	else:
 		resetColor()
-	
+
+def doFlash(speed):
+	global buttonBeatPosition, speedDictKey, isFlashing, inFlashCounter, inFlash
+	buttonBeatPosition = sharedDict['BMP_POSITION']
+	speedDictKey = speed
+	isFlashing = True
+	if not module.getValue('quantize',0):
+		inFlashCounter = 0
+		inFlash = 1
+		
+def resetFlash():
+	global isFlashing
+	isFlashing = False
+	flash(0)
+	invert(0)						
+		
 def checkSharedDict():
 	if 'currentColor' in sharedDict:
 		module.setAttribute('useGlobalColor', 'HIDDEN', 0)
@@ -1580,32 +1790,41 @@ checkSharedDict()
 	<key>SCRIPT_KEYWORDEVENT</key>
 	<string></string>
 	<key>SCRIPT_MESSAGE</key>
-	<string>if param['NAME'] == 'drop':
+	<string>if param['NAME'][0:4] == 'drop':
 	if param['value'] &lt; 0.0:
-		doFlash = False # NOOP
+		isFlashing = False # NOOP
 	elif param['value'] == 0.0:
-		doFlash = False
-		flash(0)
-		invert(0)						
+		resetFlash()
 	elif param['value'] &gt; 0.0:
-		buttonBeatPosition = sharedDict['BMP_POSITION']
-		speedDictKey = str(int(param['value']))
-		doFlash = True
-		if not module.getValue('quantize',0):
-			inFlashCounter = 0
-			inFlash = 1
+		doFlash(int(param['value']))
+		
+elif param['NAME'] == 'stepper' and param['value'] != 0.0:
+	print speedDictKey, int(param['value'])
+
+	module.setValue('drop'+str(speedDictKey), 0, 0)
+	speedDictKey = speedDictKey + int(param['value'])
+	if speedDictKey == 8 or speedDictKey == -1:
+		speedDictKey = 0
+		resetFlash()
+	else:
+		doFlash(speedDictKey)
+	module.setValue('drop'+str(speedDictKey), 0, 1)
+	print speedDictKey
+	
 
 elif msg == 'flashType':
 	flashType = param['value']
 else:
 	print msg, param
-	</string>
+	
+#print speedDictKey
+</string>
 	<key>SCRIPT_PAUSEEVENT</key>
 	<string>flash(0)
 invert(0)
 </string>
 	<key>SCRIPT_PERIODICAL</key>
-	<string>if doFlash:
+	<string>if isFlashing:
 	if shouldStartFlash() and not inFlash:
 		inFlash = 1
 
@@ -1636,7 +1855,7 @@ if fpsTime &gt; 1:
 	<key>SHORT_DESCRIPTION</key>
 	<string>Flash to the BPM, #YOLO style</string>
 	<key>VERSION</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>WINDOW_HEIGHT</key>
 	<real>130</real>
 	<key>WINDOW_WIDTH</key>

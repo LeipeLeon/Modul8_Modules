@@ -2711,7 +2711,7 @@ Fix Phase error</string>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
 	<true/>
 	<key>MODULE_TITLEBAR_B</key>
-	<real>0.20392158627510071</real>
+	<real>0.20392157137393951</real>
 	<key>MODULE_TITLEBAR_G</key>
 	<real>0.13333334028720856</real>
 	<key>MODULE_TITLEBAR_R</key>
@@ -2728,15 +2728,15 @@ Fix Phase error</string>
 			<string>(g3_INT)0</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
 		<false/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>204</real>
+		<real>200</real>
 		<key>WINDOW_Y</key>
-		<real>176</real>
+		<real>32</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>

@@ -22923,7 +22923,7 @@ Thanks to A1's Media Set Controller module for showing me that this was even pos
 		<key>WINDOW_X</key>
 		<real>-1</real>
 		<key>WINDOW_Y</key>
-		<real>1162</real>
+		<real>862</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>module.setDefaults ( {'presetList': presetList,'presetsNames': presetsNames} )</string>

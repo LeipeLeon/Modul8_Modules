@@ -130,7 +130,7 @@
 		<key>WINDOW_X</key>
 		<real>0.0</real>
 		<key>WINDOW_Y</key>
-		<real>200</real>
+		<real>360</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

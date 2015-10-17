@@ -2166,9 +2166,9 @@ v3.0 Additional sharedDict libraries for other modules, smaller footprint, doubl
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>420</real>
+		<real>702</real>
 		<key>WINDOW_Y</key>
-		<real>294</real>
+		<real>68</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>

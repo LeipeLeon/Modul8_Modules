@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>AUTHOR</key>
-	<string></string>
+	<string>Looptid Visuals</string>
 	<key>CONTROLS</key>
 	<array>
 		<dict>
 			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>CAPTION</key>
-			<string>Untitled</string>
+			<string>PARTAAAYYYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!! GO JEREMY COOPER!</string>
 			<key>CONTINOUS_MODE</key>
 			<false/>
 			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
+			<real>1</real>
 			<key>DEFAULT_FLOAT_VALUE_1</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_2</key>
@@ -22,15 +22,15 @@
 			<key>DEFAULT_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>4.1529087650672215e+18</real>
+			<real>4.2279187400162815e-307</real>
 			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.0616580960548357e+18</real>
+			<real>1.4463463895337153e-307</real>
 			<key>EXC_GROUP</key>
 			<string></string>
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>456</real>
+			<real>669</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -52,9 +52,9 @@
 			<key>MAX_FLOAT_VALUE_3</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_4</key>
-			<real>0.0</real>
+			<real>4.2279187400162815e-307</real>
 			<key>MAX_FLOAT_VALUE_5</key>
-			<real>0.0</real>
+			<real>1.4463463895337153e-307</real>
 			<key>MIN_FLOAT_VALUE_0</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_1</key>
@@ -64,11 +64,11 @@
 			<key>MIN_FLOAT_VALUE_3</key>
 			<real>0.0</real>
 			<key>MIN_FLOAT_VALUE_4</key>
-			<real>0.0</real>
+			<real>4.2279187400162815e-307</real>
 			<key>MIN_FLOAT_VALUE_5</key>
-			<real>0.0</real>
+			<real>1.4463463895337153e-307</real>
 			<key>NAME</key>
-			<string>listOfMedia</string>
+			<string>Untitled</string>
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
@@ -80,7 +80,7 @@
 			<key>RADIUS_3</key>
 			<real>4</real>
 			<key>SCRIPT_MESSAGE</key>
-			<string>setMedia</string>
+			<string>gobut</string>
 			<key>SELECTED</key>
 			<false/>
 			<key>SHAPE_DOTS</key>
@@ -90,31 +90,31 @@
 			<key>TOGGLE_MODE</key>
 			<false/>
 			<key>TYPE</key>
-			<string>LISTBOX</string>
+			<string>BUTTON</string>
 			<key>UI_MAPS</key>
 			<array/>
 			<key>UNIQUE_ID</key>
-			<integer>1</integer>
+			<integer>4</integer>
 			<key>WIDTH</key>
-			<real>199</real>
+			<real>692</real>
 			<key>X</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>Y</key>
-			<real>1</real>
+			<real>5</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string></string>
+	<string>This is the most important module you will ever use. It skips to a random frame in the clip. Hit it. Hit it a lot. Hit it even more and you will succeed as a VJ. Use it on short clips for glitchy effects, use it on long clips and make it look like you're working way harder than you are; like a VJ should. This module has a large surface area which means it's that freakin' important. Trust me. Trust it. Trust only this module.</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
-	<integer>3</integer>
+	<integer>14</integer>
 	<key>MODULE_LAYER_CONTEXTUAL</key>
-	<false/>
+	<true/>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
 	<true/>
 	<key>MODULE_TITLEBAR_B</key>
-	<real>0.20392158627510071</real>
+	<real>0.20392157137393951</real>
 	<key>MODULE_TITLEBAR_G</key>
 	<real>0.13333334028720856</real>
 	<key>MODULE_TITLEBAR_R</key>
@@ -122,15 +122,15 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>STOPPED</string>
+		<string>PLAYING</string>
 		<key>WINDOW_HIDDEN</key>
 		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>436</real>
+		<real>1106</real>
 		<key>WINDOW_Y</key>
-		<real>862</real>
+		<real>162</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -139,85 +139,31 @@
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>#
-focusLayerPos = modul8.getValue('ctrl_layerStack_focusPosition',0)
-feedbackLock = False
-listOfMedia = []
-
-#
-
-
-#Methods
-def updateListOfmedia() :
-	global listOfMedia
-	
-	listOfMediaNew = modul8.getValue('info_media_names',0)
-	if listOfMediaNew != listOfMedia :
-		
-		listOfMedia = listOfMediaNew
-		module.setAttribute('listOfMedia','TEXTLIST', listOfMedia)
-					
-def updateSelection():
-	selection = modul8.getValue ('ctrl_layer_media',0)
-	if selection &lt; 127 :
-			
-		module.setValue ('listOfMedia', 0, selection)
-	else :
-		module.setValue ('listOfMedia', 0, 999)
-#
-
-#INIT
-updateListOfmedia()
-updateSelection()
-#
-</string>
+	<string>import random
+x = 0</string>
 	<key>SCRIPT_KEYWORDEVENT</key>
-	<string>if not feedbackLock :
-
-	if keyword == 'direct_media_change' :
-		
-		updateListOfmedia()
-	
-
-	elif keyword == 'ctrl_layerStack_focusPosition' :
-		
-		focusLayerPos = param
-		updateSelection()
-	
-	elif keyword == 'ctrl_layer_media' and layer ==  focusLayerPos :
-		
-		updateSelection()
-		
-		
-		
-		
-		
-		
-		
-		</string>
+	<string></string>
 	<key>SCRIPT_MESSAGE</key>
-	<string>if msg == 'setMedia':
-	feedbackLock = True
-	
-	modul8.setValue('ctrl_layer_media',int(param['selection']),0)
-	
-	feedbackLock = False</string>
+	<string>if msg == 'gobut' :
+	if param['value'] :
+		x += 1
+		print x
+		random.seed(x)
+		value = random.random()
+		modul8.setValue ('ctrl_layer_movie_shuttle2',value, 0)</string>
 	<key>SCRIPT_PAUSEEVENT</key>
-	<string>if  paused == 0 : 
-	updateListOfmedia()
-	focusLayerPos = modul8.getValue('ctrl_layerStack_focusPosition',0)
-	updateSelection()</string>
+	<string></string>
 	<key>SCRIPT_PERIODICAL</key>
 	<string></string>
 	<key>SCRIPT_SERIALIZE</key>
 	<string></string>
 	<key>SHORT_DESCRIPTION</key>
-	<string></string>
+	<string>PARTYPARTYPARTYPARTY? PARTY!</string>
 	<key>VERSION</key>
-	<string></string>
+	<string>ALPHA RELEASE 2.67</string>
 	<key>WINDOW_HEIGHT</key>
-	<real>480</real>
+	<real>700</real>
 	<key>WINDOW_WIDTH</key>
-	<real>200</real>
+	<real>700</real>
 </dict>
 </plist>
