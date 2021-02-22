@@ -200,7 +200,8 @@
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
-	<string>Compatible since Modul8 version 2.7  </string>
+	<string>v1.1.1 -&gt; update for compatibility modul8 HD (version 3.0)
+Module compatible since Modul8 version 2.7  </string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
@@ -224,9 +225,9 @@
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>69</real>
+		<real>52</real>
 		<key>WINDOW_Y</key>
-		<real>612</real>
+		<real>611</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -235,15 +236,20 @@
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>#Syphon input module ©Garagecube SA 2012
+	<string>#Syphon input module ©Garagecube SA - 2012-2016
 
 global serverDict, syphonList
 
-autorizeFeedBack = True
+autorizeFeedBack = False
 
 syphonList = []
 serverDict = {}
 polCounter = 0
+
+if modul8.getValue ('info_version',0) &gt;= 3.0 : #v3 fix
+	syphonMediaId = 1024
+else :
+	syphonMediaId = 128
 
 
 def updateSyphonList () :
@@ -278,7 +284,7 @@ def updateSyphonList () :
 		
 def updateSelection () :
 	
-	if modul8.getValue ('ctrl_layer_media',0) == 128 :
+	if modul8.getValue ('ctrl_layer_media',0) == syphonMediaId :
 		syphon = modul8.getValue('direct_layer_syphon_input',0)
 		syphonSelect = syphon[0] + ' - ' + syphon[1]
 		module.setValue('syphonList','selection', syphonSelect)
@@ -313,9 +319,9 @@ elif keyword == 'ctrl_layerStack_focusPosition' :
 		modul8.setValue ('direct_layer_syphon_input',[appName, name],0)
 	
 		#auto syphon select
-		if modul8.getValue ('ctrl_layer_media',0) != 128 :
-			modul8.setValue ('ctrl_layer_media',128,0)
-			modul8.setValue ('ctrl_layer_mediaSet',8,0)</string>
+		if modul8.getValue ('ctrl_layer_media',0) != syphonMediaId :
+			modul8.setValue ('ctrl_layer_media', syphonMediaId,0)
+			if modul8.getValue ('info_version',0) &lt; 3.0 : modul8.setValue ('ctrl_layer_mediaSet',8,0)</string>
 	<key>SCRIPT_PAUSEEVENT</key>
 	<string></string>
 	<key>SCRIPT_PERIODICAL</key>
@@ -332,7 +338,7 @@ if polCounter &gt; 1 : #every second
 	<key>SHORT_DESCRIPTION</key>
 	<string>Select a Syphon source</string>
 	<key>VERSION</key>
-	<string>1.0</string>
+	<string>1.1.1</string>
 	<key>WINDOW_HEIGHT</key>
 	<real>250</real>
 	<key>WINDOW_WIDTH</key>

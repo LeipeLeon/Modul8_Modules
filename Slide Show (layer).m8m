@@ -1868,7 +1868,7 @@
 			<key>LIVE_MODE</key>
 			<false/>
 			<key>MAX_FLOAT_VALUE_0</key>
-			<real>131</real>
+			<real>1023</real>
 			<key>MAX_FLOAT_VALUE_1</key>
 			<real>1</real>
 			<key>MAX_FLOAT_VALUE_2</key>
@@ -2793,8 +2793,10 @@
 	</array>
 	<key>DESCRIPTION</key>
 	<string>With this module you can create a slideshow for each layer of your composition.
+v1.1.0 -&gt; update for compatibility modul8 v3.0
 v1.0.2 -&gt; fix a problem with the playback  mode when you open a project.
-v1.0.3 -&gt; fix a problem with the "wait movie" fonctionality</string>
+v1.0.3 -&gt; fix a problem with the "wait movie" fonctionality
+</string>
 	<key>MODULE_AUTOFLUSH</key>
 	<false/>
 	<key>MODULE_CONTROL_ID_COUNTER</key>
@@ -2804,7 +2806,7 @@ v1.0.3 -&gt; fix a problem with the "wait movie" fonctionality</string>
 	<key>MODULE_RESETDIRECTKEY_PAUSED</key>
 	<true/>
 	<key>MODULE_TITLEBAR_B</key>
-	<real>0.20392158627510071</real>
+	<real>0.20392157137393951</real>
 	<key>MODULE_TITLEBAR_G</key>
 	<real>0.13333334028720856</real>
 	<key>MODULE_TITLEBAR_R</key>
@@ -2818,9 +2820,9 @@ v1.0.3 -&gt; fix a problem with the "wait movie" fonctionality</string>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>848</real>
+		<real>16</real>
 		<key>WINDOW_Y</key>
-		<real>602</real>
+		<real>469</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -3045,13 +3047,16 @@ elif msg == 'previousMedia' and param['value'] :
 						currentMediaNum = ctrl_mediaMax
 						modul8.setValue ('ctrl_layer_media', currentMediaNum,0)
 						
-					mediaSet = int (currentMediaNum/16) 
-					if modul8.getValue ('ctrl_layer_mediaSet',0) != mediaSet :
-						modul8.setValue ('ctrl_layer_mediaSet', mediaSet,0)
-					
+					if modul8.getValue ('info_version',0) &gt;= 3.0 : #compatibility modul8 v3
+						pass 
+					else : 
+						mediaSet = int (currentMediaNum/16) 
+						if modul8.getValue ('ctrl_layer_mediaSet',0) != mediaSet :
+							modul8.setValue ('ctrl_layer_mediaSet', mediaSet,0)					
 					
 				elif ctrl_playMode == 2 :
 					currentMediaNum += 1
+					
 					
 					if currentMediaNum &lt;= ctrl_mediaMax and currentMediaNum &gt;= ctrl_mediaMin:
 						modul8.setValue ('ctrl_layer_media', currentMediaNum,0)
@@ -3059,18 +3064,24 @@ elif msg == 'previousMedia' and param['value'] :
 						currentMediaNum = ctrl_mediaMin
 						modul8.setValue ('ctrl_layer_media', currentMediaNum,0)
 					
-					mediaSet = int (currentMediaNum/16) 
-					if modul8.getValue ('ctrl_layer_mediaSet',0) != mediaSet :
-						modul8.setValue ('ctrl_layer_mediaSet', mediaSet,0)
+												
+					if modul8.getValue ('info_version',0) &gt;= 3.0 : #compatibility modul8 v3
+						pass 
+					else : 
+						mediaSet = int (currentMediaNum/16) 
+						if modul8.getValue ('ctrl_layer_mediaSet',0) != mediaSet :
+							modul8.setValue ('ctrl_layer_mediaSet', mediaSet,0)
 				
 				elif ctrl_playMode == 3 : #random
 					currentMediaNum = randint(ctrl_mediaMin,ctrl_mediaMax)
 					modul8.setValue ('ctrl_layer_media', currentMediaNum,0)
 					
-					mediaSet = int (currentMediaNum/16) 
-					if modul8.getValue ('ctrl_layer_mediaSet',0) != mediaSet :
-						modul8.setValue ('ctrl_layer_mediaSet', mediaSet,0)
-	
+					if modul8.getValue ('info_version',0) &gt;= 3.0 : #compatibility modul8 v3
+						pass 
+					else : 
+						mediaSet = int (currentMediaNum/16) 
+						if modul8.getValue ('ctrl_layer_mediaSet',0) != mediaSet :
+							modul8.setValue ('ctrl_layer_mediaSet', mediaSet,0)	
 	else :
 		waitMoveSynch += elapsed #fix 1.0.3
 			
@@ -3083,7 +3094,7 @@ elif msg == 'previousMedia' and param['value'] :
 	<key>SHORT_DESCRIPTION</key>
 	<string>Create a slideshow for each layer of your composition.</string>
 	<key>VERSION</key>
-	<string>1.0.3</string>
+	<string>1.1.0</string>
 	<key>WINDOW_HEIGHT</key>
 	<real>260</real>
 	<key>WINDOW_WIDTH</key>

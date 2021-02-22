@@ -172,9 +172,9 @@
 			<key>RADIUS_1</key>
 			<real>0.0</real>
 			<key>RADIUS_2</key>
-			<real>23.617021560668945</real>
+			<real>0.0</real>
 			<key>RADIUS_3</key>
-			<real>22.978723526000977</real>
+			<real>0.0</real>
 			<key>SCRIPT_MESSAGE</key>
 			<string></string>
 			<key>SELECTED</key>
@@ -840,9 +840,9 @@
 			<key>PREVIEW_MEDIA_MODE</key>
 			<integer>0</integer>
 			<key>RADIUS_0</key>
-			<real>22.978723526000977</real>
+			<real>0.0</real>
 			<key>RADIUS_1</key>
-			<real>24.255319595336914</real>
+			<real>0.0</real>
 			<key>RADIUS_2</key>
 			<real>0.0</real>
 			<key>RADIUS_3</key>
@@ -964,7 +964,7 @@
 			<key>X</key>
 			<real>10</real>
 			<key>Y</key>
-			<real>297</real>
+			<real>294</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -990,7 +990,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>46</real>
+			<real>60.4691162109375</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -998,7 +998,7 @@
 			<key>LISTBOX_INIT_MODE</key>
 			<string>INIT_WITH_STRING_LIST</string>
 			<key>LISTBOX_STRING_LIST</key>
-			<string>NORMAL,DARK LUMA,EXCLUSION,TEST,TEST2</string>
+			<string>NORMAL,ADDITIVE,DARK LUMA,EXCLUSION</string>
 			<key>LISTBOX_VALUE_MODE</key>
 			<string>TEXT</string>
 			<key>LIVE_MODE</key>
@@ -1056,11 +1056,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>90</integer>
 			<key>WIDTH</key>
-			<real>105</real>
+			<real>100.13204956054688</real>
 			<key>X</key>
-			<real>49</real>
+			<real>50</real>
 			<key>Y</key>
-			<real>241</real>
+			<real>240</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1086,7 +1086,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>33</real>
+			<real>28.296875</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -1203,11 +1203,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>92</integer>
 			<key>WIDTH</key>
-			<real>33</real>
+			<real>28.296875</real>
 			<key>X</key>
 			<real>9</real>
 			<key>Y</key>
-			<real>242</real>
+			<real>241</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -1547,102 +1547,6 @@
 			<real>5</real>
 			<key>Y</key>
 			<real>56</real>
-		</dict>
-		<dict>
-			<key>AUTOSERIALIZE</key>
-			<integer>0</integer>
-			<key>CAPTION</key>
-			<string>ink</string>
-			<key>CONTINOUS_MODE</key>
-			<false/>
-			<key>DEFAULT_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>DEFAULT_FLOAT_VALUE_4</key>
-			<real>4.4189547314931757e+27</real>
-			<key>DEFAULT_FLOAT_VALUE_5</key>
-			<real>4.4095431381031648e+24</real>
-			<key>EXC_GROUP</key>
-			<string></string>
-			<key>GROUP</key>
-			<string></string>
-			<key>HEIGHT</key>
-			<real>10</real>
-			<key>HIDDEN</key>
-			<integer>0</integer>
-			<key>LINEFEED_MODE</key>
-			<false/>
-			<key>LISTBOX_INIT_MODE</key>
-			<string>INIT_WITH_STRING_LIST</string>
-			<key>LISTBOX_STRING_LIST</key>
-			<string></string>
-			<key>LISTBOX_VALUE_MODE</key>
-			<string>ABS_POSITION</string>
-			<key>LIVE_MODE</key>
-			<false/>
-			<key>MAX_FLOAT_VALUE_0</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_1</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_2</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_3</key>
-			<real>1</real>
-			<key>MAX_FLOAT_VALUE_4</key>
-			<real>2.7993234954369714e-38</real>
-			<key>MAX_FLOAT_VALUE_5</key>
-			<real>2.7993145271267997e-38</real>
-			<key>MIN_FLOAT_VALUE_0</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_1</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_2</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_3</key>
-			<real>0.0</real>
-			<key>MIN_FLOAT_VALUE_4</key>
-			<real>-1.2045291376638729e-18</real>
-			<key>MIN_FLOAT_VALUE_5</key>
-			<real>2.7992876221962847e-38</real>
-			<key>NAME</key>
-			<string>Untitled</string>
-			<key>PREVIEW_MEDIA_MODE</key>
-			<integer>0</integer>
-			<key>RADIUS_0</key>
-			<real>4</real>
-			<key>RADIUS_1</key>
-			<real>4</real>
-			<key>RADIUS_2</key>
-			<real>4</real>
-			<key>RADIUS_3</key>
-			<real>4</real>
-			<key>SCRIPT_MESSAGE</key>
-			<string></string>
-			<key>SELECTED</key>
-			<false/>
-			<key>SHAPE_DOTS</key>
-			<true/>
-			<key>TEXT_ALIGNEMENT</key>
-			<string>LEFT</string>
-			<key>TOGGLE_MODE</key>
-			<false/>
-			<key>TYPE</key>
-			<string>CAPTIONG</string>
-			<key>UI_MAPS</key>
-			<array/>
-			<key>UNIQUE_ID</key>
-			<integer>121</integer>
-			<key>WIDTH</key>
-			<real>36</real>
-			<key>X</key>
-			<real>91</real>
-			<key>Y</key>
-			<real>297</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -7599,7 +7503,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>33</real>
+			<real>28.888015747070312</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -7665,7 +7569,7 @@
 			<key>UNIQUE_ID</key>
 			<integer>91</integer>
 			<key>WIDTH</key>
-			<real>33</real>
+			<real>28.888015747070312</real>
 			<key>X</key>
 			<real>161</real>
 			<key>Y</key>
@@ -7763,9 +7667,9 @@
 			<key>WIDTH</key>
 			<real>18</real>
 			<key>X</key>
-			<real>168</real>
+			<real>166</real>
 			<key>Y</key>
-			<real>281</real>
+			<real>280</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -7861,7 +7765,7 @@
 			<key>X</key>
 			<real>163</real>
 			<key>Y</key>
-			<real>298</real>
+			<real>295</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -7887,7 +7791,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>11</real>
+			<real>19.859466552734375</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -8004,11 +7908,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>102</integer>
 			<key>WIDTH</key>
-			<real>89</real>
+			<real>88.558029174804688</real>
 			<key>X</key>
-			<real>105</real>
+			<real>106</real>
 			<key>Y</key>
-			<real>320</real>
+			<real>319</real>
 		</dict>
 		<dict>
 			<key>AUTOSERIALIZE</key>
@@ -8034,7 +7938,7 @@
 			<key>GROUP</key>
 			<string></string>
 			<key>HEIGHT</key>
-			<real>11</real>
+			<real>19.0751953125</real>
 			<key>HIDDEN</key>
 			<integer>0</integer>
 			<key>LINEFEED_MODE</key>
@@ -8151,11 +8055,11 @@
 			<key>UNIQUE_ID</key>
 			<integer>100</integer>
 			<key>WIDTH</key>
-			<real>89</real>
+			<real>88.056549072265625</real>
 			<key>X</key>
 			<real>5</real>
 			<key>Y</key>
-			<real>320</real>
+			<real>319</real>
 		</dict>
 	</array>
 	<key>DESCRIPTION</key>
@@ -8177,15 +8081,15 @@
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1478</real>
+		<real>846</real>
 		<key>WINDOW_Y</key>
-		<real>112</real>
+		<real>196</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string></string>
@@ -8211,7 +8115,7 @@
 	<key>SCRIPT_EVENT</key>
 	<string></string>
 	<key>SCRIPT_INIT</key>
-	<string>#© 2006, GARAGECUBE 
+	<string>#© 2006-2018, GARAGECUBE SA
 
 masterspeed = modul8.getValue ('ctrl_master_speed',0)
 
@@ -8288,11 +8192,11 @@ elif msg == 'ink' :
 		modul8.setValue ('direct_globalMask_surfaceBlend_Src','INV_DST_COLOR',0)
 		modul8.setValue ('direct_globalMask_surfaceBlend_Dest','INV_SRC_COLOR',0)
 		
-	elif param['selection'] == 'TEST' :
-		modul8.setValue ('direct_globalMask_surfaceBlend_Src','INV_DST_COLOR',0)
-		modul8.setValue ('direct_globalMask_surfaceBlend_Dest','INV_SRC_ALPHA',0)
+	elif param['selection'] == 'ADDITIVE' :
+		modul8.setValue ('direct_globalMask_surfaceBlend_Src','SRC_ALPHA',0)
+		modul8.setValue ('direct_globalMask_surfaceBlend_Dest','ONE',0)
 	
-	elif param['selection'] == 'TEST2' :
+	elif param['selection'] == 'TEST' :
 		modul8.setValue ('direct_globalMask_surfaceBlend_Src','SRC_COLOR',0)
 		modul8.setValue ('direct_globalMask_surfaceBlend_Dest','INV_SRC_ALPHA',0)
 	

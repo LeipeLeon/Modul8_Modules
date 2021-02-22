@@ -64539,15 +64539,15 @@ V1.5 fix some serializations problems, with files projects and layers duplicatio
 	<key>PREFERENCES</key>
 	<dict>
 		<key>SCRIPT_STATE</key>
-		<string>PLAYING</string>
+		<string>STOPPED</string>
 		<key>WINDOW_HIDDEN</key>
-		<false/>
+		<true/>
 		<key>WINDOW_MINIMIZED</key>
 		<false/>
 		<key>WINDOW_X</key>
-		<real>1209</real>
+		<real>600</real>
 		<key>WINDOW_Y</key>
-		<real>17</real>
+		<real>441</real>
 	</dict>
 	<key>SCRIPT_CLEANUP</key>
 	<string>
