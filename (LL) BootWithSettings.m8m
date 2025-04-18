@@ -156,7 +156,7 @@ modul8.setValue('ctrl_ui_previewWindowMode', 6, -1)
 
 # When it's a new project set the testcard as default image
 if modul8.getValue('info_projectName',-1) == 'untitled project' :
-  modul8.setValue('ctrl_layer_media', 129, 0)
+  modul8.setValue('ctrl_layer_media', 1032, 0)
 </string>
 	<key>SCRIPT_KEYWORDEVENT</key>
 	<string></string>
