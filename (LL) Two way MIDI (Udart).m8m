@@ -3739,7 +3739,7 @@
 				</dict>
 			</array>
 			<key>(g3_ASCII)MIDIDevice</key>
-			<string>Maschine Controller Virtual Output - Maschine Controller Virtual Output</string>
+			<string>IAC Driver - Bus 1</string>
 		</dict>
 		<key>SCRIPT_STATE</key>
 		<string>PLAYING</string>
